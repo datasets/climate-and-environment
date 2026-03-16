@@ -138,12 +138,13 @@
   "views": [
     {
       "name": "boundary-status",
-      "title": "Planetary Boundary Status (ratio to safe limit)",
+      "title": "Planetary Boundary Status (ratio to safe limit; excludes Novel Entities where safe limit = 0)",
       "resources": ["boundaries"],
       "specType": "vega-lite",
       "spec": {
         "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
         "transform": [
+          {"filter": "datum.boundary_value !== 0"},
           {"calculate": "datum.current_value / datum.boundary_value", "as": "ratio"},
           {"calculate": "datum.boundary_exceeded === 'true' ? 'Exceeded' : 'Within safe zone'", "as": "status"}
         ],
