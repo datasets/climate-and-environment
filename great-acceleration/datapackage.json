@@ -1,0 +1,213 @@
+{
+  "name": "great-acceleration",
+  "title": "The Great Acceleration: Trajectory of the Anthropocene",
+  "description": "24 indicators of the Great Acceleration — the dramatic, post-1950 surge in human activity and its impact on Earth systems. Compiled by the International Geosphere-Biosphere Programme (IGBP) and Stockholm Resilience Centre. Data cover 12 socioeconomic trends (population, GDP, energy use, etc.) and 12 Earth system trends (CO₂, temperature, ocean acidification, etc.) from 1750 to ~2010.",
+  "homepage": "https://journals.sagepub.com/doi/full/10.1177/2053019614564785",
+  "version": "1.0.0",
+  "licenses": [
+    {
+      "name": "CC-BY-4.0",
+      "path": "https://creativecommons.org/licenses/by/4.0/",
+      "title": "Creative Commons Attribution 4.0 International"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Steffen et al. 2015",
+      "path": "https://journals.sagepub.com/doi/full/10.1177/2053019614564785",
+      "title": "The Trajectory of the Anthropocene: The Great Acceleration, The Anthropocene Review, 2015"
+    },
+    {
+      "name": "IGBP Great Acceleration data collection",
+      "path": "http://www.igbp.net/globalchange/greatacceleration.4.1b8ae20512db692f2a680001630.html",
+      "title": "International Geosphere-Biosphere Programme (IGBP) — Great Acceleration data (October 2014)"
+    }
+  ],
+  "contributors": [
+    {
+      "title": "Will Steffen",
+      "role": "author"
+    },
+    {
+      "title": "Wendy Broadgate",
+      "role": "author"
+    },
+    {
+      "title": "Lisa Deutsch",
+      "role": "author"
+    },
+    {
+      "title": "Owen Gaffney",
+      "role": "author"
+    },
+    {
+      "title": "Cornelia Ludwig",
+      "role": "author"
+    }
+  ],
+  "resources": [
+    {
+      "name": "socioeconomic",
+      "path": "data/socioeconomic.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "description": "12 socioeconomic indicators tracking human activity since 1750. Where available, data are split by OECD countries, BRICS countries (Brazil, Russia, India, China, South Africa), and the rest of the world. Indicators cover population, economic activity, energy, water, agriculture, trade, and communications.",
+      "schema": {
+        "fields": [
+          {
+            "name": "year",
+            "type": "integer",
+            "description": "Year of observation"
+          },
+          {
+            "name": "indicator_id",
+            "type": "string",
+            "description": "Machine-readable indicator identifier (e.g. 'population', 'real-gdp')"
+          },
+          {
+            "name": "indicator",
+            "type": "string",
+            "description": "Human-readable indicator name"
+          },
+          {
+            "name": "unit",
+            "type": "string",
+            "description": "Unit of measurement for the value columns"
+          },
+          {
+            "name": "world",
+            "type": "number",
+            "description": "Global total value. Always present when data exists for a given year."
+          },
+          {
+            "name": "oecd",
+            "type": "number",
+            "description": "Value for OECD member countries (as of 2010, membership carried back in time). Null if regional split not available."
+          },
+          {
+            "name": "brics",
+            "type": "number",
+            "description": "Value for BRICS countries (Brazil, Russia, India, China, South Africa). Null if regional split not available."
+          },
+          {
+            "name": "rest",
+            "type": "number",
+            "description": "Value for all other countries (World minus OECD minus BRICS). Null if regional split not available."
+          }
+        ]
+      }
+    },
+    {
+      "name": "earth-system",
+      "path": "data/earth-system.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "description": "12 Earth system indicators tracking planetary response to human activity since 1750. Covers atmospheric composition, climate, ocean chemistry, and biosphere state. No regional splits — all values are global.",
+      "schema": {
+        "fields": [
+          {
+            "name": "year",
+            "type": "integer",
+            "description": "Year of observation"
+          },
+          {
+            "name": "indicator_id",
+            "type": "string",
+            "description": "Machine-readable indicator identifier (e.g. 'co2', 'temperature')"
+          },
+          {
+            "name": "indicator",
+            "type": "string",
+            "description": "Human-readable indicator name"
+          },
+          {
+            "name": "unit",
+            "type": "string",
+            "description": "Unit of measurement"
+          },
+          {
+            "name": "value",
+            "type": "number",
+            "description": "Observed value in the specified unit"
+          }
+        ]
+      }
+    }
+  ],
+  "views": [
+    {
+      "name": "co2-concentration",
+      "title": "Atmospheric CO₂ Concentration (1750–2013)",
+      "resources": ["earth-system"],
+      "specType": "vega-lite",
+      "spec": {
+        "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+        "transform": [
+          {"filter": "datum.indicator_id === 'co2'"}
+        ],
+        "mark": {"type": "line", "color": "#e74c3c"},
+        "encoding": {
+          "x": {
+            "field": "year",
+            "type": "quantitative",
+            "title": "Year"
+          },
+          "y": {
+            "field": "value",
+            "type": "quantitative",
+            "title": "CO₂ (ppm)"
+          },
+          "tooltip": [
+            {"field": "year", "type": "quantitative", "title": "Year"},
+            {"field": "value", "type": "quantitative", "title": "CO₂ (ppm)", "format": ".1f"}
+          ]
+        }
+      }
+    },
+    {
+      "name": "global-population",
+      "title": "Global Population by Region (1750–2010)",
+      "resources": ["socioeconomic"],
+      "specType": "vega-lite",
+      "spec": {
+        "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+        "transform": [
+          {"filter": "datum.indicator_id === 'population'"},
+          {
+            "fold": ["oecd", "brics", "rest"],
+            "as": ["region", "population"]
+          },
+          {"filter": "datum.population != null && datum.population !== ''"}
+        ],
+        "mark": {"type": "area"},
+        "encoding": {
+          "x": {
+            "field": "year",
+            "type": "quantitative",
+            "title": "Year"
+          },
+          "y": {
+            "field": "population",
+            "type": "quantitative",
+            "title": "Population (billion)",
+            "stack": "zero"
+          },
+          "color": {
+            "field": "region",
+            "type": "nominal",
+            "title": "Region",
+            "scale": {
+              "domain": ["oecd", "brics", "rest"],
+              "range": ["#3498db", "#e74c3c", "#2ecc71"]
+            }
+          },
+          "tooltip": [
+            {"field": "year", "type": "quantitative", "title": "Year"},
+            {"field": "region", "type": "nominal", "title": "Region"},
+            {"field": "population", "type": "quantitative", "title": "Population (billion)", "format": ".2f"}
+          ]
+        }
+      }
+    }
+  ]
+}

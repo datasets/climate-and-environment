@@ -1,0 +1,1142 @@
+year,indicator_id,indicator,unit,world,oecd,brics,rest
+1948,fdi,Foreign Direct Investment,trillion USD (current),7.078763715930969e-05,7.078763715930969e-05,,
+1949,fdi,Foreign Direct Investment,trillion USD (current),9.170731716264129e-05,9.170731716264129e-05,,
+1950,fdi,Foreign Direct Investment,trillion USD (current),0.00020575605904176196,0.00020575605904176196,,
+1951,fdi,Foreign Direct Investment,trillion USD (current),0.0003047037881704464,0.0003047037881704464,,
+1952,fdi,Foreign Direct Investment,trillion USD (current),0.00037958414387470385,0.00037958414387470385,,
+1953,fdi,Foreign Direct Investment,trillion USD (current),0.00046675633623054766,0.00046675633623054766,,
+1954,fdi,Foreign Direct Investment,trillion USD (current),0.00044572097948496734,0.00044572097948496734,,
+1955,fdi,Foreign Direct Investment,trillion USD (current),0.00046386533219546937,0.00046386533219546937,,
+1956,fdi,Foreign Direct Investment,trillion USD (current),0.0007681377993556036,0.0006785378351597494,8.959996419585427e-05,
+1957,fdi,Foreign Direct Investment,trillion USD (current),0.0005892996736856963,0.0005864996748045758,2.799998881120446e-06,
+1958,fdi,Foreign Direct Investment,trillion USD (current),0.000545381362018254,0.0004571813972629599,8.819996475529406e-05,
+1959,fdi,Foreign Direct Investment,trillion USD (current),0.0006544509346694868,0.0006208509480960414,3.359998657344535e-05,
+1960,fdi,Foreign Direct Investment,trillion USD (current),0.0011348256649131516,0.0011348256649131516,,
+1961,fdi,Foreign Direct Investment,trillion USD (current),0.0011265789109976502,0.0011265789109976502,,
+1962,fdi,Foreign Direct Investment,trillion USD (current),0.001167966705990787,0.001167966705990787,,
+1963,fdi,Foreign Direct Investment,trillion USD (current),0.0011529858229215656,0.0011529858229215656,,
+1964,fdi,Foreign Direct Investment,trillion USD (current),0.0009534066981445658,0.0009534066981445658,,
+1965,fdi,Foreign Direct Investment,trillion USD (current),0.0017966236742381738,0.0017966236742381738,,
+1966,fdi,Foreign Direct Investment,trillion USD (current),0.0018850674395672145,0.0018850674395672145,,
+1967,fdi,Foreign Direct Investment,trillion USD (current),0.0023088725620913856,0.0023088725620913856,,
+1968,fdi,Foreign Direct Investment,trillion USD (current),0.002569836304097003,0.002496836304097247,,7.29999999997559e-05
+1969,fdi,Foreign Direct Investment,trillion USD (current),0.003022850159750496,0.00292795015975074,,9.48999999997559e-05
+1970,fdi,Foreign Direct Investment,trillion USD (current),0.013345594300168098,0.0099079718398886,0.0008825880656640999,0.0025550343946153997
+1971,fdi,Foreign Direct Investment,trillion USD (current),0.0142820469483864,0.0109844086467936,0.0008692254169774,0.0024284128846154005
+1972,fdi,Foreign Direct Investment,trillion USD (current),0.0149327303376657,0.0121833451240539,0.0007055681266887001,0.0020438170869230997
+1973,fdi,Foreign Direct Investment,trillion USD (current),0.0206459615269498,0.0159608880387405,0.0015793776099283998,0.0031056958782809006
+1974,fdi,Foreign Direct Investment,trillion USD (current),0.024126564717803407,0.022191831502162904,0.0021974380592044,-0.0002627048435639
+1975,fdi,Foreign Direct Investment,trillion USD (current),0.0265670097252205,0.0174360126691778,0.0018872124255944998,0.007243784630448199
+1976,fdi,Foreign Direct Investment,trillion USD (current),0.0220023186371502,0.0162761116982741,0.0017881918343769002,0.0039380151044992
+1977,fdi,Foreign Direct Investment,trillion USD (current),0.027139459687831304,0.0205926216688364,0.0019939772425425,0.0045528607764524
+1978,fdi,Foreign Direct Investment,trillion USD (current),0.03435811757413341,0.026374781124563103,0.0026805226218253,0.005302813827745004
+1979,fdi,Foreign Direct Investment,trillion USD (current),0.04229197222634691,0.03473989011760951,0.0027462885557427,0.004805793552994701
+1980,fdi,Foreign Direct Investment,trillion USD (current),0.05407833050928941,0.04880921476180561,0.0029122614093719996,0.0023568543381118014
+1981,fdi,Foreign Direct Investment,trillion USD (current),0.0695702453007458,0.0490510645659942,0.005157605581929,0.0153615751528226
+1982,fdi,Foreign Direct Investment,trillion USD (current),0.05805924704476031,0.03401619920819141,0.0052880967676528995,0.018754951068915997
+1983,fdi,Foreign Direct Investment,trillion USD (current),0.0502677528935653,0.0350485597840657,0.0036199170824335,0.011599276027066098
+1984,fdi,Foreign Direct Investment,trillion USD (current),0.05683891892453881,0.041010271017830106,0.0048456796960491,0.010982968210659604
+1985,fdi,Foreign Direct Investment,trillion USD (current),0.0558661049359798,0.0440311767944884,0.0031068893790184,0.008728038762473002
+1986,fdi,Foreign Direct Investment,trillion USD (current),0.0863783664977624,0.0738315787549108,0.0048430745899227,0.0077037131529289005
+1987,fdi,Foreign Direct Investment,trillion USD (current),0.1366411750435937,0.1189880379508074,0.010469589233741399,0.007183547859044898
+1988,fdi,Foreign Direct Investment,trillion USD (current),0.16402356217960548,0.1384976632126957,0.0121917294804595,0.013334169486450298
+1989,fdi,Foreign Direct Investment,trillion USD (current),0.19727677929128845,0.17219916479060113,0.0082123649814027,0.0168652495192846
+1990,fdi,Foreign Direct Investment,trillion USD (current),0.2074550192225316,0.176886407200875,0.009239752298155999,0.0213288597235006
+1991,fdi,Foreign Direct Investment,trillion USD (current),0.1540727377876729,0.12066564445264778,0.008094220062674,0.02531287327235109
+1992,fdi,Foreign Direct Investment,trillion USD (current),0.16588081054911652,0.11638198939775429,0.019231977095722597,0.030266844055639605
+1993,fdi,Foreign Direct Investment,trillion USD (current),0.22331626184824338,0.1496386342653657,0.0384019759148648,0.03527565166801289
+1994,fdi,Foreign Direct Investment,trillion USD (current),0.25599994214670224,0.1646163681378746,0.04716619242050411,0.044217381588323515
+1995,fdi,Foreign Direct Investment,trillion USD (current),0.342798551719957,0.2358446246270648,0.055158227953598905,0.05179569913929329
+1996,fdi,Foreign Direct Investment,trillion USD (current),0.3908995265756285,0.2511630183901752,0.07076974125533321,0.06896676693012012
+1997,fdi,Foreign Direct Investment,trillion USD (current),0.487853497154746,0.3035670651624481,0.09016924533878361,0.09411718665351432
+1998,fdi,Foreign Direct Investment,trillion USD (current),0.7062659305977501,0.5277276873491529,0.0952431035832461,0.08329513966535113
+1999,fdi,Foreign Direct Investment,trillion USD (current),1.0914387112462347,0.8809303618003661,0.10339447116386599,0.10711387828200263
+2000,fdi,Foreign Direct Investment,trillion USD (current),1.4005405771982506,1.1664457429670463,0.1475487585015043,0.08654607572970002
+2001,fdi,Foreign Direct Investment,trillion USD (current),0.8276173479134599,0.6390428679500918,0.11238991089249571,0.0761845690708724
+2002,fdi,Foreign Direct Investment,trillion USD (current),0.627974797490171,0.4705953680716161,0.0914976513354168,0.06588177808313811
+2003,fdi,Foreign Direct Investment,trillion USD (current),0.5869563530344176,0.39918612108879564,0.09117656603809521,0.0965936659075268
+2004,fdi,Foreign Direct Investment,trillion USD (current),0.7443291813186258,0.4522921620178371,0.1372146720831692,0.15482234721761942
+2005,fdi,Foreign Direct Investment,trillion USD (current),0.9807271248665939,0.6570668105585497,0.1511164304087036,0.17254388389934056
+2006,fdi,Foreign Direct Investment,trillion USD (current),1.4633511614706565,1.0077585164191571,0.19513204349031787,0.2604606015611815
+2007,fdi,Foreign Direct Investment,trillion USD (current),1.9755370455405106,1.348703520505203,0.26879387531087906,0.3580396497244288
+2008,fdi,Foreign Direct Investment,trillion USD (current),1.790705684007112,1.0606814281232526,0.3484285292588279,0.38159572662503155
+2009,fdi,Foreign Direct Investment,trillion USD (current),1.1978236712530046,0.6384219172648138,0.2544662844861812,0.3049354695020096
+2010,fdi,Foreign Direct Investment,trillion USD (current),1.309001284046376,0.664319366798046,0.3083058730229598,0.3363760442253702
+1900,fertilizer,Fertilizer Consumption,million tonnes,0.85,,,
+1905,fertilizer,Fertilizer Consumption,million tonnes,1.047,,,
+1906,fertilizer,Fertilizer Consumption,million tonnes,1.183,,,
+1907,fertilizer,Fertilizer Consumption,million tonnes,1.279,,,
+1908,fertilizer,Fertilizer Consumption,million tonnes,1.432,,,
+1909,fertilizer,Fertilizer Consumption,million tonnes,1.562,,,
+1910,fertilizer,Fertilizer Consumption,million tonnes,1.513,,,
+1911,fertilizer,Fertilizer Consumption,million tonnes,1.651,,,
+1912,fertilizer,Fertilizer Consumption,million tonnes,2.116,,,
+1913,fertilizer,Fertilizer Consumption,million tonnes,2.137,,,
+1914,fertilizer,Fertilizer Consumption,million tonnes,1.654,,,
+1915,fertilizer,Fertilizer Consumption,million tonnes,1.549,,,
+1916,fertilizer,Fertilizer Consumption,million tonnes,1.647,,,
+1917,fertilizer,Fertilizer Consumption,million tonnes,1.595,,,
+1918,fertilizer,Fertilizer Consumption,million tonnes,1.406,,,
+1919,fertilizer,Fertilizer Consumption,million tonnes,1.729,,,
+1920,fertilizer,Fertilizer Consumption,million tonnes,1.94,,,
+1921,fertilizer,Fertilizer Consumption,million tonnes,1.82,,,
+1922,fertilizer,Fertilizer Consumption,million tonnes,2.048,,,
+1923,fertilizer,Fertilizer Consumption,million tonnes,2.29,,,
+1924,fertilizer,Fertilizer Consumption,million tonnes,2.636,,,
+1925,fertilizer,Fertilizer Consumption,million tonnes,2.95,,,
+1926,fertilizer,Fertilizer Consumption,million tonnes,3.102,,,
+1927,fertilizer,Fertilizer Consumption,million tonnes,3.28,,,
+1928,fertilizer,Fertilizer Consumption,million tonnes,3.3,,,
+1929,fertilizer,Fertilizer Consumption,million tonnes,6.504,,,
+1930,fertilizer,Fertilizer Consumption,million tonnes,5.461,,,
+1931,fertilizer,Fertilizer Consumption,million tonnes,5.08,,,
+1932,fertilizer,Fertilizer Consumption,million tonnes,5.308,,,
+1933,fertilizer,Fertilizer Consumption,million tonnes,6.142,,,
+1934,fertilizer,Fertilizer Consumption,million tonnes,6.776,,,
+1935,fertilizer,Fertilizer Consumption,million tonnes,7.33,,,
+1936,fertilizer,Fertilizer Consumption,million tonnes,8.205,,,
+1937,fertilizer,Fertilizer Consumption,million tonnes,8.807,,,
+1938,fertilizer,Fertilizer Consumption,million tonnes,9.336,,,
+1939,fertilizer,Fertilizer Consumption,million tonnes,8.462,,,
+1940,fertilizer,Fertilizer Consumption,million tonnes,8.554,,,
+1941,fertilizer,Fertilizer Consumption,million tonnes,8.147,,,
+1942,fertilizer,Fertilizer Consumption,million tonnes,7.87,,,
+1943,fertilizer,Fertilizer Consumption,million tonnes,7.42,,,
+1944,fertilizer,Fertilizer Consumption,million tonnes,6.906,,,
+1945,fertilizer,Fertilizer Consumption,million tonnes,7.293,,,
+1946,fertilizer,Fertilizer Consumption,million tonnes,8.732,,,
+1947,fertilizer,Fertilizer Consumption,million tonnes,10.493,,,
+1948,fertilizer,Fertilizer Consumption,million tonnes,11.871,,,
+1949,fertilizer,Fertilizer Consumption,million tonnes,12.914,,,
+1950,fertilizer,Fertilizer Consumption,million tonnes,14.518,,,
+1951,fertilizer,Fertilizer Consumption,million tonnes,15.142,,,
+1952,fertilizer,Fertilizer Consumption,million tonnes,16.438,,,
+1953,fertilizer,Fertilizer Consumption,million tonnes,19.277,,,
+1954,fertilizer,Fertilizer Consumption,million tonnes,20.713,,,
+1955,fertilizer,Fertilizer Consumption,million tonnes,21.837,,,
+1956,fertilizer,Fertilizer Consumption,million tonnes,23.402,,,
+1957,fertilizer,Fertilizer Consumption,million tonnes,24.745,,,
+1958,fertilizer,Fertilizer Consumption,million tonnes,26.707,,,
+1959,fertilizer,Fertilizer Consumption,million tonnes,28.396,,,
+1960,fertilizer,Fertilizer Consumption,million tonnes,30.034,,,
+1961,fertilizer,Fertilizer Consumption,million tonnes,31.570199999999996,24.9238,2.0536999999999996,4.5927
+1962,fertilizer,Fertilizer Consumption,million tonnes,33.9481,26.260600000000004,2.197,5.490499999999999
+1963,fertilizer,Fertilizer Consumption,million tonnes,36.3936,28.348399999999994,2.4621,5.583100000000003
+1964,fertilizer,Fertilizer Consumption,million tonnes,41.026,30.215700000000005,2.6021000000000005,8.2082
+1965,fertilizer,Fertilizer Consumption,million tonnes,46.142900000000004,32.6404,3.6969999999999996,9.805500000000002
+1966,fertilizer,Fertilizer Consumption,million tonnes,51.1689,35.2615,4.972300000000001,10.935100000000002
+1967,fertilizer,Fertilizer Consumption,million tonnes,55.1829,37.7979,5.1251,12.259899999999998
+1968,fertilizer,Fertilizer Consumption,million tonnes,58.90789999999999,39.5226,5.806000000000001,13.5793
+1969,fertilizer,Fertilizer Consumption,million tonnes,61.9192,41.4068,6.055,14.457400000000005
+1970,fertilizer,Fertilizer Consumption,million tonnes,68.1453,43.9775,7.5462,16.621599999999997
+1971,fertilizer,Fertilizer Consumption,million tonnes,71.80560000000001,45.089000000000006,8.7422,17.974399999999996
+1972,fertilizer,Fertilizer Consumption,million tonnes,77.5571,47.6939,10.288099999999998,19.575100000000003
+1973,fertilizer,Fertilizer Consumption,million tonnes,84.1895,51.52079999999999,11.5016,21.167100000000005
+1974,fertilizer,Fertilizer Consumption,million tonnes,81.08770000000001,47.3318,10.980100000000002,22.7758
+1975,fertilizer,Fertilizer Consumption,million tonnes,88.89859999999999,51.2133,12.2254,25.459899999999998
+1976,fertilizer,Fertilizer Consumption,million tonnes,96.2545,54.212900000000005,14.496400000000001,27.545199999999998
+1977,fertilizer,Fertilizer Consumption,million tonnes,100.7956,53.678399999999996,18.316,28.8012
+1978,fertilizer,Fertilizer Consumption,million tonnes,107.6585,57.62320000000001,19.6647,30.370599999999996
+1979,fertilizer,Fertilizer Consumption,million tonnes,112.35090000000001,59.3635,22.926999999999996,30.06040000000001
+1980,fertilizer,Fertilizer Consumption,million tonnes,115.88219999999998,58.06819999999999,26.1139,31.700099999999996
+1981,fertilizer,Fertilizer Consumption,million tonnes,114.42410000000001,55.8125,25.412800000000004,33.198800000000006
+1982,fertilizer,Fertilizer Consumption,million tonnes,114.15659999999998,53.26179999999999,26.120699999999996,34.77409999999999
+1983,fertilizer,Fertilizer Consumption,million tonnes,124.58139999999999,57.839800000000004,28.4313,38.31029999999999
+1984,fertilizer,Fertilizer Consumption,million tonnes,130.1787,58.212399999999995,32.4682,39.4981
+1985,fertilizer,Fertilizer Consumption,million tonnes,128.2874,55.8047,30.015399999999996,42.46729999999999
+1986,fertilizer,Fertilizer Consumption,million tonnes,132.3547,56.0312,31.7047,44.61880000000001
+1987,fertilizer,Fertilizer Consumption,million tonnes,138.33689999999999,56.5614,35.6297,46.1458
+1988,fertilizer,Fertilizer Consumption,million tonnes,143.9325,56.3038,40.6423,46.986399999999996
+1989,fertilizer,Fertilizer Consumption,million tonnes,141.989,56.8386,40.8887,44.26170000000001
+1990,fertilizer,Fertilizer Consumption,million tonnes,136.5128,52.1986,54.32599999999999,29.988199999999996
+1991,fertilizer,Fertilizer Consumption,million tonnes,133.6721,49.9411,56.6538,27.077199999999998
+1992,fertilizer,Fertilizer Consumption,million tonnes,124.7306,48.737,51.1299,24.863699999999994
+1993,fertilizer,Fertilizer Consumption,million tonnes,119.72659999999999,50.9047,46.595099999999995,22.2268
+1994,fertilizer,Fertilizer Consumption,million tonnes,121.26289999999999,50.244899999999994,49.689099999999996,21.3289
+1995,fertilizer,Fertilizer Consumption,million tonnes,129.2525,51.261399999999995,56.489599999999996,21.5015
+1996,fertilizer,Fertilizer Consumption,million tonnes,133.5973,52.885400000000004,57.6141,23.097800000000003
+1997,fertilizer,Fertilizer Consumption,million tonnes,136.18460000000002,52.6488,59.8666,23.6692
+1998,fertilizer,Fertilizer Consumption,million tonnes,137.11560000000003,52.344800000000006,60.4144,24.356400000000008
+1999,fertilizer,Fertilizer Consumption,million tonnes,139.3793,52.2136,62.381499999999996,24.7842
+2000,fertilizer,Fertilizer Consumption,million tonnes,136.208,49.6454,61.4018,25.1608
+2001,fertilizer,Fertilizer Consumption,million tonnes,138.2392,50.129200000000004,62.73239999999999,25.3776
+2002,fertilizer,Fertilizer Consumption,million tonnes,141.99079999999998,49.18489999999999,66.54769999999999,26.258200000000002
+2003,fertilizer,Fertilizer Consumption,million tonnes,147.2921,51.4985,69.0259,26.76770000000001
+2004,fertilizer,Fertilizer Consumption,million tonnes,154.4635,50.108900000000006,74.81960000000001,29.534999999999993
+2005,fertilizer,Fertilizer Consumption,million tonnes,155.1539,47.791799999999995,78.23350000000002,29.128599999999995
+2006,fertilizer,Fertilizer Consumption,million tonnes,161.967,49.2392,82.6975,30.03029999999999
+2007,fertilizer,Fertilizer Consumption,million tonnes,167.55089999999998,49.179,87.3612,31.010699999999996
+2008,fertilizer,Fertilizer Consumption,million tonnes,154.5732,39.3322,85.99570000000001,29.245299999999997
+2009,fertilizer,Fertilizer Consumption,million tonnes,162.5032,43.81329999999999,87.8113,30.8786
+2010,fertilizer,Fertilizer Consumption,million tonnes,171.46560000000002,47.0688,91.3685,33.02830000000001
+1950,international-tourism,International Tourism,million arrivals,25.3,,,
+1960,international-tourism,International Tourism,million arrivals,69.3,,,
+1965,international-tourism,International Tourism,million arrivals,112.9,,,
+1970,international-tourism,International Tourism,million arrivals,165.8,,,
+1975,international-tourism,International Tourism,million arrivals,222.3,,,
+1980,international-tourism,International Tourism,million arrivals,276.7,,,
+1981,international-tourism,International Tourism,million arrivals,276.9,,,
+1982,international-tourism,International Tourism,million arrivals,276.7,,,
+1983,international-tourism,International Tourism,million arrivals,280.3,,,
+1984,international-tourism,International Tourism,million arrivals,304.8,,,
+1985,international-tourism,International Tourism,million arrivals,317.9,,,
+1986,international-tourism,International Tourism,million arrivals,327.8,,,
+1987,international-tourism,International Tourism,million arrivals,357.6,,,
+1988,international-tourism,International Tourism,million arrivals,384.1,,,
+1989,international-tourism,International Tourism,million arrivals,406.2,,,
+1990,international-tourism,International Tourism,million arrivals,434.5,,,
+1991,international-tourism,International Tourism,million arrivals,432.7,,,
+1992,international-tourism,International Tourism,million arrivals,471.5,,,
+1993,international-tourism,International Tourism,million arrivals,486.1,,,
+1994,international-tourism,International Tourism,million arrivals,507.5,,,
+1995,international-tourism,International Tourism,million arrivals,527.7,,,
+1996,international-tourism,International Tourism,million arrivals,560.6,,,
+1997,international-tourism,International Tourism,million arrivals,586.4,,,
+1998,international-tourism,International Tourism,million arrivals,602.5,,,
+1999,international-tourism,International Tourism,million arrivals,624.9,,,
+2000,international-tourism,International Tourism,million arrivals,674.5,,,
+2001,international-tourism,International Tourism,million arrivals,673.9,,,
+2002,international-tourism,International Tourism,million arrivals,693.9,,,
+2003,international-tourism,International Tourism,million arrivals,682.8,,,
+2004,international-tourism,International Tourism,million arrivals,753.4,,,
+2005,international-tourism,International Tourism,million arrivals,798.0,,,
+2006,international-tourism,International Tourism,million arrivals,842.2,,,
+2007,international-tourism,International Tourism,million arrivals,897.7,,,
+2008,international-tourism,International Tourism,million arrivals,916.8,,,
+2009,international-tourism,International Tourism,million arrivals,882.1,,,
+1750,large-dams,Large Dams,thousand dams (cumulative),0.062,0.054,0.008,0.0
+1751,large-dams,Large Dams,thousand dams (cumulative),0.062,0.054,0.008,0.0
+1752,large-dams,Large Dams,thousand dams (cumulative),0.062,0.054,0.008,0.0
+1753,large-dams,Large Dams,thousand dams (cumulative),0.062,0.054,0.008,0.0
+1754,large-dams,Large Dams,thousand dams (cumulative),0.062,0.054,0.008,0.0
+1755,large-dams,Large Dams,thousand dams (cumulative),0.063,0.055,0.008,0.0
+1756,large-dams,Large Dams,thousand dams (cumulative),0.063,0.055,0.008,0.0
+1757,large-dams,Large Dams,thousand dams (cumulative),0.063,0.055,0.008,0.0
+1758,large-dams,Large Dams,thousand dams (cumulative),0.063,0.055,0.008,0.0
+1759,large-dams,Large Dams,thousand dams (cumulative),0.063,0.055,0.008,0.0
+1760,large-dams,Large Dams,thousand dams (cumulative),0.063,0.055,0.008,0.0
+1761,large-dams,Large Dams,thousand dams (cumulative),0.063,0.055,0.008,0.0
+1762,large-dams,Large Dams,thousand dams (cumulative),0.063,0.055,0.008,0.0
+1763,large-dams,Large Dams,thousand dams (cumulative),0.063,0.055,0.008,0.0
+1764,large-dams,Large Dams,thousand dams (cumulative),0.063,0.055,0.008,0.0
+1765,large-dams,Large Dams,thousand dams (cumulative),0.064,0.056,0.008,0.0
+1766,large-dams,Large Dams,thousand dams (cumulative),0.065,0.057,0.008,0.0
+1767,large-dams,Large Dams,thousand dams (cumulative),0.065,0.057,0.008,0.0
+1768,large-dams,Large Dams,thousand dams (cumulative),0.065,0.057,0.008,0.0
+1769,large-dams,Large Dams,thousand dams (cumulative),0.066,0.058,0.008,0.0
+1770,large-dams,Large Dams,thousand dams (cumulative),0.066,0.058,0.008,0.0
+1771,large-dams,Large Dams,thousand dams (cumulative),0.066,0.058,0.008,0.0
+1772,large-dams,Large Dams,thousand dams (cumulative),0.066,0.058,0.008,0.0
+1773,large-dams,Large Dams,thousand dams (cumulative),0.066,0.058,0.008,0.0
+1774,large-dams,Large Dams,thousand dams (cumulative),0.066,0.058,0.008,0.0
+1775,large-dams,Large Dams,thousand dams (cumulative),0.066,0.058,0.008,0.0
+1776,large-dams,Large Dams,thousand dams (cumulative),0.067,0.059,0.008,0.0
+1777,large-dams,Large Dams,thousand dams (cumulative),0.067,0.059,0.008,0.0
+1778,large-dams,Large Dams,thousand dams (cumulative),0.067,0.059,0.008,0.0
+1779,large-dams,Large Dams,thousand dams (cumulative),0.068,0.06,0.008,0.0
+1780,large-dams,Large Dams,thousand dams (cumulative),0.069,0.061,0.008,0.0
+1781,large-dams,Large Dams,thousand dams (cumulative),0.069,0.061,0.008,0.0
+1782,large-dams,Large Dams,thousand dams (cumulative),0.07,0.062,0.008,0.0
+1783,large-dams,Large Dams,thousand dams (cumulative),0.07,0.062,0.008,0.0
+1784,large-dams,Large Dams,thousand dams (cumulative),0.07,0.062,0.008,0.0
+1785,large-dams,Large Dams,thousand dams (cumulative),0.07,0.062,0.008,0.0
+1786,large-dams,Large Dams,thousand dams (cumulative),0.07,0.062,0.008,0.0
+1787,large-dams,Large Dams,thousand dams (cumulative),0.07,0.062,0.008,0.0
+1788,large-dams,Large Dams,thousand dams (cumulative),0.07,0.062,0.008,0.0
+1789,large-dams,Large Dams,thousand dams (cumulative),0.07,0.062,0.008,0.0
+1790,large-dams,Large Dams,thousand dams (cumulative),0.07200000000000001,0.064,0.008,0.0
+1791,large-dams,Large Dams,thousand dams (cumulative),0.07300000000000001,0.065,0.008,0.0
+1792,large-dams,Large Dams,thousand dams (cumulative),0.07300000000000001,0.065,0.008,0.0
+1793,large-dams,Large Dams,thousand dams (cumulative),0.07400000000000001,0.066,0.008,0.0
+1794,large-dams,Large Dams,thousand dams (cumulative),0.07500000000000001,0.067,0.008,0.0
+1795,large-dams,Large Dams,thousand dams (cumulative),0.07700000000000001,0.069,0.008,0.0
+1796,large-dams,Large Dams,thousand dams (cumulative),0.07700000000000001,0.069,0.008,0.0
+1797,large-dams,Large Dams,thousand dams (cumulative),0.07899999999999999,0.071,0.008,0.0
+1798,large-dams,Large Dams,thousand dams (cumulative),0.07899999999999999,0.071,0.008,0.0
+1799,large-dams,Large Dams,thousand dams (cumulative),0.07899999999999999,0.071,0.008,0.0
+1800,large-dams,Large Dams,thousand dams (cumulative),0.093,0.081,0.012,0.0
+1801,large-dams,Large Dams,thousand dams (cumulative),0.093,0.081,0.012,0.0
+1802,large-dams,Large Dams,thousand dams (cumulative),0.093,0.081,0.012,0.0
+1803,large-dams,Large Dams,thousand dams (cumulative),0.093,0.081,0.012,0.0
+1804,large-dams,Large Dams,thousand dams (cumulative),0.093,0.081,0.012,0.0
+1805,large-dams,Large Dams,thousand dams (cumulative),0.093,0.081,0.012,0.0
+1806,large-dams,Large Dams,thousand dams (cumulative),0.093,0.081,0.012,0.0
+1807,large-dams,Large Dams,thousand dams (cumulative),0.093,0.081,0.012,0.0
+1808,large-dams,Large Dams,thousand dams (cumulative),0.093,0.081,0.012,0.0
+1809,large-dams,Large Dams,thousand dams (cumulative),0.093,0.081,0.012,0.0
+1810,large-dams,Large Dams,thousand dams (cumulative),0.095,0.083,0.012,0.0
+1811,large-dams,Large Dams,thousand dams (cumulative),0.096,0.084,0.012,0.0
+1812,large-dams,Large Dams,thousand dams (cumulative),0.097,0.085,0.012,0.0
+1813,large-dams,Large Dams,thousand dams (cumulative),0.097,0.085,0.012,0.0
+1814,large-dams,Large Dams,thousand dams (cumulative),0.097,0.085,0.012,0.0
+1815,large-dams,Large Dams,thousand dams (cumulative),0.097,0.085,0.012,0.0
+1816,large-dams,Large Dams,thousand dams (cumulative),0.09799999999999999,0.086,0.012,0.0
+1817,large-dams,Large Dams,thousand dams (cumulative),0.09799999999999999,0.086,0.012,0.0
+1818,large-dams,Large Dams,thousand dams (cumulative),0.09799999999999999,0.086,0.012,0.0
+1819,large-dams,Large Dams,thousand dams (cumulative),0.09899999999999999,0.087,0.012,0.0
+1820,large-dams,Large Dams,thousand dams (cumulative),0.09999999999999999,0.088,0.012,0.0
+1821,large-dams,Large Dams,thousand dams (cumulative),0.09999999999999999,0.088,0.012,0.0
+1822,large-dams,Large Dams,thousand dams (cumulative),0.102,0.09,0.012,0.0
+1823,large-dams,Large Dams,thousand dams (cumulative),0.103,0.091,0.012,0.0
+1824,large-dams,Large Dams,thousand dams (cumulative),0.106,0.094,0.012,0.0
+1825,large-dams,Large Dams,thousand dams (cumulative),0.108,0.096,0.012,0.0
+1826,large-dams,Large Dams,thousand dams (cumulative),0.111,0.099,0.012,0.0
+1827,large-dams,Large Dams,thousand dams (cumulative),0.113,0.101,0.012,0.0
+1828,large-dams,Large Dams,thousand dams (cumulative),0.11399999999999999,0.102,0.012,0.0
+1829,large-dams,Large Dams,thousand dams (cumulative),0.11399999999999999,0.102,0.012,0.0
+1830,large-dams,Large Dams,thousand dams (cumulative),0.119,0.107,0.012,0.0
+1831,large-dams,Large Dams,thousand dams (cumulative),0.119,0.107,0.012,0.0
+1832,large-dams,Large Dams,thousand dams (cumulative),0.123,0.111,0.012,0.0
+1833,large-dams,Large Dams,thousand dams (cumulative),0.123,0.111,0.012,0.0
+1834,large-dams,Large Dams,thousand dams (cumulative),0.125,0.113,0.012,0.0
+1835,large-dams,Large Dams,thousand dams (cumulative),0.128,0.116,0.012,0.0
+1836,large-dams,Large Dams,thousand dams (cumulative),0.135,0.123,0.012,0.0
+1837,large-dams,Large Dams,thousand dams (cumulative),0.138,0.126,0.012,0.0
+1838,large-dams,Large Dams,thousand dams (cumulative),0.14200000000000002,0.13,0.012,0.0
+1839,large-dams,Large Dams,thousand dams (cumulative),0.14600000000000002,0.134,0.012,0.0
+1840,large-dams,Large Dams,thousand dams (cumulative),0.158,0.146,0.012,0.0
+1841,large-dams,Large Dams,thousand dams (cumulative),0.168,0.156,0.012,0.0
+1842,large-dams,Large Dams,thousand dams (cumulative),0.17,0.158,0.012,0.0
+1843,large-dams,Large Dams,thousand dams (cumulative),0.17200000000000001,0.16,0.012,0.0
+1844,large-dams,Large Dams,thousand dams (cumulative),0.17700000000000002,0.165,0.012,0.0
+1845,large-dams,Large Dams,thousand dams (cumulative),0.18100000000000002,0.169,0.012,0.0
+1846,large-dams,Large Dams,thousand dams (cumulative),0.187,0.175,0.012,0.0
+1847,large-dams,Large Dams,thousand dams (cumulative),0.188,0.176,0.012,0.0
+1848,large-dams,Large Dams,thousand dams (cumulative),0.202,0.19,0.012,0.0
+1849,large-dams,Large Dams,thousand dams (cumulative),0.203,0.191,0.012,0.0
+1850,large-dams,Large Dams,thousand dams (cumulative),0.227,0.215,0.012,0.0
+1851,large-dams,Large Dams,thousand dams (cumulative),0.23,0.218,0.012,0.0
+1852,large-dams,Large Dams,thousand dams (cumulative),0.23500000000000001,0.223,0.012,0.0
+1853,large-dams,Large Dams,thousand dams (cumulative),0.23800000000000002,0.226,0.012,0.0
+1854,large-dams,Large Dams,thousand dams (cumulative),0.24400000000000002,0.232,0.012,0.0
+1855,large-dams,Large Dams,thousand dams (cumulative),0.24500000000000002,0.233,0.012,0.0
+1856,large-dams,Large Dams,thousand dams (cumulative),0.24600000000000002,0.234,0.012,0.0
+1857,large-dams,Large Dams,thousand dams (cumulative),0.254,0.242,0.012,0.0
+1858,large-dams,Large Dams,thousand dams (cumulative),0.258,0.245,0.012,0.001
+1859,large-dams,Large Dams,thousand dams (cumulative),0.267,0.253,0.013,0.001
+1860,large-dams,Large Dams,thousand dams (cumulative),0.274,0.259,0.013,0.002
+1861,large-dams,Large Dams,thousand dams (cumulative),0.278,0.263,0.013,0.002
+1862,large-dams,Large Dams,thousand dams (cumulative),0.28200000000000003,0.267,0.013,0.002
+1863,large-dams,Large Dams,thousand dams (cumulative),0.28400000000000003,0.269,0.013,0.002
+1864,large-dams,Large Dams,thousand dams (cumulative),0.29100000000000004,0.276,0.013,0.002
+1865,large-dams,Large Dams,thousand dams (cumulative),0.302,0.287,0.013,0.002
+1866,large-dams,Large Dams,thousand dams (cumulative),0.309,0.294,0.013,0.002
+1867,large-dams,Large Dams,thousand dams (cumulative),0.315,0.299,0.014,0.002
+1868,large-dams,Large Dams,thousand dams (cumulative),0.325,0.308,0.015,0.002
+1869,large-dams,Large Dams,thousand dams (cumulative),0.339,0.321,0.015,0.003
+1870,large-dams,Large Dams,thousand dams (cumulative),0.35100000000000003,0.332,0.016,0.003
+1871,large-dams,Large Dams,thousand dams (cumulative),0.35800000000000004,0.337,0.017,0.004
+1872,large-dams,Large Dams,thousand dams (cumulative),0.374,0.352,0.018,0.004
+1873,large-dams,Large Dams,thousand dams (cumulative),0.381,0.358,0.019,0.004
+1874,large-dams,Large Dams,thousand dams (cumulative),0.385,0.362,0.019,0.004
+1875,large-dams,Large Dams,thousand dams (cumulative),0.403,0.374,0.019,0.01
+1876,large-dams,Large Dams,thousand dams (cumulative),0.41500000000000004,0.385,0.019,0.011
+1877,large-dams,Large Dams,thousand dams (cumulative),0.42100000000000004,0.39,0.02,0.011
+1878,large-dams,Large Dams,thousand dams (cumulative),0.44,0.409,0.02,0.011
+1879,large-dams,Large Dams,thousand dams (cumulative),0.454,0.42,0.023,0.011
+1880,large-dams,Large Dams,thousand dams (cumulative),0.47400000000000003,0.438,0.025,0.011
+1881,large-dams,Large Dams,thousand dams (cumulative),0.47900000000000004,0.443,0.025,0.011
+1882,large-dams,Large Dams,thousand dams (cumulative),0.49400000000000005,0.456,0.027,0.011
+1883,large-dams,Large Dams,thousand dams (cumulative),0.505,0.466,0.028,0.011
+1884,large-dams,Large Dams,thousand dams (cumulative),0.517,0.476,0.03,0.011
+1885,large-dams,Large Dams,thousand dams (cumulative),0.529,0.487,0.031,0.011
+1886,large-dams,Large Dams,thousand dams (cumulative),0.535,0.491,0.032,0.012
+1887,large-dams,Large Dams,thousand dams (cumulative),0.55,0.503,0.034,0.013
+1888,large-dams,Large Dams,thousand dams (cumulative),0.5690000000000001,0.521,0.035,0.013
+1889,large-dams,Large Dams,thousand dams (cumulative),0.5820000000000001,0.533,0.036,0.013
+1890,large-dams,Large Dams,thousand dams (cumulative),0.6040000000000001,0.555,0.036,0.013
+1891,large-dams,Large Dams,thousand dams (cumulative),0.623,0.573,0.037,0.013
+1892,large-dams,Large Dams,thousand dams (cumulative),0.644,0.592,0.039,0.013
+1893,large-dams,Large Dams,thousand dams (cumulative),0.658,0.606,0.039,0.013
+1894,large-dams,Large Dams,thousand dams (cumulative),0.676,0.624,0.039,0.013
+1895,large-dams,Large Dams,thousand dams (cumulative),0.6960000000000001,0.642,0.041,0.013
+1896,large-dams,Large Dams,thousand dams (cumulative),0.7220000000000001,0.667,0.042,0.013
+1897,large-dams,Large Dams,thousand dams (cumulative),0.7400000000000001,0.683,0.044,0.013
+1898,large-dams,Large Dams,thousand dams (cumulative),0.768,0.705,0.045,0.018
+1899,large-dams,Large Dams,thousand dams (cumulative),0.861,0.721,0.122,0.018
+1900,large-dams,Large Dams,thousand dams (cumulative),0.923,0.779,0.125,0.019
+1901,large-dams,Large Dams,thousand dams (cumulative),0.9610000000000001,0.81,0.131,0.02
+1902,large-dams,Large Dams,thousand dams (cumulative),0.994,0.836,0.137,0.021
+1903,large-dams,Large Dams,thousand dams (cumulative),1.0390000000000001,0.878,0.139,0.022
+1904,large-dams,Large Dams,thousand dams (cumulative),1.077,0.914,0.141,0.022
+1905,large-dams,Large Dams,thousand dams (cumulative),1.15,0.982,0.145,0.023
+1906,large-dams,Large Dams,thousand dams (cumulative),1.2109999999999999,1.037,0.15,0.024
+1907,large-dams,Large Dams,thousand dams (cumulative),1.281,1.098,0.158,0.025
+1908,large-dams,Large Dams,thousand dams (cumulative),1.3459999999999999,1.156,0.164,0.026
+1909,large-dams,Large Dams,thousand dams (cumulative),1.4069999999999998,1.204,0.176,0.027
+1910,large-dams,Large Dams,thousand dams (cumulative),1.528,1.307,0.193,0.028
+1911,large-dams,Large Dams,thousand dams (cumulative),1.6260000000000001,1.393,0.205,0.028
+1912,large-dams,Large Dams,thousand dams (cumulative),1.722,1.476,0.217,0.029
+1913,large-dams,Large Dams,thousand dams (cumulative),1.815,1.559,0.226,0.03
+1914,large-dams,Large Dams,thousand dams (cumulative),1.8929999999999998,1.626,0.235,0.032
+1915,large-dams,Large Dams,thousand dams (cumulative),1.973,1.697,0.244,0.032
+1916,large-dams,Large Dams,thousand dams (cumulative),2.052,1.751,0.267,0.034
+1917,large-dams,Large Dams,thousand dams (cumulative),2.128,1.804,0.288,0.036
+1918,large-dams,Large Dams,thousand dams (cumulative),2.192,1.856,0.3,0.036
+1919,large-dams,Large Dams,thousand dams (cumulative),2.2449999999999997,1.9,0.308,0.037
+1920,large-dams,Large Dams,thousand dams (cumulative),2.314,1.959,0.317,0.038
+1921,large-dams,Large Dams,thousand dams (cumulative),2.388,2.019,0.331,0.038
+1922,large-dams,Large Dams,thousand dams (cumulative),2.468,2.089,0.34,0.039
+1923,large-dams,Large Dams,thousand dams (cumulative),2.5709999999999997,2.171,0.358,0.042
+1924,large-dams,Large Dams,thousand dams (cumulative),2.678,2.265,0.369,0.044
+1925,large-dams,Large Dams,thousand dams (cumulative),2.795,2.372,0.376,0.047
+1926,large-dams,Large Dams,thousand dams (cumulative),2.9000000000000004,2.462,0.391,0.047
+1927,large-dams,Large Dams,thousand dams (cumulative),3.029,2.57,0.406,0.053
+1928,large-dams,Large Dams,thousand dams (cumulative),3.155,2.681,0.417,0.057
+1929,large-dams,Large Dams,thousand dams (cumulative),3.2600000000000002,2.778,0.423,0.059
+1930,large-dams,Large Dams,thousand dams (cumulative),3.405,2.905,0.432,0.068
+1931,large-dams,Large Dams,thousand dams (cumulative),3.526,3.014,0.44,0.072
+1932,large-dams,Large Dams,thousand dams (cumulative),3.63,3.106,0.448,0.076
+1933,large-dams,Large Dams,thousand dams (cumulative),3.719,3.178,0.46,0.081
+1934,large-dams,Large Dams,thousand dams (cumulative),3.824,3.262,0.476,0.086
+1935,large-dams,Large Dams,thousand dams (cumulative),3.9419999999999997,3.36,0.492,0.09
+1936,large-dams,Large Dams,thousand dams (cumulative),4.077,3.468,0.511,0.098
+1937,large-dams,Large Dams,thousand dams (cumulative),4.2,3.571,0.529,0.1
+1938,large-dams,Large Dams,thousand dams (cumulative),4.338,3.688,0.541,0.109
+1939,large-dams,Large Dams,thousand dams (cumulative),4.4590000000000005,3.798,0.549,0.112
+1940,large-dams,Large Dams,thousand dams (cumulative),4.588,3.91,0.558,0.12
+1941,large-dams,Large Dams,thousand dams (cumulative),4.691,4.0,0.564,0.127
+1942,large-dams,Large Dams,thousand dams (cumulative),4.803,4.098,0.575,0.13
+1943,large-dams,Large Dams,thousand dams (cumulative),4.877,4.16,0.582,0.135
+1944,large-dams,Large Dams,thousand dams (cumulative),4.959,4.226,0.589,0.144
+1945,large-dams,Large Dams,thousand dams (cumulative),5.106,4.361,0.593,0.152
+1946,large-dams,Large Dams,thousand dams (cumulative),5.172,4.412,0.604,0.156
+1947,large-dams,Large Dams,thousand dams (cumulative),5.263,4.488,0.613,0.162
+1948,large-dams,Large Dams,thousand dams (cumulative),5.4030000000000005,4.609,0.621,0.173
+1949,large-dams,Large Dams,thousand dams (cumulative),5.573,4.764,0.63,0.179
+1950,large-dams,Large Dams,thousand dams (cumulative),5.76,4.923,0.651,0.186
+1951,large-dams,Large Dams,thousand dams (cumulative),5.924,5.064,0.666,0.194
+1952,large-dams,Large Dams,thousand dams (cumulative),6.167,5.261,0.694,0.212
+1953,large-dams,Large Dams,thousand dams (cumulative),6.428,5.466,0.726,0.236
+1954,large-dams,Large Dams,thousand dams (cumulative),6.7059999999999995,5.68,0.773,0.253
+1955,large-dams,Large Dams,thousand dams (cumulative),7.0249999999999995,5.927,0.834,0.264
+1956,large-dams,Large Dams,thousand dams (cumulative),7.3950000000000005,6.205,0.9,0.29
+1957,large-dams,Large Dams,thousand dams (cumulative),7.776999999999999,6.492,0.98,0.305
+1958,large-dams,Large Dams,thousand dams (cumulative),8.304,6.811,1.157,0.336
+1959,large-dams,Large Dams,thousand dams (cumulative),8.786000000000001,7.115,1.311,0.36
+1960,large-dams,Large Dams,thousand dams (cumulative),9.51,7.498,1.61,0.402
+1961,large-dams,Large Dams,thousand dams (cumulative),9.992999999999999,7.85,1.71,0.433
+1962,large-dams,Large Dams,thousand dams (cumulative),10.513,8.236,1.798,0.479
+1963,large-dams,Large Dams,thousand dams (cumulative),11.052,8.631,1.886,0.535
+1964,large-dams,Large Dams,thousand dams (cumulative),11.619,9.045,1.986,0.588
+1965,large-dams,Large Dams,thousand dams (cumulative),12.267000000000001,9.473,2.151,0.643
+1966,large-dams,Large Dams,thousand dams (cumulative),12.865,9.844,2.323,0.698
+1967,large-dams,Large Dams,thousand dams (cumulative),13.488999999999999,10.243,2.472,0.774
+1968,large-dams,Large Dams,thousand dams (cumulative),14.129999999999999,10.687,2.607,0.836
+1969,large-dams,Large Dams,thousand dams (cumulative),14.728000000000002,11.047,2.768,0.913
+1970,large-dams,Large Dams,thousand dams (cumulative),15.424,11.431,3.005,0.988
+1971,large-dams,Large Dams,thousand dams (cumulative),16.132,11.839,3.244,1.049
+1972,large-dams,Large Dams,thousand dams (cumulative),16.831,12.162,3.549,1.12
+1973,large-dams,Large Dams,thousand dams (cumulative),17.569,12.496,3.88,1.193
+1974,large-dams,Large Dams,thousand dams (cumulative),18.335,12.82,4.259,1.256
+1975,large-dams,Large Dams,thousand dams (cumulative),19.166,13.17,4.675,1.321
+1976,large-dams,Large Dams,thousand dams (cumulative),19.976,13.47,5.112,1.394
+1977,large-dams,Large Dams,thousand dams (cumulative),20.672,13.734,5.481,1.457
+1978,large-dams,Large Dams,thousand dams (cumulative),21.521,14.03,5.947,1.544
+1979,large-dams,Large Dams,thousand dams (cumulative),22.241,14.312,6.313,1.616
+1980,large-dams,Large Dams,thousand dams (cumulative),23.0,14.595,6.717,1.688
+1981,large-dams,Large Dams,thousand dams (cumulative),23.618,14.84,7.014,1.764
+1982,large-dams,Large Dams,thousand dams (cumulative),24.256,15.089,7.29,1.877
+1983,large-dams,Large Dams,thousand dams (cumulative),24.823,15.288,7.569,1.966
+1984,large-dams,Large Dams,thousand dams (cumulative),25.447000000000003,15.566,7.814,2.067
+1985,large-dams,Large Dams,thousand dams (cumulative),25.953,15.768,8.029,2.156
+1986,large-dams,Large Dams,thousand dams (cumulative),26.503,15.987,8.275,2.241
+1987,large-dams,Large Dams,thousand dams (cumulative),26.958000000000002,16.16,8.477,2.321
+1988,large-dams,Large Dams,thousand dams (cumulative),27.42,16.348,8.679,2.393
+1989,large-dams,Large Dams,thousand dams (cumulative),27.816,16.532,8.822,2.462
+1990,large-dams,Large Dams,thousand dams (cumulative),28.177,16.694,8.969,2.514
+1991,large-dams,Large Dams,thousand dams (cumulative),28.567999999999998,16.9,9.11,2.558
+1992,large-dams,Large Dams,thousand dams (cumulative),28.942,17.068,9.249,2.625
+1993,large-dams,Large Dams,thousand dams (cumulative),29.222,17.208,9.342,2.672
+1994,large-dams,Large Dams,thousand dams (cumulative),29.544,17.379,9.428,2.737
+1995,large-dams,Large Dams,thousand dams (cumulative),29.862000000000002,17.524,9.536,2.802
+1996,large-dams,Large Dams,thousand dams (cumulative),30.128999999999998,17.648,9.629,2.852
+1997,large-dams,Large Dams,thousand dams (cumulative),30.505999999999997,17.851,9.758,2.897
+1998,large-dams,Large Dams,thousand dams (cumulative),30.844,17.988,9.932,2.924
+1999,large-dams,Large Dams,thousand dams (cumulative),31.171,18.104,10.127,2.94
+2000,large-dams,Large Dams,thousand dams (cumulative),31.305999999999997,18.147,10.193,2.966
+2001,large-dams,Large Dams,thousand dams (cumulative),31.419999999999998,18.194,10.239,2.987
+2002,large-dams,Large Dams,thousand dams (cumulative),31.486000000000004,18.222,10.266,2.998
+2003,large-dams,Large Dams,thousand dams (cumulative),31.524,18.245,10.274,3.005
+2004,large-dams,Large Dams,thousand dams (cumulative),31.561999999999998,18.264,10.275,3.023
+2005,large-dams,Large Dams,thousand dams (cumulative),31.605999999999998,18.275,10.299,3.032
+2006,large-dams,Large Dams,thousand dams (cumulative),31.628,18.281,10.301,3.046
+2007,large-dams,Large Dams,thousand dams (cumulative),31.631999999999998,18.285,10.301,3.046
+2008,large-dams,Large Dams,thousand dams (cumulative),31.631999999999998,18.285,10.301,3.046
+2009,large-dams,Large Dams,thousand dams (cumulative),31.633,18.285,10.302,3.046
+2010,large-dams,Large Dams,thousand dams (cumulative),31.634999999999998,18.287,10.302,3.046
+1961,paper-production,Paper Production,million tonnes,74.149896,64.718496,3.7127,5.7187
+1962,paper-production,Paper Production,million tonnes,77.42790000000001,67.41720000000001,4.049600000000001,5.961099999999999
+1963,paper-production,Paper Production,million tonnes,82.254624,71.520704,4.4985,6.2354199999999995
+1964,paper-production,Paper Production,million tonnes,91.0406,79.55069999999999,4.689700000000001,6.800199999999999
+1965,paper-production,Paper Production,million tonnes,96.52080400000001,83.927604,4.9561,7.6371
+1966,paper-production,Paper Production,million tonnes,103.838496,90.201096,5.2667,8.3707
+1967,paper-production,Paper Production,million tonnes,105.018096,91.31759600000001,4.4704,9.230099999999998
+1968,paper-production,Paper Production,million tonnes,113.110796,98.45229599999999,4.807099999999999,9.8514
+1969,paper-production,Paper Production,million tonnes,122.067408,106.756208,5.122,10.189199999999998
+1970,paper-production,Paper Production,million tonnes,125.632008,109.06510800000001,5.5302,11.036699999999998
+1971,paper-production,Paper Production,million tonnes,127.49540800000001,110.00390800000001,5.7423,11.7492
+1972,paper-production,Paper Production,million tonnes,136.6608,117.8629,6.305699999999999,12.4922
+1973,paper-production,Paper Production,million tonnes,147.3411,126.6303,7.3938999999999995,13.3169
+1974,paper-production,Paper Production,million tonnes,149.48490800000002,128.31530800000002,7.5847,13.5849
+1975,paper-production,Paper Production,million tonnes,127.012725,105.262608,7.5608,14.189317
+1976,paper-production,Paper Production,million tonnes,146.281208,123.320008,8.0959,14.8653
+1977,paper-production,Paper Production,million tonnes,151.125,126.7783,8.865499999999999,15.481200000000001
+1978,paper-production,Paper Production,million tonnes,158.91269999999997,133.0591,9.925099999999999,15.9285
+1979,paper-production,Paper Production,million tonnes,167.78080799999998,140.879608,11.464000000000002,15.437199999999997
+1980,paper-production,Paper Production,million tonnes,169.3323,140.6648,12.404,16.2635
+1981,paper-production,Paper Production,million tonnes,169.094143,139.719208,12.606000000000002,16.768935
+1982,paper-production,Paper Production,million tonnes,166.20751200000004,135.95640000000003,13.43,16.821112
+1983,paper-production,Paper Production,million tonnes,176.397087,143.94400000000002,14.873,17.580087
+1984,paper-production,Paper Production,million tonnes,189.03026500000004,154.35400000000004,16.297,18.379265000000004
+1985,paper-production,Paper Production,million tonnes,192.00405500000002,154.970008,18.307000000000002,18.727046999999995
+1986,paper-production,Paper Production,million tonnes,202.308443,162.284008,20.583000000000002,19.441435
+1987,paper-production,Paper Production,million tonnes,213.64101000000002,170.90700800000002,22.454,20.280001999999996
+1988,paper-production,Paper Production,million tonnes,226.519428,181.369,24.202,20.948428
+1989,paper-production,Paper Production,million tonnes,232.117918,185.994016,25.282000000000004,20.841901999999997
+1990,paper-production,Paper Production,million tonnes,239.27842900000002,191.89300000000003,26.342,21.043429
+1991,paper-production,Paper Production,million tonnes,243.36282899999998,195.52900799999998,27.794,20.039821
+1992,paper-production,Paper Production,million tonnes,246.30014600000004,199.77091600000003,35.055,11.474230000000004
+1993,paper-production,Paper Production,million tonnes,252.38872299999994,205.32070799999997,36.224000000000004,10.844014999999997
+1994,paper-production,Paper Production,million tonnes,268.580495,217.6047,39.312,11.663794999999999
+1995,paper-production,Paper Production,million tonnes,282.200926,225.8557,43.342,13.003226000000002
+1996,paper-production,Paper Production,million tonnes,284.217765,225.41999999999996,44.918000000000006,13.879764999999999
+1997,paper-production,Paper Production,million tonnes,301.02657999999997,239.5065,46.44599999999999,15.074079999999997
+1998,paper-production,Paper Production,million tonnes,301.66283100000004,237.730351,47.747027,16.185453
+1999,paper-production,Paper Production,million tonnes,315.254308,246.62239899999997,50.575,18.056908999999997
+2000,paper-production,Paper Production,million tonnes,324.43412900000004,251.686476,53.83,18.91765300000001
+2001,paper-production,Paper Production,million tonnes,318.77873400000004,242.73243500000004,56.370799999999996,19.675499000000002
+2002,paper-production,Paper Production,million tonnes,330.01792900000004,246.96571,62.6088,20.443419000000006
+2003,paper-production,Paper Production,million tonnes,338.9916350000001,248.52292900000006,68.5086,21.960106
+2004,paper-production,Paper Production,million tonnes,355.86004,256.142001,76.6186,23.099439
+2005,paper-production,Paper Production,million tonnes,364.82193900000004,257.512508,83.227007,24.082423999999996
+2006,paper-production,Paper Production,million tonnes,379.84511800000007,260.60900100000003,92.95126900000001,26.284847999999997
+2007,paper-production,Paper Production,million tonnes,388.03139300000004,259.46702500000004,102.06071,26.503658000000005
+2008,paper-production,Paper Production,million tonnes,391.487578,249.76815600000003,111.206178,30.513244
+2009,paper-production,Paper Production,million tonnes,372.548366,223.689731,116.95152000000002,31.907114999999997
+2010,paper-production,Paper Production,million tonnes,398.77228,238.64052800000002,127.22124400000001,32.91050799999999
+1750,population,Population,billion,0.7388971336298488,0.16774054778266012,0.3701069439494916,0.20104964189769703
+1760,population,Population,billion,0.777040248083788,0.17320613929893844,0.39812907780552204,0.2057050309793276
+1770,population,Population,billion,0.8198269163446945,0.17870162466497574,0.4305613811983625,0.2105639104813562
+1780,population,Population,billion,0.8960748353725401,0.18476080301949405,0.4956574208034032,0.21565661154964272
+1790,population,Population,billion,0.9404165193045235,0.19132112571728965,0.5281066428234342,0.22098875076379967
+1800,population,Population,billion,0.9557735932990638,0.1985194335358324,0.5306766424051359,0.22657751735809536
+1810,population,Population,billion,1.0333311353692922,0.2085434542814936,0.5910256463666821,0.23376203472111662
+1820,population,Population,billion,1.060843326244262,0.22337461472720094,0.594533111864431,0.24293559965263017
+1830,population,Population,billion,1.1435073967220382,0.24203568081528312,0.6445498983448652,0.2569218175618898
+1840,population,Population,billion,1.203651628767098,0.2621295309331054,0.6699613094259577,0.2715607884080349
+1850,population,Population,billion,1.280869360385834,0.2807308135036241,0.7126353112974829,0.2875032355847271
+1860,population,Population,billion,1.338993202372239,0.30501159015493495,0.7248918947822564,0.3090897174350477
+1870,population,Population,billion,1.3398840269252141,0.32851202838888566,0.6782530134802637,0.33311898505606485
+1880,population,Population,billion,1.4197823004663395,0.3631600708628989,0.6934712090515683,0.3631510205518722
+1890,population,Population,billion,1.5389860196481715,0.400950540880688,0.739113785256689,0.3989216935107944
+1900,population,Population,billion,1.6596204954568097,0.4432118932923161,0.781107831611901,0.43530077055259275
+1910,population,Population,billion,1.783172815017934,0.49364101104605224,0.8077503085244749,0.4817814954474069
+1920,population,Population,billion,1.9184282272039268,0.5235971035775111,0.8608400410907346,0.533991082535681
+1930,population,Population,billion,2.0989621923680346,0.5809577831571295,0.9262002397895547,0.5918041694213507
+1940,population,Population,billion,2.3153944166061673,0.6247644788819782,1.0248240688729031,0.6658058688512859
+1950,population,Population,billion,2.5293336526249997,0.6929100759999999,1.0893321809999998,0.7470913956249998
+1960,population,Population,billion,3.0233370572500005,0.791579859,1.3075348919999998,0.9242223062500003
+1970,population,Population,billion,3.6857433035,0.894056318,1.6219955310000003,1.1696914545
+1980,population,Population,billion,4.437558800000001,0.9868392659999999,1.9682053970000002,1.4825141370000006
+1990,population,Population,billion,5.2903645610000005,1.0697787520000002,2.344709097999999,1.8758767110000005
+2000,population,Population,billion,6.115225342000002,1.1581331240000001,2.6823674900000007,2.2747247280000016
+2010,population,Population,billion,6.908492945999999,1.238451397,2.962509945,2.707531604
+1750,primary-energy,Primary Energy Use,exajoule (EJ),16.0,,,
+1800,primary-energy,Primary Energy Use,exajoule (EJ),20.0,,,
+1850,primary-energy,Primary Energy Use,exajoule (EJ),27.75818734456028,,,
+1851,primary-energy,Primary Energy Use,exajoule (EJ),27.8724695219567,,,
+1852,primary-energy,Primary Energy Use,exajoule (EJ),27.532189492922296,,,
+1853,primary-energy,Primary Energy Use,exajoule (EJ),27.779034725009325,,,
+1854,primary-energy,Primary Energy Use,exajoule (EJ),28.034305372676734,,,
+1855,primary-energy,Primary Energy Use,exajoule (EJ),28.30090840839652,,,
+1856,primary-energy,Primary Energy Use,exajoule (EJ),28.584506699453275,,,
+1857,primary-energy,Primary Energy Use,exajoule (EJ),28.879584848723674,,,
+1858,primary-energy,Primary Energy Use,exajoule (EJ),29.186934966424456,,,
+1859,primary-energy,Primary Energy Use,exajoule (EJ),29.507403818377334,,,
+1860,primary-energy,Primary Energy Use,exajoule (EJ),29.841470638558192,,,
+1861,primary-energy,Primary Energy Use,exajoule (EJ),30.159629869416584,,,
+1862,primary-energy,Primary Energy Use,exajoule (EJ),30.251736441688653,,,
+1863,primary-energy,Primary Energy Use,exajoule (EJ),30.645246558742485,,,
+1864,primary-energy,Primary Energy Use,exajoule (EJ),31.120468720338142,,,
+1865,primary-energy,Primary Energy Use,exajoule (EJ),31.48961625294018,,,
+1866,primary-energy,Primary Energy Use,exajoule (EJ),31.83152085020308,,,
+1867,primary-energy,Primary Energy Use,exajoule (EJ),32.278282401840606,,,
+1868,primary-energy,Primary Energy Use,exajoule (EJ),32.37100619215997,,,
+1869,primary-energy,Primary Energy Use,exajoule (EJ),32.66493999813261,,,
+1870,primary-energy,Primary Energy Use,exajoule (EJ),32.90767976301254,,,
+1871,primary-energy,Primary Energy Use,exajoule (EJ),33.628190445394495,,,
+1872,primary-energy,Primary Energy Use,exajoule (EJ),34.248096119949814,,,
+1873,primary-energy,Primary Energy Use,exajoule (EJ),34.793953924187285,,,
+1874,primary-energy,Primary Energy Use,exajoule (EJ),34.73679889951214,,,
+1875,primary-energy,Primary Energy Use,exajoule (EJ),35.07642360245944,,,
+1876,primary-energy,Primary Energy Use,exajoule (EJ),35.29349776700997,,,
+1877,primary-energy,Primary Energy Use,exajoule (EJ),35.56224603113443,,,
+1878,primary-energy,Primary Energy Use,exajoule (EJ),35.63005388864949,,,
+1879,primary-energy,Primary Energy Use,exajoule (EJ),36.09085282424469,,,
+1880,primary-energy,Primary Energy Use,exajoule (EJ),36.860941212729905,,,
+1881,primary-energy,Primary Energy Use,exajoule (EJ),37.554358937666514,,,
+1882,primary-energy,Primary Energy Use,exajoule (EJ),38.324516672875156,,,
+1883,primary-energy,Primary Energy Use,exajoule (EJ),39.04901780100065,,,
+1884,primary-energy,Primary Energy Use,exajoule (EJ),39.174260459864335,,,
+1885,primary-energy,Primary Energy Use,exajoule (EJ),39.07532760667192,,,
+1886,primary-energy,Primary Energy Use,exajoule (EJ),39.2184326221611,,,
+1887,primary-energy,Primary Energy Use,exajoule (EJ),39.98861852661237,,,
+1888,primary-energy,Primary Energy Use,exajoule (EJ),41.01023505316631,,,
+1889,primary-energy,Primary Energy Use,exajoule (EJ),41.31372835192939,,,
+1890,primary-energy,Primary Energy Use,exajoule (EJ),42.14973599652934,,,
+1891,primary-energy,Primary Energy Use,exajoule (EJ),42.75117568167997,,,
+1892,primary-energy,Primary Energy Use,exajoule (EJ),43.01438256864699,,,
+1893,primary-energy,Primary Energy Use,exajoule (EJ),42.81792551074617,,,
+1894,primary-energy,Primary Energy Use,exajoule (EJ),43.473748196900516,,,
+1895,primary-energy,Primary Energy Use,exajoule (EJ),44.2097726384892,,,
+1896,primary-energy,Primary Energy Use,exajoule (EJ),44.74123882976349,,,
+1897,primary-energy,Primary Energy Use,exajoule (EJ),45.589882682857194,,,
+1898,primary-energy,Primary Energy Use,exajoule (EJ),46.53078157172329,,,
+1899,primary-energy,Primary Energy Use,exajoule (EJ),48.18256775432999,,,
+1900,primary-energy,Primary Energy Use,exajoule (EJ),49.42171361817919,,,
+1901,primary-energy,Primary Energy Use,exajoule (EJ),50.120608934507416,,,
+1902,primary-energy,Primary Energy Use,exajoule (EJ),50.69486588649027,,,
+1903,primary-energy,Primary Energy Use,exajoule (EJ),52.83322577048454,,,
+1904,primary-energy,Primary Energy Use,exajoule (EJ),53.28830075067002,,,
+1905,primary-energy,Primary Energy Use,exajoule (EJ),54.80631958912985,,,
+1906,primary-energy,Primary Energy Use,exajoule (EJ),56.963096175023516,,,
+1907,primary-energy,Primary Energy Use,exajoule (EJ),59.75346340454292,,,
+1908,primary-energy,Primary Energy Use,exajoule (EJ),58.48843416174211,,,
+1909,primary-energy,Primary Energy Use,exajoule (EJ),60.16035897497285,,,
+1910,primary-energy,Primary Energy Use,exajoule (EJ),61.70785035866074,,,
+1911,primary-energy,Primary Energy Use,exajoule (EJ),62.53066914527826,,,
+1912,primary-energy,Primary Energy Use,exajoule (EJ),64.49581365596967,,,
+1913,primary-energy,Primary Energy Use,exajoule (EJ),67.00641579613459,,,
+1914,primary-energy,Primary Energy Use,exajoule (EJ),63.80674266871469,,,
+1915,primary-energy,Primary Energy Use,exajoule (EJ),63.84812768865809,,,
+1916,primary-energy,Primary Energy Use,exajoule (EJ),66.5227238440765,,,
+1917,primary-energy,Primary Energy Use,exajoule (EJ),68.63360379989864,,,
+1918,primary-energy,Primary Energy Use,exajoule (EJ),68.40095433823149,,,
+1919,primary-energy,Primary Energy Use,exajoule (EJ),64.77729820007204,,,
+1920,primary-energy,Primary Energy Use,exajoule (EJ),69.2108116968952,,,
+1921,primary-energy,Primary Energy Use,exajoule (EJ),64.44734565167953,,,
+1922,primary-energy,Primary Energy Use,exajoule (EJ),67.35877490563996,,,
+1923,primary-energy,Primary Energy Use,exajoule (EJ),72.22423750205687,,,
+1924,primary-energy,Primary Energy Use,exajoule (EJ),72.74418569151723,,,
+1925,primary-energy,Primary Energy Use,exajoule (EJ),73.87960124410876,,,
+1926,primary-energy,Primary Energy Use,exajoule (EJ),74.27642048245478,,,
+1927,primary-energy,Primary Energy Use,exajoule (EJ),76.5038336249911,,,
+1928,primary-energy,Primary Energy Use,exajoule (EJ),79.88851526557873,,,
+1929,primary-energy,Primary Energy Use,exajoule (EJ),81.46716523715358,,,
+1930,primary-energy,Primary Energy Use,exajoule (EJ),78.9288951185114,,,
+1931,primary-energy,Primary Energy Use,exajoule (EJ),75.94757810047523,,,
+1932,primary-energy,Primary Energy Use,exajoule (EJ),72.49035496283886,,,
+1933,primary-energy,Primary Energy Use,exajoule (EJ),73.773173397085,,,
+1934,primary-energy,Primary Energy Use,exajoule (EJ),76.45024465102523,,,
+1935,primary-energy,Primary Energy Use,exajoule (EJ),78.80432405871439,,,
+1936,primary-energy,Primary Energy Use,exajoule (EJ),83.09139591945492,,,
+1937,primary-energy,Primary Energy Use,exajoule (EJ),86.4598339969299,,,
+1938,primary-energy,Primary Energy Use,exajoule (EJ),85.32036434560533,,,
+1939,primary-energy,Primary Energy Use,exajoule (EJ),90.02950303294837,,,
+1940,primary-energy,Primary Energy Use,exajoule (EJ),89.87550152330738,,,
+1941,primary-energy,Primary Energy Use,exajoule (EJ),96.30566295957722,,,
+1942,primary-energy,Primary Energy Use,exajoule (EJ),97.81467983934303,,,
+1943,primary-energy,Primary Energy Use,exajoule (EJ),100.13278920770904,,,
+1944,primary-energy,Primary Energy Use,exajoule (EJ),98.37721716728767,,,
+1945,primary-energy,Primary Energy Use,exajoule (EJ),90.7889935799258,,,
+1946,primary-energy,Primary Energy Use,exajoule (EJ),95.32640152258752,,,
+1947,primary-energy,Primary Energy Use,exajoule (EJ),100.60473022936806,,,
+1948,primary-energy,Primary Energy Use,exajoule (EJ),103.83613910253798,,,
+1949,primary-energy,Primary Energy Use,exajoule (EJ),104.31965459419656,,,
+1950,primary-energy,Primary Energy Use,exajoule (EJ),112.28258086407217,,,
+1951,primary-energy,Primary Energy Use,exajoule (EJ),116.26874980724027,,,
+1952,primary-energy,Primary Energy Use,exajoule (EJ),118.79554658739696,,,
+1953,primary-energy,Primary Energy Use,exajoule (EJ),121.79653411476029,,,
+1954,primary-energy,Primary Energy Use,exajoule (EJ),123.84669358836406,,,
+1955,primary-energy,Primary Energy Use,exajoule (EJ),129.6672133983922,,,
+1956,primary-energy,Primary Energy Use,exajoule (EJ),134.95694767789143,,,
+1957,primary-energy,Primary Energy Use,exajoule (EJ),141.67577761709006,,,
+1958,primary-energy,Primary Energy Use,exajoule (EJ),148.19554613304388,,,
+1959,primary-energy,Primary Energy Use,exajoule (EJ),153.46582014151952,,,
+1960,primary-energy,Primary Energy Use,exajoule (EJ),160.00096417735867,,,
+1961,primary-energy,Primary Energy Use,exajoule (EJ),163.8135554697516,,,
+1962,primary-energy,Primary Energy Use,exajoule (EJ),172.37955401109843,,,
+1963,primary-energy,Primary Energy Use,exajoule (EJ),180.1363329074183,,,
+1964,primary-energy,Primary Energy Use,exajoule (EJ),187.9687309866508,,,
+1965,primary-energy,Primary Energy Use,exajoule (EJ),189.72630109014716,,,
+1966,primary-energy,Primary Energy Use,exajoule (EJ),197.69627157018323,,,
+1967,primary-energy,Primary Energy Use,exajoule (EJ),201.4302980998535,,,
+1968,primary-energy,Primary Energy Use,exajoule (EJ),211.54974606110196,,,
+1969,primary-energy,Primary Energy Use,exajoule (EJ),221.2678998843021,,,
+1970,primary-energy,Primary Energy Use,exajoule (EJ),230.6790421691907,,,
+1971,primary-energy,Primary Energy Use,exajoule (EJ),239.55387904646682,,,
+1972,primary-energy,Primary Energy Use,exajoule (EJ),251.216813663005,,,
+1973,primary-energy,Primary Energy Use,exajoule (EJ),264.30948351074267,,,
+1974,primary-energy,Primary Energy Use,exajoule (EJ),266.68030264310056,,,
+1975,primary-energy,Primary Energy Use,exajoule (EJ),268.56834350356314,,,
+1976,primary-energy,Primary Energy Use,exajoule (EJ),282.6422299651163,,,
+1977,primary-energy,Primary Energy Use,exajoule (EJ),292.63044229375555,,,
+1978,primary-energy,Primary Energy Use,exajoule (EJ),304.492161301474,,,
+1979,primary-energy,Primary Energy Use,exajoule (EJ),314.0634373302939,,,
+1980,primary-energy,Primary Energy Use,exajoule (EJ),313.3016366886157,,,
+1981,primary-energy,Primary Energy Use,exajoule (EJ),311.32264542830234,,,
+1982,primary-energy,Primary Energy Use,exajoule (EJ),311.66871351787063,,,
+1983,primary-energy,Primary Energy Use,exajoule (EJ),315.45841158321423,,,
+1984,primary-energy,Primary Energy Use,exajoule (EJ),327.62316970502405,,,
+1985,primary-energy,Primary Energy Use,exajoule (EJ),336.2376992505256,,,
+1986,primary-energy,Primary Energy Use,exajoule (EJ),343.1184981047026,,,
+1987,primary-energy,Primary Energy Use,exajoule (EJ),355.1292008592029,,,
+1988,primary-energy,Primary Energy Use,exajoule (EJ),367.4402039719067,,,
+1989,primary-energy,Primary Energy Use,exajoule (EJ),373.03971072834014,,,
+1990,primary-energy,Primary Energy Use,exajoule (EJ),379.6570041450237,,,
+1991,primary-energy,Primary Energy Use,exajoule (EJ),383.6434093366393,,,
+1992,primary-energy,Primary Energy Use,exajoule (EJ),383.476792598306,,,
+1993,primary-energy,Primary Energy Use,exajoule (EJ),387.5725670431903,,,
+1994,primary-energy,Primary Energy Use,exajoule (EJ),390.7678713190076,,,
+1995,primary-energy,Primary Energy Use,exajoule (EJ),401.03366038126416,,,
+1996,primary-energy,Primary Energy Use,exajoule (EJ),411.2470152796815,,,
+1997,primary-energy,Primary Energy Use,exajoule (EJ),415.0034215143808,,,
+1998,primary-energy,Primary Energy Use,exajoule (EJ),417.2974077985015,,,
+1999,primary-energy,Primary Energy Use,exajoule (EJ),425.2058373151606,,,
+2000,primary-energy,Primary Energy Use,exajoule (EJ),434.4129026863488,,,
+2001,primary-energy,Primary Energy Use,exajoule (EJ),435.42010533028616,,,
+2002,primary-energy,Primary Energy Use,exajoule (EJ),445.3867112979674,,,
+2003,primary-energy,Primary Energy Use,exajoule (EJ),460.9157031246484,,,
+2004,primary-energy,Primary Energy Use,exajoule (EJ),483.2996008779277,,,
+2005,primary-energy,Primary Energy Use,exajoule (EJ),495.76512825508865,,,
+2006,primary-energy,Primary Energy Use,exajoule (EJ),509.2174419376648,,,
+2007,primary-energy,Primary Energy Use,exajoule (EJ),522.8156535452054,,,
+2008,primary-energy,Primary Energy Use,exajoule (EJ),533.37620715067,,,
+1750,real-gdp,Real GDP,trillion USD (2005),0.3518815529384608,0.2538311479244052,0.07028288199597246,0.027767523018083155
+1820,real-gdp,Real GDP,trillion USD (2005),0.4696838368193744,0.33828407462954063,0.09316028738502426,0.03823947480480956
+1821,real-gdp,Real GDP,trillion USD (2005),0.07738851807079479,0.07738851807079479,,
+1822,real-gdp,Real GDP,trillion USD (2005),0.07548215263671115,0.07548215263671115,,
+1823,real-gdp,Real GDP,trillion USD (2005),0.07830950233335374,0.07830950233335374,,
+1824,real-gdp,Real GDP,trillion USD (2005),0.08098824304749987,0.08098824304749987,,
+1825,real-gdp,Real GDP,trillion USD (2005),0.07874698291054305,0.07874698291054305,,
+1826,real-gdp,Real GDP,trillion USD (2005),0.08030815901194939,0.08030815901194939,,
+1827,real-gdp,Real GDP,trillion USD (2005),0.08005419738359432,0.08005419738359432,,
+1828,real-gdp,Real GDP,trillion USD (2005),0.08099784163059232,0.08099784163059232,,
+1829,real-gdp,Real GDP,trillion USD (2005),0.08289264384416159,0.08289264384416159,,
+1830,real-gdp,Real GDP,trillion USD (2005),0.2532979227403575,0.2532979227403575,,
+1831,real-gdp,Real GDP,trillion USD (2005),0.1575577665480491,0.1575577665480491,,
+1832,real-gdp,Real GDP,trillion USD (2005),0.1637608233732959,0.1637608233732959,,
+1833,real-gdp,Real GDP,trillion USD (2005),0.16418537023016624,0.16418537023016624,,
+1834,real-gdp,Real GDP,trillion USD (2005),0.16793653257928196,0.16793653257928196,,
+1835,real-gdp,Real GDP,trillion USD (2005),0.17496148451561971,0.17496148451561971,,
+1836,real-gdp,Real GDP,trillion USD (2005),0.17744532228509058,0.17744532228509058,,
+1837,real-gdp,Real GDP,trillion USD (2005),0.17801995584168306,0.17801995584168306,,
+1838,real-gdp,Real GDP,trillion USD (2005),0.18600332580813145,0.18600332580813145,,
+1839,real-gdp,Real GDP,trillion USD (2005),0.18849537235559483,0.18849537235559483,,
+1840,real-gdp,Real GDP,trillion USD (2005),0.23263489508199475,0.23263489508199475,,
+1841,real-gdp,Real GDP,trillion USD (2005),0.19239725786609868,0.19239725786609868,,
+1842,real-gdp,Real GDP,trillion USD (2005),0.18888282937338818,0.18888282937338818,,
+1843,real-gdp,Real GDP,trillion USD (2005),0.19502658401604955,0.19502658401604955,,
+1844,real-gdp,Real GDP,trillion USD (2005),0.20433833507406396,0.20433833507406396,,
+1845,real-gdp,Real GDP,trillion USD (2005),0.20667556021382516,0.20667556021382516,,
+1846,real-gdp,Real GDP,trillion USD (2005),0.22508712571043699,0.22508712571043699,,
+1847,real-gdp,Real GDP,trillion USD (2005),0.23616786158063455,0.23616786158063455,,
+1848,real-gdp,Real GDP,trillion USD (2005),0.23260290589292026,0.23260290589292026,,
+1849,real-gdp,Real GDP,trillion USD (2005),0.23867417846215808,0.23867417846215808,,
+1850,real-gdp,Real GDP,trillion USD (2005),0.6264136518368746,0.5188778605586769,0.10224015608473266,0.005295635193465047
+1851,real-gdp,Real GDP,trillion USD (2005),0.36401386466599567,0.36401386466599567,,
+1852,real-gdp,Real GDP,trillion USD (2005),0.3719611020416215,0.3719611020416215,,
+1853,real-gdp,Real GDP,trillion USD (2005),0.3720054045992607,0.3720054045992607,,
+1854,real-gdp,Real GDP,trillion USD (2005),0.3830944053681228,0.3830944053681228,,
+1855,real-gdp,Real GDP,trillion USD (2005),0.38876318051628955,0.38876318051628955,,
+1856,real-gdp,Real GDP,trillion USD (2005),0.4047649601443183,0.4047649601443183,,
+1857,real-gdp,Real GDP,trillion USD (2005),0.4177325300085549,0.4177325300085549,,
+1858,real-gdp,Real GDP,trillion USD (2005),0.4282763767461628,0.4282763767461628,,
+1859,real-gdp,Real GDP,trillion USD (2005),0.4275525282435291,0.4275525282435291,,
+1860,real-gdp,Real GDP,trillion USD (2005),0.537158407538184,0.537158407538184,,
+1861,real-gdp,Real GDP,trillion USD (2005),0.5058650108529815,0.5058650108529815,,
+1862,real-gdp,Real GDP,trillion USD (2005),0.5207236885009975,0.5207236885009975,,
+1863,real-gdp,Real GDP,trillion USD (2005),0.53543558056252,0.53543558056252,,
+1864,real-gdp,Real GDP,trillion USD (2005),0.5476467634385265,0.5476467634385265,,
+1865,real-gdp,Real GDP,trillion USD (2005),0.5556262230462102,0.5556262230462102,,
+1866,real-gdp,Real GDP,trillion USD (2005),0.5658477227380019,0.5658477227380019,,
+1867,real-gdp,Real GDP,trillion USD (2005),0.5519013977393128,0.5519013977393128,,
+1868,real-gdp,Real GDP,trillion USD (2005),0.5769065910132544,0.5769065910132544,,
+1869,real-gdp,Real GDP,trillion USD (2005),0.5877642553835841,0.5877642553835841,,
+1870,real-gdp,Real GDP,trillion USD (2005),1.0100243305694612,0.8267932871691102,0.09578042968953478,0.08745061371081636
+1871,real-gdp,Real GDP,trillion USD (2005),0.7857815015121751,0.7721080665311263,0.0063596128857636314,0.007313822095285125
+1872,real-gdp,Real GDP,trillion USD (2005),0.817671466025304,0.8037110358187713,0.006513402797594371,0.007447027408938304
+1873,real-gdp,Real GDP,trillion USD (2005),0.8355128743926402,0.8212115784692889,0.006670748545536804,0.007630547377814453
+1874,real-gdp,Real GDP,trillion USD (2005),0.8636525464880441,0.849082343006331,0.006832539088618853,0.0077376643930942585
+1875,real-gdp,Real GDP,trillion USD (2005),0.8890819436878864,0.874307858225866,0.0069978854678125965,0.007776199994207858
+1876,real-gdp,Real GDP,trillion USD (2005),0.8805466990660042,0.8653583472281193,0.007166787683118032,0.008021564154766864
+1877,real-gdp,Real GDP,trillion USD (2005),0.8985136303484131,0.8830327302143582,0.007340134693563085,0.008140765440491797
+1878,real-gdp,Real GDP,trillion USD (2005),0.9121766110875127,0.8966119244678987,0.007517926499147754,0.008046760120466229
+1879,real-gdp,Real GDP,trillion USD (2005),0.9177076834046749,0.9018454354265812,0.00770016309987204,0.00816208487822158
+1880,real-gdp,Real GDP,trillion USD (2005),0.9695877888946882,0.95332613291738,0.00788595553670802,0.008375700440600257
+1881,real-gdp,Real GDP,trillion USD (2005),0.9913003620284548,0.9743416111561723,0.00807708172771154,0.008881669144570968
+1882,real-gdp,Real GDP,trillion USD (2005),1.0270822945359919,1.0100638427021753,0.008272652713854677,0.0087457991199618
+1883,real-gdp,Real GDP,trillion USD (2005),1.0486145579003532,1.031328813419666,0.00847266849513743,0.008813075985549663
+1884,real-gdp,Real GDP,trillion USD (2005),1.1043940090779845,1.043664598067291,0.051186737837851964,0.009542673172841538
+1885,real-gdp,Real GDP,trillion USD (2005),1.1126767471076198,1.049944092219205,0.05301640342009419,0.009716251468320692
+1886,real-gdp,Real GDP,trillion USD (2005),1.133676524569621,1.0718628140484237,0.05211340008288311,0.009700310438314215
+1887,real-gdp,Real GDP,trillion USD (2005),1.1719512562457997,1.1075434225486673,0.05458752775155859,0.009820305945573786
+1888,real-gdp,Real GDP,trillion USD (2005),1.1935567815277948,1.1279329047493318,0.05552728989012519,0.010096586888337733
+1889,real-gdp,Real GDP,trillion USD (2005),1.230340174282686,1.1654840781795728,0.054801721487349866,0.010054374615763485
+1890,real-gdp,Real GDP,trillion USD (2005),1.4034974072012671,1.2638113272401386,0.10840470871473971,0.031281371246388856
+1891,real-gdp,Real GDP,trillion USD (2005),1.269337548317559,1.206059232771731,0.05304838118312222,0.010229934362705884
+1892,real-gdp,Real GDP,trillion USD (2005),1.3046531597397273,1.2378370813425112,0.05617931079488846,0.010636767602327585
+1893,real-gdp,Real GDP,trillion USD (2005),1.3095267883421644,1.2424046223745338,0.056120421616832686,0.011001744350797862
+1894,real-gdp,Real GDP,trillion USD (2005),1.3427717042486607,1.2744265466735258,0.057048269007326714,0.011296888567808035
+1895,real-gdp,Real GDP,trillion USD (2005),1.4086130317879495,1.3386954989012882,0.05836739010084834,0.011550142785812796
+1896,real-gdp,Real GDP,trillion USD (2005),1.412382930586223,1.3454268461919305,0.05408135117384609,0.012874733220446357
+1897,real-gdp,Real GDP,trillion USD (2005),1.4610581566238987,1.3857523136549943,0.062162013226179175,0.013143829742725294
+1898,real-gdp,Real GDP,trillion USD (2005),1.5323940530482303,1.4562770385104464,0.06279011757868394,0.013326896959099997
+1899,real-gdp,Real GDP,trillion USD (2005),1.5894814370664958,1.516585517824403,0.05879344371969061,0.014102475522402257
+1900,real-gdp,Real GDP,trillion USD (2005),1.8864370852633212,1.6394520783845292,0.11447373394574104,0.13251127293305093
+1901,real-gdp,Real GDP,trillion USD (2005),1.6988655582136665,1.6082565713598946,0.06244239953345451,0.028166587320317356
+1902,real-gdp,Real GDP,trillion USD (2005),1.714836067918329,1.6208669937196607,0.0666660967018202,0.027302977496848187
+1903,real-gdp,Real GDP,trillion USD (2005),1.7708859297094772,1.673443951368383,0.0676699862696628,0.029771992071431434
+1904,real-gdp,Real GDP,trillion USD (2005),1.790780876555678,1.6920116592560515,0.06817505740516522,0.030594159894461313
+1905,real-gdp,Real GDP,trillion USD (2005),1.8526832962888973,1.7530591238021738,0.06752581709952579,0.03209835538719771
+1906,real-gdp,Real GDP,trillion USD (2005),1.960842558555641,1.8542204506517646,0.07030924916753521,0.0363128587363413
+1907,real-gdp,Real GDP,trillion USD (2005),2.018877804514878,1.917466884850365,0.06691599824364368,0.034494921420869365
+1908,real-gdp,Real GDP,trillion USD (2005),1.98177471845285,1.8781466234924293,0.06757157709885962,0.03605651786156098
+1909,real-gdp,Real GDP,trillion USD (2005),2.0867201070087065,1.9731826732039806,0.07605408556438839,0.037483348240337354
+1910,real-gdp,Real GDP,trillion USD (2005),2.216297445898274,2.0755115665630814,0.07628225466725104,0.06450362466794157
+1911,real-gdp,Real GDP,trillion USD (2005),2.2155262880401163,2.091624472209332,0.07763935865984059,0.04626245717094381
+1912,real-gdp,Real GDP,trillion USD (2005),2.2929867932980272,2.168797619780683,0.0791371317499321,0.045052041767412364
+1913,real-gdp,Real GDP,trillion USD (2005),2.763328185585056,2.3665353641154927,0.14912173701519507,0.2476710844543682
+1914,real-gdp,Real GDP,trillion USD (2005),2.233999035512139,2.1081086059638876,0.08122806516700853,0.04466236438124256
+1915,real-gdp,Real GDP,trillion USD (2005),2.28504258246002,2.1596794945396622,0.08050927166965555,0.04485381625070224
+1916,real-gdp,Real GDP,trillion USD (2005),2.4364471824448595,2.3022523673001807,0.08333371290309544,0.05086110224158343
+1917,real-gdp,Real GDP,trillion USD (2005),2.3828721201322587,2.252087780716852,0.08372264816623422,0.04706169124917248
+1918,real-gdp,Real GDP,trillion USD (2005),2.3764424998202784,2.2511558847138833,0.07512606765563275,0.050160547450762455
+1919,real-gdp,Real GDP,trillion USD (2005),2.3117711155665086,2.173956429771226,0.0852044085955378,0.052610277199744655
+1920,real-gdp,Real GDP,trillion USD (2005),2.3743089868360503,2.2341815358510315,0.08243603587266327,0.05769141511235551
+1921,real-gdp,Real GDP,trillion USD (2005),2.3997449667694952,2.24989382845014,0.0870091198277923,0.06284201849156262
+1922,real-gdp,Real GDP,trillion USD (2005),2.555843617556677,2.4022702535607667,0.09156809978466791,0.062005264211242535
+1923,real-gdp,Real GDP,trillion USD (2005),2.642336999206507,2.486409934349317,0.09116691888046509,0.06476014597672466
+1924,real-gdp,Real GDP,trillion USD (2005),2.8127514021636166,2.647158700164484,0.09417281865772768,0.07141988334140503
+1925,real-gdp,Real GDP,trillion USD (2005),2.943850185495734,2.774839993841156,0.0953277072048459,0.07368248444973219
+1926,real-gdp,Real GDP,trillion USD (2005),3.050285300513009,2.8500970361513054,0.09781354254736806,0.10237472181433525
+1927,real-gdp,Real GDP,trillion USD (2005),3.1530265009150207,2.9510928737207127,0.09984946991882654,0.10208415727548124
+1928,real-gdp,Real GDP,trillion USD (2005),3.4068303176141312,3.0607377752709817,0.10467014731179686,0.24142239503135282
+1929,real-gdp,Real GDP,trillion USD (2005),3.6536029552982745,3.2178662600356214,0.1754400500643577,0.26029664519829565
+1930,real-gdp,Real GDP,trillion USD (2005),3.5231021371250253,3.0843276261517785,0.17475649918211114,0.2640180117911358
+1931,real-gdp,Real GDP,trillion USD (2005),3.3558920106767145,2.915455287204836,0.17427891811369786,0.2661578053581808
+1932,real-gdp,Real GDP,trillion USD (2005),3.210326494441069,2.776910793717672,0.17885331483368516,0.2545623858897119
+1933,real-gdp,Real GDP,trillion USD (2005),3.294502203766585,2.84906988203497,0.18104793615492584,0.264384385576689
+1934,real-gdp,Real GDP,trillion USD (2005),3.442769983670882,2.9797477621633504,0.17859354106218547,0.28442868044534586
+1935,real-gdp,Real GDP,trillion USD (2005),3.624611388923291,3.125442001219317,0.1850404026633318,0.31412898504064213
+1936,real-gdp,Real GDP,trillion USD (2005),3.8623010474773087,3.3235474953907373,0.1958059241638166,0.3429476279227549
+1937,real-gdp,Real GDP,trillion USD (2005),4.045675086557839,3.486418368889413,0.19438957724416153,0.36486714042426516
+1938,real-gdp,Real GDP,trillion USD (2005),4.077962139504015,3.500044050103791,0.1948291778439566,0.3830889115562671
+1939,real-gdp,Real GDP,trillion USD (2005),4.1835913683716655,3.6838048688537275,0.12577169002367164,0.37401480949426646
+1940,real-gdp,Real GDP,trillion USD (2005),4.246050775689784,3.747871436352301,0.1286755316287498,0.369503807708733
+1941,real-gdp,Real GDP,trillion USD (2005),4.413954015841743,3.9665884469318105,0.13394258430862754,0.3134229846013058
+1942,real-gdp,Real GDP,trillion USD (2005),4.624323661818294,4.207908130652176,0.13224779954945004,0.28416773161666786
+1943,real-gdp,Real GDP,trillion USD (2005),4.879428938094283,4.460465767944011,0.13965764837984837,0.2793055217704243
+1944,real-gdp,Real GDP,trillion USD (2005),4.927398103452364,4.502197796911928,0.13930470621893534,0.28589560032150096
+1945,real-gdp,Real GDP,trillion USD (2005),4.414289072057819,3.9806893019031637,0.13978705929589727,0.2938127108587583
+1946,real-gdp,Real GDP,trillion USD (2005),4.026820658625126,3.57835051973838,0.1419605243638269,0.30650961452291936
+1947,real-gdp,Real GDP,trillion USD (2005),4.178531006639608,3.702265311910349,0.1316154388147101,0.34465025591454923
+1948,real-gdp,Real GDP,trillion USD (2005),4.511993062437254,3.963929718343453,0.1376451215350824,0.4104182225587184
+1949,real-gdp,Real GDP,trillion USD (2005),4.748518605241786,4.156226490739356,0.14422016471250365,0.44807194978992654
+1950,real-gdp,Real GDP,trillion USD (2005),5.536425838819979,4.522123119737431,0.25097796067419853,0.7633247584083495
+1951,real-gdp,Real GDP,trillion USD (2005),5.875230553268884,4.82516926759514,0.2653849877373719,0.7846762979363726
+1952,real-gdp,Real GDP,trillion USD (2005),6.136942695319828,5.029023037106539,0.2826846731487973,0.825234985064492
+1953,real-gdp,Real GDP,trillion USD (2005),6.44610940362801,5.2817672246848755,0.2980030663511104,0.8663391125920241
+1954,real-gdp,Real GDP,trillion USD (2005),6.680806315324355,5.458044678739454,0.3132257056979545,0.9095359308869458
+1955,real-gdp,Real GDP,trillion USD (2005),7.122643484027437,5.827946599825245,0.3304233565090781,0.9642735276931137
+1956,real-gdp,Real GDP,trillion USD (2005),7.440477249002373,6.062425825445629,0.3478934216326617,1.030158001924082
+1957,real-gdp,Real GDP,trillion USD (2005),7.733244468624879,6.296827591897096,0.3645536809978067,1.0718631957299765
+1958,real-gdp,Real GDP,trillion USD (2005),7.92459136013294,6.409669563574731,0.3950278035750919,1.1198939929831175
+1959,real-gdp,Real GDP,trillion USD (2005),8.336840248939607,6.781348475786346,0.41290334088696473,1.1425884322662971
+1960,real-gdp,Real GDP,trillion USD (2005),8.812103940609964,7.159283365397876,0.4301943907335878,1.2226261844785
+1961,real-gdp,Real GDP,trillion USD (2005),9.206742544559573,7.5034768443832816,0.42906574552606674,1.2741999546502245
+1962,real-gdp,Real GDP,trillion USD (2005),9.68915705228517,7.9164602685719085,0.4473556232361469,1.325341160477114
+1963,real-gdp,Real GDP,trillion USD (2005),10.139936846384625,8.311103833302067,0.4713413521146364,1.3574916609679222
+1964,real-gdp,Real GDP,trillion USD (2005),10.838710247122888,8.857035194727233,0.5045946336374061,1.4770804187582494
+1965,real-gdp,Real GDP,trillion USD (2005),11.390837960713988,9.305225673912453,0.5239245584454711,1.5616877283560646
+1966,real-gdp,Real GDP,trillion USD (2005),12.007325209027607,9.808748532029854,0.5533928260514807,1.6451838509462728
+1967,real-gdp,Real GDP,trillion USD (2005),12.493278354156969,10.206380686132027,0.5743774202661627,1.7125202477587793
+1968,real-gdp,Real GDP,trillion USD (2005),13.233532891079397,10.817447348505091,0.5987773209309517,1.8173082216433543
+1969,real-gdp,Real GDP,trillion USD (2005),15.045215167642008,12.641668959021594,1.0964096102447065,1.307136598375707
+1970,real-gdp,Real GDP,trillion USD (2005),15.657275473641633,13.107400037917094,1.166647999821168,1.3832274359033714
+1971,real-gdp,Real GDP,trillion USD (2005),16.272153069553433,13.587891771094096,1.2290509465522705,1.4552103519070656
+1972,real-gdp,Real GDP,trillion USD (2005),17.114279290730007,14.297128859445206,1.2917636473897662,1.5253867838950346
+1973,real-gdp,Real GDP,trillion USD (2005),18.15521185592791,15.167365347212348,1.3801187914078508,1.6077277173077122
+1974,real-gdp,Real GDP,trillion USD (2005),18.416618749811114,15.307503191419652,1.4424859483321741,1.6666296100592897
+1975,real-gdp,Real GDP,trillion USD (2005),18.581477616840218,15.353915927852672,1.5109737749434444,1.7165879140441018
+1976,real-gdp,Real GDP,trillion USD (2005),19.469134407096437,16.07632482097804,1.57399337451553,1.8188162116028674
+1977,real-gdp,Real GDP,trillion USD (2005),20.207672735794453,16.647250303305814,1.6558410350422563,1.9045813974463819
+1978,real-gdp,Real GDP,trillion USD (2005),21.08306470457375,17.36139652404959,1.735004411704288,1.9866637688198756
+1979,real-gdp,Real GDP,trillion USD (2005),21.928758644024818,18.02092246398744,1.80773999737855,2.100096182658828
+1980,real-gdp,Real GDP,trillion USD (2005),22.319436780298155,18.250485564987635,1.921597879756321,2.1473533355542
+1981,real-gdp,Real GDP,trillion USD (2005),22.717803223716796,18.586924655044818,1.9576044652606137,2.1732741034113654
+1982,real-gdp,Real GDP,trillion USD (2005),22.815866762325538,18.616197387478064,2.014928526418173,2.184740848429302
+1983,real-gdp,Real GDP,trillion USD (2005),23.45406777066944,19.14494375782943,2.0689743670384035,2.2401496458016052
+1984,real-gdp,Real GDP,trillion USD (2005),24.50672451937539,20.006088871147863,2.1945337242892493,2.3061019239382787
+1985,real-gdp,Real GDP,trillion USD (2005),25.357400875660403,20.709009784141667,2.3227017128622647,2.325689378656471
+1986,real-gdp,Real GDP,trillion USD (2005),26.20425332804979,21.333543214098814,2.4588377580331575,2.41187235591782
+1987,real-gdp,Real GDP,trillion USD (2005),27.123177169205405,22.0566344010926,2.592418625227203,2.4741241428855996
+1988,real-gdp,Real GDP,trillion USD (2005),28.321074348715953,23.03130749004844,2.7175360239649127,2.5722308347026
+1989,real-gdp,Real GDP,trillion USD (2005),29.342483045537534,23.88582761605007,2.8232613377446305,2.6333940917428333
+1990,real-gdp,Real GDP,trillion USD (2005),30.066154984542564,24.553775781708065,2.816159438724574,2.696219764109927
+1991,real-gdp,Real GDP,trillion USD (2005),30.374118367488872,24.77946088790387,2.8467738530738695,2.7478836265111335
+1992,real-gdp,Real GDP,trillion USD (2005),30.887886406372633,25.279879804399094,2.840040642873263,2.767965959100276
+1993,real-gdp,Real GDP,trillion USD (2005),31.358991459012486,25.61119656655946,2.943526787984672,2.804268104468353
+1994,real-gdp,Real GDP,trillion USD (2005),32.311632758661574,26.417926661727066,3.0560683768011825,2.8376377201333223
+1995,real-gdp,Real GDP,trillion USD (2005),33.24959509515006,27.100592528887965,3.213360520802873,2.9356420454592276
+1996,real-gdp,Real GDP,trillion USD (2005),34.32780406365825,27.89229896987424,3.363860869242986,3.0716442245410254
+1997,real-gdp,Real GDP,trillion USD (2005),35.58053524142861,28.851077495343553,3.5432002309336736,3.1862575151513846
+1998,real-gdp,Real GDP,trillion USD (2005),36.46596986515861,29.617578424754694,3.6394393442537325,3.208952096150185
+1999,real-gdp,Real GDP,trillion USD (2005),37.6949992201243,30.605046401242546,3.827346170622775,3.262606648258983
+2000,real-gdp,Real GDP,trillion USD (2005),39.33262191238569,31.848171843812807,4.087242416335819,3.3972076522370633
+2001,real-gdp,Real GDP,trillion USD (2005),40.042927007830976,32.277425894146326,4.277251081305025,3.488250032379623
+2002,real-gdp,Real GDP,trillion USD (2005),40.87793884481858,32.78279248372861,4.520558906435438,3.574587454654528
+2003,real-gdp,Real GDP,trillion USD (2005),41.94600426031627,33.38427465150746,4.823607726789547,3.738121882019268
+2004,real-gdp,Real GDP,trillion USD (2005),43.52947061260293,34.38946789411865,5.200961176489596,3.9390415419946807
+2005,real-gdp,Real GDP,trillion USD (2005),44.99803614922914,35.23936866080733,5.588462351276308,4.170205137145496
+2006,real-gdp,Real GDP,trillion USD (2005),46.78782563627428,36.267580099594454,6.064188270486795,4.4560572661930244
+2007,real-gdp,Real GDP,trillion USD (2005),48.528473563928465,37.186311100690254,6.603232597850698,4.738929865387513
+2008,real-gdp,Real GDP,trillion USD (2005),49.36023869899688,37.32838802925278,7.041914536002283,4.989936133741815
+2009,real-gdp,Real GDP,trillion USD (2005),48.34269909385658,36.04568832173079,7.2891615808813945,5.0078491912443965
+2010,real-gdp,Real GDP,trillion USD (2005),50.15176768661402,37.00919278607954,7.902122308126156,5.240452592408332
+1950,telecommunications,Telecommunications,billion subscriptions (landlines + mobile),0.000713,0.000611,0.000102,
+1951,telecommunications,Telecommunications,billion subscriptions (landlines + mobile),0.000644611,0.000644611,,
+1952,telecommunications,Telecommunications,billion subscriptions (landlines + mobile),0.002231856,0.002231856,,
+1953,telecommunications,Telecommunications,billion subscriptions (landlines + mobile),0.002492889,0.002492889,,
+1954,telecommunications,Telecommunications,billion subscriptions (landlines + mobile),0.002744876,0.002734876,,1e-05
+1955,telecommunications,Telecommunications,billion subscriptions (landlines + mobile),0.003614708,0.003603,,1.1708e-05
+1956,telecommunications,Telecommunications,billion subscriptions (landlines + mobile),0.003909975,0.003896267,,1.3708e-05
+1957,telecommunications,Telecommunications,billion subscriptions (landlines + mobile),0.004230503,0.004214454,,1.6049e-05
+1958,telecommunications,Telecommunications,billion subscriptions (landlines + mobile),0.065929841,0.065060889,,0.000868952
+1959,telecommunications,Telecommunications,billion subscriptions (landlines + mobile),0.070282607,0.069382029,,0.000900578
+1960,telecommunications,Telecommunications,billion subscriptions (landlines + mobile),0.087019098,0.08371997,0.001117725,0.002181403
+1961,telecommunications,Telecommunications,billion subscriptions (landlines + mobile),0.091275608,0.088158221,0.001090515,0.002026872
+1962,telecommunications,Telecommunications,billion subscriptions (landlines + mobile),0.095773279,0.09242422,0.001179096,0.002169963
+1963,telecommunications,Telecommunications,billion subscriptions (landlines + mobile),0.10063235599999999,0.097069384,0.001266369,0.002296603
+1964,telecommunications,Telecommunications,billion subscriptions (landlines + mobile),0.10624672199999999,0.102475687,0.001344555,0.00242648
+1965,telecommunications,Telecommunications,billion subscriptions (landlines + mobile),0.114262242,0.109190192,0.001476914,0.003595136
+1966,telecommunications,Telecommunications,billion subscriptions (landlines + mobile),0.12054765199999999,0.11507061,0.001605399,0.003871643
+1967,telecommunications,Telecommunications,billion subscriptions (landlines + mobile),0.12795462400000002,0.122178673,0.001679145,0.004096806
+1968,telecommunications,Telecommunications,billion subscriptions (landlines + mobile),0.135761607,0.129559464,0.00179013,0.004412013
+1969,telecommunications,Telecommunications,billion subscriptions (landlines + mobile),0.144863149,0.138210931,0.001923831,0.004728387
+1970,telecommunications,Telecommunications,billion subscriptions (landlines + mobile),0.16269820599999998,0.147323596,0.002551426,0.012823184
+1971,telecommunications,Telecommunications,billion subscriptions (landlines + mobile),0.174285606,0.157533019,0.002807838,0.013944749
+1972,telecommunications,Telecommunications,billion subscriptions (landlines + mobile),0.187845733,0.168736578,0.003108481,0.016000674
+1973,telecommunications,Telecommunications,billion subscriptions (landlines + mobile),0.204249287,0.181548119,0.005228137,0.017473031
+1974,telecommunications,Telecommunications,billion subscriptions (landlines + mobile),0.21643575099999998,0.191504407,0.005687103,0.019244241
+1975,telecommunications,Telecommunications,billion subscriptions (landlines + mobile),0.23224443,0.202526543,0.007724672,0.021993215
+1976,telecommunications,Telecommunications,billion subscriptions (landlines + mobile),0.246823188,0.213820314,0.008799334,0.02420354
+1977,telecommunications,Telecommunications,billion subscriptions (landlines + mobile),0.263164467,0.225538067,0.009859685,0.027766715
+1978,telecommunications,Telecommunications,billion subscriptions (landlines + mobile),0.280220488,0.238723353,0.011176067,0.030321068
+1979,telecommunications,Telecommunications,billion subscriptions (landlines + mobile),0.297893866,0.251568986,0.0124902,0.03383468
+1980,telecommunications,Telecommunications,billion subscriptions (landlines + mobile),0.315406442,0.264581974,0.014024149,0.036800319
+1981,telecommunications,Telecommunications,billion subscriptions (landlines + mobile),0.34336280599999996,0.286149284,0.015406834,0.041806688
+1982,telecommunications,Telecommunications,billion subscriptions (landlines + mobile),0.305453524,0.269986324,0.016751562,0.018715638
+1983,telecommunications,Telecommunications,billion subscriptions (landlines + mobile),0.318561099,0.280450074,0.018139004,0.019972021
+1984,telecommunications,Telecommunications,billion subscriptions (landlines + mobile),0.333792234,0.292287567,0.01963728,0.021867387
+1985,telecommunications,Telecommunications,billion subscriptions (landlines + mobile),0.349663642,0.304697493,0.021079721,0.023886428
+1986,telecommunications,Telecommunications,billion subscriptions (landlines + mobile),0.366376789,0.317681701,0.022752273,0.025942815
+1987,telecommunications,Telecommunications,billion subscriptions (landlines + mobile),0.385208811,0.332749939,0.024535769,0.027923103
+1988,telecommunications,Telecommunications,billion subscriptions (landlines + mobile),0.40600269399999994,0.348927485,0.026945083,0.030130126
+1989,telecommunications,Telecommunications,billion subscriptions (landlines + mobile),0.428804116,0.366774409,0.029621796,0.032407911
+1990,telecommunications,Telecommunications,billion subscriptions (landlines + mobile),0.522457455,0.420639069,0.048078019,0.053740367
+1991,telecommunications,Telecommunications,billion subscriptions (landlines + mobile),0.5523586189999999,0.441347196,0.053072986,0.057938437
+1992,telecommunications,Telecommunications,billion subscriptions (landlines + mobile),0.586434353,0.463620573,0.058825439,0.063988341
+1993,telecommunications,Telecommunications,billion subscriptions (landlines + mobile),0.628461709,0.489853671,0.068032107,0.070575931
+1994,telecommunications,Telecommunications,billion subscriptions (landlines + mobile),0.688769355,0.526288748,0.083542828,0.078937779
+1995,telecommunications,Telecommunications,billion subscriptions (landlines + mobile),0.769069094,0.574569367,0.104847894,0.089651833
+1996,telecommunications,Telecommunications,billion subscriptions (landlines + mobile),0.872207272,0.638420885,0.130643184,0.103143203
+1997,telecommunications,Telecommunications,billion subscriptions (landlines + mobile),0.994819001,0.710906253,0.165130567,0.118782181
+1998,telecommunications,Telecommunications,billion subscriptions (landlines + mobile),1.140342712,0.799734629,0.206992941,0.133615142
+1999,telecommunications,Telecommunications,billion subscriptions (landlines + mobile),1.372074947,0.944471859,0.271865973,0.155737115
+2000,telecommunications,Telecommunications,billion subscriptions (landlines + mobile),1.68287694,1.110657856,0.378541693,0.193677391
+2001,telecommunications,Telecommunications,billion subscriptions (landlines + mobile),1.9610703040000002,1.213593662,0.503225735,0.244250907
+2002,telecommunications,Telecommunications,billion subscriptions (landlines + mobile),2.210014126,1.276676614,0.630673203,0.302664309
+2003,telecommunications,Telecommunications,billion subscriptions (landlines + mobile),2.51139346,1.340962204,0.799578699,0.370852557
+2004,telecommunications,Telecommunications,billion subscriptions (landlines + mobile),2.9278718625,1.424587404,1.000676837,0.5026076215
+2005,telecommunications,Telecommunications,billion subscriptions (landlines + mobile),3.411931612,1.511589003,1.222063717,0.678278892
+2006,telecommunications,Telecommunications,billion subscriptions (landlines + mobile),3.967829525,1.597468061,1.427353909,0.943007555
+2007,telecommunications,Telecommunications,billion subscriptions (landlines + mobile),4.5832424419999995,1.67972018,1.625376022,1.27814624
+2008,telecommunications,Telecommunications,billion subscriptions (landlines + mobile),5.239102123,1.738386113,1.86962896,1.63108705
+2009,telecommunications,Telecommunications,billion subscriptions (landlines + mobile),5.850281718,1.790045853,2.178246317,1.881989548
+2010,telecommunications,Telecommunications,billion subscriptions (landlines + mobile),6.487050311000001,1.810679846,2.536385482,2.139984983
+1963,transportation,Transportation (Motor Vehicles),million vehicles,177.117816,171.335345,3.992714,1.789757
+1964,transportation,Transportation (Motor Vehicles),million vehicles,189.085136,182.623566,4.516201,1.945369
+1965,transportation,Transportation (Motor Vehicles),million vehicles,200.612922,192.165623,4.893567,3.553732
+1966,transportation,Transportation (Motor Vehicles),million vehicles,217.13767299999998,210.49379,2.815803,3.82808
+1967,transportation,Transportation (Motor Vehicles),million vehicles,221.788712,213.457715,3.011953,5.319044
+1968,transportation,Transportation (Motor Vehicles),million vehicles,240.53533000000002,230.931777,3.180099,6.423454
+1969,transportation,Transportation (Motor Vehicles),million vehicles,258.025055,243.583822,6.274252,8.166981
+1970,transportation,Transportation (Motor Vehicles),million vehicles,267.43717799999996,252.519165,6.890968,8.027045
+1971,transportation,Transportation (Motor Vehicles),million vehicles,276.688598,265.457218,1.94929,9.28209
+1972,transportation,Transportation (Motor Vehicles),million vehicles,292.07033,280.409635,4.504313,7.156382
+1973,transportation,Transportation (Motor Vehicles),million vehicles,310.20984200000004,297.867178,2.320447,10.022217
+1974,transportation,Transportation (Motor Vehicles),million vehicles,327.281211,310.847738,9.908571,6.524902
+1975,transportation,Transportation (Motor Vehicles),million vehicles,338.048902,320.678179,11.153743,6.21698
+1976,transportation,Transportation (Motor Vehicles),million vehicles,356.63173100000006,335.163917,15.23016,6.237654
+1977,transportation,Transportation (Motor Vehicles),million vehicles,353.49653,327.279834,16.32065,9.896046
+1978,transportation,Transportation (Motor Vehicles),million vehicles,396.019085,363.202585,19.001116,13.815384
+1979,transportation,Transportation (Motor Vehicles),million vehicles,419.596762640266,379.560879640266,20.94656,19.089323
+1980,transportation,Transportation (Motor Vehicles),million vehicles,426.8828055,386.506176,18.844396,21.5322335
+1981,transportation,Transportation (Motor Vehicles),million vehicles,452.190866874469,401.47618487446897,20.868282,29.8464
+1982,transportation,Transportation (Motor Vehicles),million vehicles,529.108288,469.174118,27.612035,32.322135
+1983,transportation,Transportation (Motor Vehicles),million vehicles,474.256706,417.420677,20.905409,35.93062
+1984,transportation,Transportation (Motor Vehicles),million vehicles,466.80692,409.351179,21.773295,35.682446
+1985,transportation,Transportation (Motor Vehicles),million vehicles,573.2633519999999,498.503125,23.184704,51.575523
+1986,transportation,Transportation (Motor Vehicles),million vehicles,517.128234,438.739008,24.900461,53.488765
+1987,transportation,Transportation (Motor Vehicles),million vehicles,536.796646,478.727096,38.794352,19.275198
+1988,transportation,Transportation (Motor Vehicles),million vehicles,549.184472,479.128143,44.708797,25.347532
+1989,transportation,Transportation (Motor Vehicles),million vehicles,570.117894,495.005369,29.896604,45.215921
+1990,transportation,Transportation (Motor Vehicles),million vehicles,602.188829,502.239946,40.583888,59.364995
+1991,transportation,Transportation (Motor Vehicles),million vehicles,638.7271410000001,515.320818,57.621493,65.78483
+1992,transportation,Transportation (Motor Vehicles),million vehicles,663.177415,528.379177,63.217104,71.581134
+1993,transportation,Transportation (Motor Vehicles),million vehicles,706.185722,535.312121,83.578182,87.295419
+1994,transportation,Transportation (Motor Vehicles),million vehicles,725.4811219999999,551.976679,75.096475,98.407968
+1995,transportation,Transportation (Motor Vehicles),million vehicles,749.0915560000001,561.665296,81.740798,105.685462
+1996,transportation,Transportation (Motor Vehicles),million vehicles,778.783908,575.281882,90.941387,112.560639
+1997,transportation,Transportation (Motor Vehicles),million vehicles,716.286906,578.70878,71.38506,66.193066
+1998,transportation,Transportation (Motor Vehicles),million vehicles,794.791668,594.33708,123.25378799999999,77.2008
+1999,transportation,Transportation (Motor Vehicles),million vehicles,794.791668,594.33708,123.25378799999999,77.2008
+2000,transportation,Transportation (Motor Vehicles),million vehicles,871.304966,609.96538,175.122516,86.21707
+2001,transportation,Transportation (Motor Vehicles),million vehicles,747.7672410000001,600.928697,71.772809,75.065735
+2002,transportation,Transportation (Motor Vehicles),million vehicles,848.661287,610.636242,144.74399649999998,93.2810485
+2003,transportation,Transportation (Motor Vehicles),million vehicles,949.555333,620.343787,217.715184,111.496362
+2004,transportation,Transportation (Motor Vehicles),million vehicles,1017.918915,636.543282,253.269645,128.105988
+2005,transportation,Transportation (Motor Vehicles),million vehicles,1098.861717,662.570582,279.923288,156.367847
+2006,transportation,Transportation (Motor Vehicles),million vehicles,1176.968653445,708.0343194449999,303.913115,165.021219
+2007,transportation,Transportation (Motor Vehicles),million vehicles,1176.32399507,715.303112,242.278435,218.74244806999994
+2008,transportation,Transportation (Motor Vehicles),million vehicles,1267.466506435,726.529734,355.523672,185.413100435
+2009,transportation,Transportation (Motor Vehicles),million vehicles,1281.355196,721.758835,380.354696,179.241665
+1750,urban-population,Urban Population,billion,0.05696332500491929,0.019100510116516603,0.03414890231205512,0.0037139125763475645
+1760,urban-population,Urban Population,billion,0.061028565121644306,0.02069564155762885,0.03618334951025117,0.004149574053764278
+1770,urban-population,Urban Population,billion,0.06545849118109659,0.022372700799915844,0.038471074291169166,0.004614716090011582
+1780,urban-population,Urban Population,billion,0.07210931437083215,0.024221792398687284,0.04270829736767315,0.005179224604471717
+1790,urban-population,Urban Population,billion,0.07708511151124342,0.026280710739378696,0.04497765942997166,0.005826741341893067
+1800,urban-population,Urban Population,billion,0.08052442545381903,0.028489839094046374,0.04544684560623037,0.006587740753542292
+1810,urban-population,Urban Population,billion,0.08941519994174318,0.03223670063255362,0.049622659217939284,0.007555840091250281
+1820,urban-population,Urban Population,billion,0.09341268306340932,0.03742427000527711,0.047238796767654974,0.00874961629047723
+1830,urban-population,Urban Population,billion,0.1053898181436707,0.043551290807777185,0.05138411133444164,0.01045441600145187
+1840,urban-population,Urban Population,billion,0.11434339077997409,0.050761218064986194,0.05109461223150053,0.01248756048348735
+1850,urban-population,Urban Population,billion,0.12881128301304268,0.05839560026584899,0.055458232534714845,0.014957450212478855
+1860,urban-population,Urban Population,billion,0.1418199824931163,0.06835968453043195,0.055377016806770284,0.018083281155914076
+1870,urban-population,Urban Population,billion,0.1542887583578494,0.08137782398477193,0.05089142811155448,0.022019506261522957
+1880,urban-population,Urban Population,billion,0.17931844487407597,0.09747281900498965,0.05448247986865195,0.027363146000434373
+1890,urban-population,Urban Population,billion,0.21663271074342988,0.11861034501485904,0.06349199511550706,0.03453037061306379
+1900,urban-population,Urban Population,billion,0.26712527907865485,0.15120731537938897,0.07271401246389292,0.04320395123537296
+1910,urban-population,Urban Population,billion,0.32046548909216027,0.18675221148821303,0.07858414774590936,0.05512912985803793
+1920,urban-population,Urban Population,billion,0.3805627214438373,0.21985668387020868,0.09057304669149868,0.0701329908821299
+1930,urban-population,Urban Population,billion,0.46715091513588025,0.26742131009979175,0.11100494453118659,0.08872466050490194
+1940,urban-population,Urban Population,billion,0.5734415064909478,0.3117413293160826,0.14717824622530043,0.11452193094956478
+1950,urban-population,Urban Population,billion,0.7377514255349209,0.37979240500000006,0.20847730653492086,0.14948171400000002
+1960,urban-population,Urban Population,billion,0.9980041203273062,0.47415843,0.29494085632730627,0.228904834
+1970,urban-population,Urban Population,billion,1.3350335295837177,0.5819790490000001,0.4067157435837176,0.34633873699999995
+1980,urban-population,Urban Population,billion,1.7466105540296701,0.6789163419999998,0.5604714460296704,0.507222766
+1990,urban-population,Urban Population,billion,2.285559406774751,0.769799079,0.7938918757747508,0.7218684520000003
+2000,urban-population,Urban Population,billion,2.8643880593731295,0.8634603169999999,1.04099399037313,0.9599337519999998
+2010,urban-population,Urban Population,billion,3.5092460351169885,0.9532441030000001,1.3029223951169884,1.253079537
+1901,water-use,Water Use,thousand km³,0.6713069838731236,0.11735313700603944,0.30117482460782163,0.2527790222592625
+1902,water-use,Water Use,thousand km³,0.6851605825110874,0.11499987905887689,0.3132521957927563,0.2569085076594542
+1903,water-use,Water Use,thousand km³,0.6551348837368022,0.12130915157280008,0.2838250623074547,0.2500006698565474
+1904,water-use,Water Use,thousand km³,0.6995762689562249,0.12666022112071704,0.3150078974222238,0.2579081504132841
+1905,water-use,Water Use,thousand km³,0.7009468620607183,0.12238536976378579,0.3254058174268511,0.25315567487008145
+1906,water-use,Water Use,thousand km³,0.6966029775988565,0.12719062339486653,0.31169699883133206,0.2577153553726579
+1907,water-use,Water Use,thousand km³,0.7311447723856064,0.13027671442151723,0.33718640369645003,0.2636816542676391
+1908,water-use,Water Use,thousand km³,0.7194717012267259,0.13124305253277602,0.3271982823414398,0.2610303663525101
+1909,water-use,Water Use,thousand km³,0.7289013910692517,0.13850485354482206,0.3275665018859681,0.26283003563846147
+1910,water-use,Water Use,thousand km³,0.7212996471440973,0.14044485081460417,0.3076853017911159,0.27316949453837724
+1911,water-use,Water Use,thousand km³,0.7456807205402974,0.13912615108818033,0.3258280002540285,0.2807265691980886
+1912,water-use,Water Use,thousand km³,0.7670063469373597,0.14266627074239313,0.33552032360680684,0.28881975258815973
+1913,water-use,Water Use,thousand km³,0.8153301977060605,0.15101981917921248,0.3749857545298156,0.2893246239970324
+1914,water-use,Water Use,thousand km³,0.786612865433481,0.1490442878173073,0.3508863542533477,0.28668222336282606
+1915,water-use,Water Use,thousand km³,0.7953616897944566,0.1481074062462699,0.3472695882964258,0.29998469525176097
+1916,water-use,Water Use,thousand km³,0.7872319520200065,0.1550998425576637,0.33902925784962884,0.293102851612714
+1917,water-use,Water Use,thousand km³,0.7756398021298062,0.16159314321685378,0.32536136189275644,0.28868529702019596
+1918,water-use,Water Use,thousand km³,0.8660908931674967,0.16061829103994288,0.39599432085672404,0.3094782812708298
+1919,water-use,Water Use,thousand km³,0.8360462215264077,0.16047504220173914,0.37061969682993035,0.3049514824947382
+1920,water-use,Water Use,thousand km³,0.8845072137640695,0.1591257955211041,0.4140245310430416,0.3113568871999238
+1921,water-use,Water Use,thousand km³,0.8430700291618074,0.16320981446354063,0.372015962386208,0.3078442523120588
+1922,water-use,Water Use,thousand km³,0.8718400247248568,0.17195684914101528,0.38908977467875483,0.3107934009050866
+1923,water-use,Water Use,thousand km³,0.8713148120559773,0.16523095266624852,0.3914789829912779,0.31460487639845075
+1924,water-use,Water Use,thousand km³,0.8890834808564545,0.18122232899851065,0.3857920154936667,0.32206913636427714
+1925,water-use,Water Use,thousand km³,0.924787108684641,0.17470830399282924,0.41217471067621353,0.3379040940155982
+1926,water-use,Water Use,thousand km³,0.8977847824255663,0.18273115085442207,0.3903998089556813,0.3246538226154629
+1927,water-use,Water Use,thousand km³,0.9422267562741817,0.18169074797558346,0.4168979655055751,0.34363804279302307
+1928,water-use,Water Use,thousand km³,0.948217636749707,0.18727035283802138,0.4252401925051638,0.33570709140652194
+1929,water-use,Water Use,thousand km³,0.9717520967301363,0.19557223528894127,0.4292919579637654,0.34688790347742954
+1930,water-use,Water Use,thousand km³,0.9539170322318351,0.1949885752958923,0.421245451913526,0.3376830050224168
+1931,water-use,Water Use,thousand km³,0.933752708437908,0.20060304019312572,0.403892894166701,0.3292567740780813
+1932,water-use,Water Use,thousand km³,0.9750804076918913,0.19485355360881992,0.43430526819770343,0.345921585885368
+1933,water-use,Water Use,thousand km³,0.9478800556964087,0.20273247357792282,0.4096713713907912,0.3354762107276946
+1934,water-use,Water Use,thousand km³,1.0012278474264966,0.20980184536382188,0.4434633990541487,0.3479626030085261
+1935,water-use,Water Use,thousand km³,1.0179671681662679,0.20351460825523326,0.4557497680669825,0.3587027918440522
+1936,water-use,Water Use,thousand km³,1.0301401398536874,0.21118789090622034,0.46007312096376834,0.35887912798369864
+1937,water-use,Water Use,thousand km³,1.0375217112795898,0.2174883989014451,0.4495754194041799,0.3704578929739648
+1938,water-use,Water Use,thousand km³,1.06863691745916,0.2191000650348342,0.4704904997130343,0.37904635271129145
+1939,water-use,Water Use,thousand km³,1.1016948925114767,0.2314770422567583,0.48598508646054295,0.3842327637941754
+1940,water-use,Water Use,thousand km³,1.1100571008583313,0.2329099366191055,0.4850177612006899,0.39212940303853594
+1941,water-use,Water Use,thousand km³,1.1279673158736696,0.2233415419282927,0.5117700539876244,0.3928557199577524
+1942,water-use,Water Use,thousand km³,1.1189017250584263,0.24561323300486848,0.49195125905319276,0.38133723300036504
+1943,water-use,Water Use,thousand km³,1.138661531038773,0.25517160963922025,0.49099723486129404,0.3924926865382587
+1944,water-use,Water Use,thousand km³,1.1426689496830578,0.2552500986804885,0.493765433676986,0.3936534173255833
+1945,water-use,Water Use,thousand km³,1.1414818484184168,0.2582529489357173,0.4898511523341763,0.39337774714852314
+1946,water-use,Water Use,thousand km³,1.1777342015092607,0.26503863324828486,0.49811143594612245,0.41458413231485336
+1947,water-use,Water Use,thousand km³,1.1780840720499675,0.27257889283011344,0.49027071760006763,0.41523446161978633
+1948,water-use,Water Use,thousand km³,1.1839112224732613,0.26732094401696654,0.4971865855241867,0.4194036929321082
+1949,water-use,Water Use,thousand km³,1.193998559818286,0.2744593823311884,0.4996002171559455,0.4199389603311522
+1950,water-use,Water Use,thousand km³,1.2265814926520577,0.287572718271885,0.5207449050358202,0.41826386934435267
+1951,water-use,Water Use,thousand km³,1.3281063617123054,0.30371115634306445,0.5715689126579149,0.452826292711326
+1952,water-use,Water Use,thousand km³,1.3790314175916354,0.33021952640187213,0.5891184893111782,0.45969340187858515
+1953,water-use,Water Use,thousand km³,1.3738047883856892,0.3413468721225605,0.5738613553280365,0.4585965609350921
+1954,water-use,Water Use,thousand km³,1.3726776616585197,0.3619998896570664,0.5503173214798022,0.46036045052165103
+1955,water-use,Water Use,thousand km³,1.4247732525378594,0.38325394739959506,0.5775359121368823,0.46398339300138197
+1956,water-use,Water Use,thousand km³,1.457353328545655,0.409705581145582,0.5744557241185148,0.4731920232815582
+1957,water-use,Water Use,thousand km³,1.5672946943154027,0.4089876578976866,0.6690471812474053,0.4892598551703109
+1958,water-use,Water Use,thousand km³,1.5769233771816054,0.42012273785715776,0.649027474384813,0.5077731649396346
+1959,water-use,Water Use,thousand km³,1.6383161884966744,0.4503946946921882,0.6796655633611247,0.5082559304433616
+1960,water-use,Water Use,thousand km³,1.7518566941730351,0.4776031393284538,0.7239977622510758,0.5502557925935053
+1961,water-use,Water Use,thousand km³,1.765317094855332,0.5021888886984814,0.6917698373943879,0.5713583687624627
+1962,water-use,Water Use,thousand km³,1.8360140161426657,0.5262255040244924,0.7301666675156571,0.5796218446025161
+1963,water-use,Water Use,thousand km³,1.919424571799037,0.529104866895341,0.7928897227550665,0.5974299821486295
+1964,water-use,Water Use,thousand km³,1.9466709630245251,0.5689808507781041,0.7792424466169319,0.5984476656294889
+1965,water-use,Water Use,thousand km³,2.0945293014200868,0.5730954362607759,0.8798357593914978,0.6415981057678133
+1966,water-use,Water Use,thousand km³,2.155354004442704,0.6070131545502252,0.9078447765709218,0.640496073321557
+1967,water-use,Water Use,thousand km³,2.133103824800526,0.6247618393213428,0.8679245438678386,0.6404174416113444
+1968,water-use,Water Use,thousand km³,2.349150276457494,0.6472450326475111,1.0144720349155414,0.6874332088944416
+1969,water-use,Water Use,thousand km³,2.3587347375088896,0.6859709128729106,0.9763553628405585,0.6964084617954205
+1970,water-use,Water Use,thousand km³,2.3620574266807397,0.7217153767115333,0.9312183833967427,0.7091236665724636
+1971,water-use,Water Use,thousand km³,2.4357490101445505,0.7231085136566692,0.9839268827853038,0.7287136137025777
+1972,water-use,Water Use,thousand km³,2.5472328730872498,0.750203817518189,1.0684958118467491,0.7285332437223119
+1973,water-use,Water Use,thousand km³,2.6063153316851455,0.8111780206814775,1.0338038393850366,0.7613334716186313
+1974,water-use,Water Use,thousand km³,2.72475434720238,0.7992441609989082,1.1409941465289584,0.7845160396745136
+1975,water-use,Water Use,thousand km³,2.638242268252993,0.7863658591038822,1.0697486357322545,0.7821277734168566
+1976,water-use,Water Use,thousand km³,2.7396881195492377,0.8184205194646029,1.1355078558228475,0.7857597442617874
+1977,water-use,Water Use,thousand km³,2.790536167978835,0.8321075819635293,1.1223673891329804,0.8360611968823256
+1978,water-use,Water Use,thousand km³,2.9911320857534,0.875703634576596,1.2759556982500355,0.8394727529267682
+1979,water-use,Water Use,thousand km³,3.110120552704287,0.890339135468274,1.363028489489999,0.8567529277460137
+1980,water-use,Water Use,thousand km³,3.0734378386931622,0.8876978943178172,1.2997761113511432,0.8859638330242019
+1981,water-use,Water Use,thousand km³,3.053974246703479,0.8701633718348526,1.2903369475076816,0.8934739273609453
+1982,water-use,Water Use,thousand km³,3.0671922075433224,0.8453519383054883,1.2929138093068377,0.9289264599309963
+1983,water-use,Water Use,thousand km³,3.033538895561902,0.8483867155178091,1.2462951191749276,0.9388570608691655
+1984,water-use,Water Use,thousand km³,3.115820776136198,0.8623592200650698,1.285284153442658,0.96817740262847
+1985,water-use,Water Use,thousand km³,3.1287547013014025,0.8743134352356856,1.262542366160874,0.9918988999048431
+1986,water-use,Water Use,thousand km³,3.233087696663552,0.8548271520248151,1.3735424751481768,1.00471806949056
+1987,water-use,Water Use,thousand km³,3.2713901247593897,0.8658614967804737,1.3496036439774424,1.0559249840014735
+1988,water-use,Water Use,thousand km³,3.338411792004411,0.8879441807776037,1.409561145155455,1.040906466071352
+1989,water-use,Water Use,thousand km³,3.3690484876204883,0.8916356785513206,1.4196314406689203,1.0577813684002473
+1990,water-use,Water Use,thousand km³,3.321357298151805,0.9010260392927708,1.3621547576898774,1.0581765011691568
+1991,water-use,Water Use,thousand km³,3.41768760317452,0.882980775306559,1.477673466563533,1.0570333613044276
+1992,water-use,Water Use,thousand km³,3.319438058850714,0.867416062353566,1.4477029330777234,1.0043190634194246
+1993,water-use,Water Use,thousand km³,3.358249157599081,0.8673966572688818,1.4361538846721653,1.054698615658034
+1994,water-use,Water Use,thousand km³,3.4640702032701443,0.9328029012750674,1.4882042652381604,1.0430630367569167
+1995,water-use,Water Use,thousand km³,3.4202129145624873,0.9043847399853334,1.462759630129398,1.053068544447756
+1996,water-use,Water Use,thousand km³,3.338874861935547,0.9105899554061548,1.368948329450491,1.0593365770789012
+1997,water-use,Water Use,thousand km³,3.4418591205376514,0.9105041527589206,1.4789053466842121,1.0524496210945187
+1998,water-use,Water Use,thousand km³,3.495761711662295,0.9258412183729234,1.4868037812174677,1.0831167120719039
+1999,water-use,Water Use,thousand km³,3.6510481419072924,0.9208545958839508,1.6114421059760202,1.1187514400473213
+2000,water-use,Water Use,thousand km³,3.7859488903233567,0.9469870673926076,1.7036154723804926,1.1353463505502563
+2001,water-use,Water Use,thousand km³,3.861642393123577,0.9479965295238245,1.756423671144531,1.1572221924552213
+2002,water-use,Water Use,thousand km³,3.8068575751507114,0.9286156803276164,1.7244171585529242,1.1538247362701708
+2003,water-use,Water Use,thousand km³,3.723071436325594,0.9415809191023451,1.6144807262737662,1.1670097909494825
+2004,water-use,Water Use,thousand km³,3.852973536487861,0.9226454606194204,1.7036030433805691,1.2267250324878713
+2005,water-use,Water Use,thousand km³,3.8274373772083736,0.9464906435552458,1.6582492092606944,1.2226975243924336
+2006,water-use,Water Use,thousand km³,3.9921993194486216,0.9495576625235234,1.7744626120004516,1.2681790449246464
+2007,water-use,Water Use,thousand km³,4.003664798443808,0.9500767543395863,1.760314565643146,1.2932734784610749
+2008,water-use,Water Use,thousand km³,3.9483262648623145,0.9331181807501571,1.7109871875162306,1.3042208965959268
+2009,water-use,Water Use,thousand km³,4.0729469849291196,0.902341417809723,1.8462143113216138,1.3243912557977828
+2010,water-use,Water Use,thousand km³,3.871886184481692,0.8922905870848299,1.6917292000455686,1.2878663973512936

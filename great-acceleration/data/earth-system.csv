@@ -1,0 +1,1835 @@
+year,indicator_id,indicator,unit,value
+1750,ch4,Methane,ppb,705.34914072
+1751,ch4,Methane,ppb,704.8702689
+1752,ch4,Methane,ppb,704.7335206800001
+1753,ch4,Methane,ppb,704.81652108
+1754,ch4,Methane,ppb,705.01744278
+1755,ch4,Methane,ppb,705.31958448
+1756,ch4,Methane,ppb,705.72750108
+1757,ch4,Methane,ppb,706.24564626
+1758,ch4,Methane,ppb,706.87857492
+1759,ch4,Methane,ppb,707.6306395199999
+1760,ch4,Methane,ppb,708.5063949600001
+1761,ch4,Methane,ppb,709.5102949200001
+1762,ch4,Methane,ppb,710.6468943
+1763,ch4,Methane,ppb,711.9205455599999
+1764,ch4,Methane,ppb,713.3358036000001
+1765,ch4,Methane,ppb,714.8742463799999
+1766,ch4,Methane,ppb,716.48283462
+1767,ch4,Methane,ppb,718.1199669
+1768,ch4,Methane,ppb,719.74485156
+1769,ch4,Methane,ppb,721.3163932799999
+1770,ch4,Methane,ppb,722.79369918
+1771,ch4,Methane,ppb,724.13577516
+1772,ch4,Methane,ppb,725.30182956
+1773,ch4,Methane,ppb,726.25086828
+1774,ch4,Methane,ppb,726.941796
+1775,ch4,Methane,ppb,727.3345296
+1776,ch4,Methane,ppb,727.43858376
+1777,ch4,Methane,ppb,727.3481943
+1778,ch4,Methane,ppb,727.1658970799999
+1779,ch4,Methane,ppb,726.9939243
+1780,ch4,Methane,ppb,726.93491304
+1781,ch4,Methane,ppb,727.088565
+1782,ch4,Methane,ppb,727.45639848
+1783,ch4,Methane,ppb,727.91411532
+1784,ch4,Methane,ppb,728.33114172
+1785,ch4,Methane,ppb,728.57720754
+1786,ch4,Methane,ppb,728.56627578
+1787,ch4,Methane,ppb,728.3427820200001
+1788,ch4,Methane,ppb,727.97585952
+1789,ch4,Methane,ppb,727.53423666
+1790,ch4,Methane,ppb,727.08684426
+1791,ch4,Methane,ppb,726.70261314
+1792,ch4,Methane,ppb,726.4504741200001
+1793,ch4,Methane,ppb,726.3992568
+1794,ch4,Methane,ppb,726.6177907800001
+1795,ch4,Methane,ppb,727.1751081
+1796,ch4,Methane,ppb,728.13791274
+1797,ch4,Methane,ppb,729.54173292
+1798,ch4,Methane,ppb,731.3676405
+1799,ch4,Methane,ppb,733.4330345999999
+1800,ch4,Methane,ppb,735.50025066
+1801,ch4,Methane,ppb,737.34690834
+1802,ch4,Methane,ppb,738.90630366
+1803,ch4,Methane,ppb,740.20445016
+1804,ch4,Methane,ppb,741.26806992
+1805,ch4,Methane,ppb,742.12408746
+1806,ch4,Methane,ppb,742.79952852
+1807,ch4,Methane,ppb,743.32111518
+1808,ch4,Methane,ppb,743.7159743999999
+1809,ch4,Methane,ppb,744.01082826
+1810,ch4,Methane,ppb,744.2327025000001
+1811,ch4,Methane,ppb,744.40842042
+1812,ch4,Methane,ppb,744.56500776
+1813,ch4,Methane,ppb,744.7291866
+1814,ch4,Methane,ppb,744.9280838999999
+1815,ch4,Methane,ppb,745.18842174
+1816,ch4,Methane,ppb,745.53783318
+1817,ch4,Methane,ppb,746.0091135
+1818,ch4,Methane,ppb,746.63748726
+1819,ch4,Methane,ppb,747.45787536
+1820,ch4,Methane,ppb,748.5055023599999
+1821,ch4,Methane,ppb,749.8152891599999
+1822,ch4,Methane,ppb,751.4011029000001
+1823,ch4,Methane,ppb,753.1906724999999
+1824,ch4,Methane,ppb,755.09067312
+1825,ch4,Methane,ppb,757.0073750399999
+1826,ch4,Methane,ppb,758.84725098
+1827,ch4,Methane,ppb,760.5167736599999
+1828,ch4,Methane,ppb,761.92211214
+1829,ch4,Methane,ppb,763.01123934
+1830,ch4,Methane,ppb,763.86047514
+1831,ch4,Methane,ppb,764.57053344
+1832,ch4,Methane,ppb,765.2416220399999
+1833,ch4,Methane,ppb,765.97445484
+1834,ch4,Methane,ppb,766.86934086
+1835,ch4,Methane,ppb,768.01322808
+1836,ch4,Methane,ppb,769.36421142
+1837,ch4,Methane,ppb,770.7637803599999
+1838,ch4,Methane,ppb,772.20343242
+1839,ch4,Methane,ppb,773.68478712
+1840,ch4,Methane,ppb,775.2161444999999
+1841,ch4,Methane,ppb,776.8321218000001
+1842,ch4,Methane,ppb,778.5739155599999
+1843,ch4,Methane,ppb,780.45923928
+1844,ch4,Methane,ppb,782.4113682
+1845,ch4,Methane,ppb,784.3294872
+1846,ch4,Methane,ppb,786.1454752200001
+1847,ch4,Methane,ppb,787.92006426
+1848,ch4,Methane,ppb,789.74617428
+1849,ch4,Methane,ppb,791.69415318
+1850,ch4,Methane,ppb,793.3157988
+1851,ch4,Methane,ppb,793.87939176
+1852,ch4,Methane,ppb,793.5691524599999
+1853,ch4,Methane,ppb,792.8198208
+1854,ch4,Methane,ppb,792.10055148
+1855,ch4,Methane,ppb,791.61742842
+1856,ch4,Methane,ppb,791.45648862
+1857,ch4,Methane,ppb,791.81794524
+1858,ch4,Methane,ppb,792.6985592399999
+1859,ch4,Methane,ppb,794.03274006
+1860,ch4,Methane,ppb,795.75509958
+1861,ch4,Methane,ppb,797.80055334
+1862,ch4,Methane,ppb,800.10533274
+1863,ch4,Methane,ppb,802.60617528
+1864,ch4,Methane,ppb,805.20874392
+1865,ch4,Methane,ppb,807.6931888199999
+1866,ch4,Methane,ppb,809.8718481
+1867,ch4,Methane,ppb,811.8107172
+1868,ch4,Methane,ppb,813.63905406
+1869,ch4,Methane,ppb,815.4860154
+1870,ch4,Methane,ppb,817.4809603799999
+1871,ch4,Methane,ppb,819.709926
+1872,ch4,Methane,ppb,822.04699458
+1873,ch4,Methane,ppb,824.37292896
+1874,ch4,Methane,ppb,826.59005184
+1875,ch4,Methane,ppb,828.60038226
+1876,ch4,Methane,ppb,830.3420748
+1877,ch4,Methane,ppb,831.8974213199999
+1878,ch4,Methane,ppb,833.3842419
+1879,ch4,Methane,ppb,834.92055906
+1880,ch4,Methane,ppb,836.59807812
+1881,ch4,Methane,ppb,838.4030331600001
+1882,ch4,Methane,ppb,840.2950374000001
+1883,ch4,Methane,ppb,842.23370406
+1884,ch4,Methane,ppb,844.17895002
+1885,ch4,Methane,ppb,846.03360408
+1886,ch4,Methane,ppb,847.5079746
+1887,ch4,Methane,ppb,848.6194714200001
+1888,ch4,Methane,ppb,849.6366311999999
+1889,ch4,Methane,ppb,850.7738379
+1890,ch4,Methane,ppb,852.0066975
+1891,ch4,Methane,ppb,853.2920902799999
+1892,ch4,Methane,ppb,854.75340342
+1893,ch4,Methane,ppb,856.55532186
+1894,ch4,Methane,ppb,858.79015824
+1895,ch4,Methane,ppb,861.19808082
+1896,ch4,Methane,ppb,863.61450588
+1897,ch4,Methane,ppb,866.18650608
+1898,ch4,Methane,ppb,869.07664074
+1899,ch4,Methane,ppb,872.2395633
+1900,ch4,Methane,ppb,875.57749524
+1901,ch4,Methane,ppb,879.03972534
+1902,ch4,Methane,ppb,882.7617871799999
+1903,ch4,Methane,ppb,886.87465944
+1904,ch4,Methane,ppb,891.39332268
+1905,ch4,Methane,ppb,896.31737202
+1906,ch4,Methane,ppb,901.63617936
+1907,ch4,Methane,ppb,907.3198848
+1908,ch4,Methane,ppb,913.26524394
+1909,ch4,Methane,ppb,918.91838094
+1910,ch4,Methane,ppb,923.61083892
+1911,ch4,Methane,ppb,926.901906
+1912,ch4,Methane,ppb,929.25911736
+1913,ch4,Methane,ppb,931.37410926
+1914,ch4,Methane,ppb,933.8523797400001
+1915,ch4,Methane,ppb,937.20347028
+1916,ch4,Methane,ppb,941.79278508
+1917,ch4,Methane,ppb,947.5786215
+1918,ch4,Methane,ppb,954.3555029400001
+1919,ch4,Methane,ppb,961.65974058
+1920,ch4,Methane,ppb,968.96610384
+1921,ch4,Methane,ppb,975.91070682
+1922,ch4,Methane,ppb,982.43716998
+1923,ch4,Methane,ppb,988.53607986
+1924,ch4,Methane,ppb,994.19782056
+1925,ch4,Methane,ppb,999.39759318
+1926,ch4,Methane,ppb,1004.22568596
+1927,ch4,Methane,ppb,1008.96764052
+1928,ch4,Methane,ppb,1013.7547391999999
+1929,ch4,Methane,ppb,1018.647714
+1930,ch4,Methane,ppb,1023.5082984000001
+1931,ch4,Methane,ppb,1028.2464066
+1932,ch4,Methane,ppb,1033.0027344
+1933,ch4,Methane,ppb,1037.9523924
+1934,ch4,Methane,ppb,1043.2664424
+1935,ch4,Methane,ppb,1049.023836
+1936,ch4,Methane,ppb,1054.924962
+1937,ch4,Methane,ppb,1060.6560384000002
+1938,ch4,Methane,ppb,1066.074345
+1939,ch4,Methane,ppb,1071.1181376000002
+1940,ch4,Methane,ppb,1075.7378184
+1941,ch4,Methane,ppb,1079.9090946000001
+1942,ch4,Methane,ppb,1083.5904659999999
+1943,ch4,Methane,ppb,1086.5815169999998
+1944,ch4,Methane,ppb,1089.0887364
+1945,ch4,Methane,ppb,1091.7933348
+1946,ch4,Methane,ppb,1095.1750949999998
+1947,ch4,Methane,ppb,1099.4091276
+1948,ch4,Methane,ppb,1104.5713476
+1949,ch4,Methane,ppb,1110.5413032
+1950,ch4,Methane,ppb,1117.2693966000002
+1951,ch4,Methane,ppb,1124.7900425999999
+1952,ch4,Methane,ppb,1133.243937
+1953,ch4,Methane,ppb,1142.6138724
+1954,ch4,Methane,ppb,1152.8725194
+1955,ch4,Methane,ppb,1164.1200858
+1956,ch4,Methane,ppb,1176.1075704
+1957,ch4,Methane,ppb,1187.4998813999998
+1958,ch4,Methane,ppb,1198.1603718000001
+1959,ch4,Methane,ppb,1208.9838264
+1960,ch4,Methane,ppb,1220.2516368000001
+1961,ch4,Methane,ppb,1231.968864
+1962,ch4,Methane,ppb,1244.1253860000002
+1963,ch4,Methane,ppb,1256.5663362
+1964,ch4,Methane,ppb,1268.878737
+1965,ch4,Methane,ppb,1280.9026608
+1966,ch4,Methane,ppb,1293.4964532
+1967,ch4,Methane,ppb,1307.4253374
+1968,ch4,Methane,ppb,1323.127596
+1969,ch4,Methane,ppb,1340.0951046
+1970,ch4,Methane,ppb,1357.582884
+1971,ch4,Methane,ppb,1374.957297
+1972,ch4,Methane,ppb,1392.0037572
+1973,ch4,Methane,ppb,1408.6240811999999
+1974,ch4,Methane,ppb,1424.4467916
+1975,ch4,Methane,ppb,1439.7512556
+1976,ch4,Methane,ppb,1454.7257424
+1977,ch4,Methane,ppb,1469.3996058
+1978,ch4,Methane,ppb,1483.8457242
+1979,ch4,Methane,ppb,1498.4041968000001
+1980,ch4,Methane,ppb,1513.567965
+1981,ch4,Methane,ppb,1529.8694460000002
+1982,ch4,Methane,ppb,1546.7084052
+1983,ch4,Methane,ppb,1563.398571
+1984,ch4,Methane,ppb,1579.6160394
+1985,ch4,Methane,ppb,1595.0996628
+1986,ch4,Methane,ppb,1609.7917458
+1987,ch4,Methane,ppb,1623.6760932
+1988,ch4,Methane,ppb,1636.5037038
+1989,ch4,Methane,ppb,1648.281663
+1990,ch4,Methane,ppb,1659.167874
+1991,ch4,Methane,ppb,1669.3333986
+1992,ch4,Methane,ppb,1678.6517118000002
+1993,ch4,Methane,ppb,1686.218919
+1994,ch4,Methane,ppb,1692.327546
+1995,ch4,Methane,ppb,1697.6881572000002
+1996,ch4,Methane,ppb,1702.565949
+1997,ch4,Methane,ppb,1707.6886932
+1998,ch4,Methane,ppb,1713.5948802
+1999,ch4,Methane,ppb,1719.4484327999999
+2000,ch4,Methane,ppb,1724.1824922
+2001,ch4,Methane,ppb,1727.3375196
+2002,ch4,Methane,ppb,1729.0997598
+2003,ch4,Methane,ppb,1729.9722762000001
+2004,ch4,Methane,ppb,1729.423
+2005,ch4,Methane,ppb,1728.561
+2006,ch4,Methane,ppb,1727.769
+2007,ch4,Methane,ppb,1733.234
+2008,ch4,Methane,ppb,1741.586
+2009,ch4,Methane,ppb,1744.076
+2010,ch4,Methane,ppb,1750.808
+2011,ch4,Methane,ppb,1758.4
+2012,ch4,Methane,ppb,1762.4
+2013,ch4,Methane,ppb,1765.8
+1750,co2,Carbon Dioxide,ppm,276.8106
+1751,co2,Carbon Dioxide,ppm,276.8028
+1752,co2,Carbon Dioxide,ppm,276.7852
+1753,co2,Carbon Dioxide,ppm,276.7585
+1754,co2,Carbon Dioxide,ppm,276.7247
+1755,co2,Carbon Dioxide,ppm,276.6866
+1756,co2,Carbon Dioxide,ppm,276.6467
+1757,co2,Carbon Dioxide,ppm,276.6076
+1758,co2,Carbon Dioxide,ppm,276.5719
+1759,co2,Carbon Dioxide,ppm,276.5421
+1760,co2,Carbon Dioxide,ppm,276.521
+1761,co2,Carbon Dioxide,ppm,276.5111
+1762,co2,Carbon Dioxide,ppm,276.515
+1763,co2,Carbon Dioxide,ppm,276.5352
+1764,co2,Carbon Dioxide,ppm,276.5781
+1765,co2,Carbon Dioxide,ppm,276.6485
+1766,co2,Carbon Dioxide,ppm,276.7427
+1767,co2,Carbon Dioxide,ppm,276.8563
+1768,co2,Carbon Dioxide,ppm,276.9852
+1769,co2,Carbon Dioxide,ppm,277.1251
+1770,co2,Carbon Dioxide,ppm,277.2717
+1771,co2,Carbon Dioxide,ppm,277.4208
+1772,co2,Carbon Dioxide,ppm,277.5681
+1773,co2,Carbon Dioxide,ppm,277.7094
+1774,co2,Carbon Dioxide,ppm,277.8403
+1775,co2,Carbon Dioxide,ppm,277.9567
+1776,co2,Carbon Dioxide,ppm,278.054
+1777,co2,Carbon Dioxide,ppm,278.1277
+1778,co2,Carbon Dioxide,ppm,278.1736
+1779,co2,Carbon Dioxide,ppm,278.187
+1780,co2,Carbon Dioxide,ppm,278.1646
+1781,co2,Carbon Dioxide,ppm,278.1475
+1782,co2,Carbon Dioxide,ppm,278.189
+1783,co2,Carbon Dioxide,ppm,278.2867
+1784,co2,Carbon Dioxide,ppm,278.4339
+1785,co2,Carbon Dioxide,ppm,278.6241
+1786,co2,Carbon Dioxide,ppm,278.8506
+1787,co2,Carbon Dioxide,ppm,279.107
+1788,co2,Carbon Dioxide,ppm,279.3867
+1789,co2,Carbon Dioxide,ppm,279.683
+1790,co2,Carbon Dioxide,ppm,279.9894
+1791,co2,Carbon Dioxide,ppm,280.2993
+1792,co2,Carbon Dioxide,ppm,280.6062
+1793,co2,Carbon Dioxide,ppm,280.9035
+1794,co2,Carbon Dioxide,ppm,281.1845
+1795,co2,Carbon Dioxide,ppm,281.4434
+1796,co2,Carbon Dioxide,ppm,281.6834
+1797,co2,Carbon Dioxide,ppm,281.9142
+1798,co2,Carbon Dioxide,ppm,282.1394
+1799,co2,Carbon Dioxide,ppm,282.361
+1800,co2,Carbon Dioxide,ppm,282.5806
+1801,co2,Carbon Dioxide,ppm,282.7971
+1802,co2,Carbon Dioxide,ppm,283.0081
+1803,co2,Carbon Dioxide,ppm,283.2108
+1804,co2,Carbon Dioxide,ppm,283.4028
+1805,co2,Carbon Dioxide,ppm,283.5815
+1806,co2,Carbon Dioxide,ppm,283.7441
+1807,co2,Carbon Dioxide,ppm,283.8882
+1808,co2,Carbon Dioxide,ppm,284.0112
+1809,co2,Carbon Dioxide,ppm,284.1105
+1810,co2,Carbon Dioxide,ppm,284.1834
+1811,co2,Carbon Dioxide,ppm,284.2274
+1812,co2,Carbon Dioxide,ppm,284.24
+1813,co2,Carbon Dioxide,ppm,284.2184
+1814,co2,Carbon Dioxide,ppm,284.1602
+1815,co2,Carbon Dioxide,ppm,284.0638
+1816,co2,Carbon Dioxide,ppm,283.9359
+1817,co2,Carbon Dioxide,ppm,283.7868
+1818,co2,Carbon Dioxide,ppm,283.6267
+1819,co2,Carbon Dioxide,ppm,283.466
+1820,co2,Carbon Dioxide,ppm,283.3151
+1821,co2,Carbon Dioxide,ppm,283.1841
+1822,co2,Carbon Dioxide,ppm,283.0834
+1823,co2,Carbon Dioxide,ppm,283.0234
+1824,co2,Carbon Dioxide,ppm,283.0143
+1825,co2,Carbon Dioxide,ppm,283.0665
+1826,co2,Carbon Dioxide,ppm,283.1902
+1827,co2,Carbon Dioxide,ppm,283.3822
+1828,co2,Carbon Dioxide,ppm,283.5707
+1829,co2,Carbon Dioxide,ppm,283.7333
+1830,co2,Carbon Dioxide,ppm,283.865
+1831,co2,Carbon Dioxide,ppm,283.9605
+1832,co2,Carbon Dioxide,ppm,284.0149
+1833,co2,Carbon Dioxide,ppm,284.0229
+1834,co2,Carbon Dioxide,ppm,283.9861
+1835,co2,Carbon Dioxide,ppm,283.9318
+1836,co2,Carbon Dioxide,ppm,283.8835
+1837,co2,Carbon Dioxide,ppm,283.8546
+1838,co2,Carbon Dioxide,ppm,283.858
+1839,co2,Carbon Dioxide,ppm,283.9099
+1840,co2,Carbon Dioxide,ppm,284.04
+1841,co2,Carbon Dioxide,ppm,284.2811
+1842,co2,Carbon Dioxide,ppm,284.6485
+1843,co2,Carbon Dioxide,ppm,285.0867
+1844,co2,Carbon Dioxide,ppm,285.5229
+1845,co2,Carbon Dioxide,ppm,285.8975
+1846,co2,Carbon Dioxide,ppm,286.2048
+1847,co2,Carbon Dioxide,ppm,286.4525
+1848,co2,Carbon Dioxide,ppm,286.6477
+1849,co2,Carbon Dioxide,ppm,286.7793
+1850,co2,Carbon Dioxide,ppm,286.8307
+1851,co2,Carbon Dioxide,ppm,286.8354
+1852,co2,Carbon Dioxide,ppm,286.817
+1853,co2,Carbon Dioxide,ppm,286.7176
+1854,co2,Carbon Dioxide,ppm,286.5445
+1855,co2,Carbon Dioxide,ppm,286.3632
+1856,co2,Carbon Dioxide,ppm,286.2448
+1857,co2,Carbon Dioxide,ppm,286.1862
+1858,co2,Carbon Dioxide,ppm,286.1639
+1859,co2,Carbon Dioxide,ppm,286.1546
+1860,co2,Carbon Dioxide,ppm,286.1396
+1861,co2,Carbon Dioxide,ppm,286.1194
+1862,co2,Carbon Dioxide,ppm,286.099
+1863,co2,Carbon Dioxide,ppm,286.0907
+1864,co2,Carbon Dioxide,ppm,286.134
+1865,co2,Carbon Dioxide,ppm,286.2654
+1866,co2,Carbon Dioxide,ppm,286.481
+1867,co2,Carbon Dioxide,ppm,286.7666
+1868,co2,Carbon Dioxide,ppm,287.1082
+1869,co2,Carbon Dioxide,ppm,287.4917
+1870,co2,Carbon Dioxide,ppm,287.9046
+1871,co2,Carbon Dioxide,ppm,288.3368
+1872,co2,Carbon Dioxide,ppm,288.7532
+1873,co2,Carbon Dioxide,ppm,289.112
+1874,co2,Carbon Dioxide,ppm,289.3713
+1875,co2,Carbon Dioxide,ppm,289.5046
+1876,co2,Carbon Dioxide,ppm,289.548
+1877,co2,Carbon Dioxide,ppm,289.5527
+1878,co2,Carbon Dioxide,ppm,289.5702
+1879,co2,Carbon Dioxide,ppm,289.6412
+1880,co2,Carbon Dioxide,ppm,289.7642
+1881,co2,Carbon Dioxide,ppm,289.9268
+1882,co2,Carbon Dioxide,ppm,290.1169
+1883,co2,Carbon Dioxide,ppm,290.3221
+1884,co2,Carbon Dioxide,ppm,290.5518
+1885,co2,Carbon Dioxide,ppm,290.8873
+1886,co2,Carbon Dioxide,ppm,291.3156
+1887,co2,Carbon Dioxide,ppm,291.756
+1888,co2,Carbon Dioxide,ppm,292.1534
+1889,co2,Carbon Dioxide,ppm,292.5595
+1890,co2,Carbon Dioxide,ppm,293.0334
+1891,co2,Carbon Dioxide,ppm,293.5562
+1892,co2,Carbon Dioxide,ppm,294.089
+1893,co2,Carbon Dioxide,ppm,294.5989
+1894,co2,Carbon Dioxide,ppm,295.0832
+1895,co2,Carbon Dioxide,ppm,295.5318
+1896,co2,Carbon Dioxide,ppm,295.8639
+1897,co2,Carbon Dioxide,ppm,296.0134
+1898,co2,Carbon Dioxide,ppm,296.0426
+1899,co2,Carbon Dioxide,ppm,296.0462
+1900,co2,Carbon Dioxide,ppm,296.102
+1901,co2,Carbon Dioxide,ppm,296.2191
+1902,co2,Carbon Dioxide,ppm,296.3973
+1903,co2,Carbon Dioxide,ppm,296.652
+1904,co2,Carbon Dioxide,ppm,297.0012
+1905,co2,Carbon Dioxide,ppm,297.4366
+1906,co2,Carbon Dioxide,ppm,297.8837
+1907,co2,Carbon Dioxide,ppm,298.3233
+1908,co2,Carbon Dioxide,ppm,298.7272
+1909,co2,Carbon Dioxide,ppm,299.0624
+1910,co2,Carbon Dioxide,ppm,299.3141
+1911,co2,Carbon Dioxide,ppm,299.5416
+1912,co2,Carbon Dioxide,ppm,299.82
+1913,co2,Carbon Dioxide,ppm,300.1743
+1914,co2,Carbon Dioxide,ppm,300.5865
+1915,co2,Carbon Dioxide,ppm,301.0586
+1916,co2,Carbon Dioxide,ppm,301.5742
+1917,co2,Carbon Dioxide,ppm,302.1061
+1918,co2,Carbon Dioxide,ppm,302.6124
+1919,co2,Carbon Dioxide,ppm,303.0476
+1920,co2,Carbon Dioxide,ppm,303.3881
+1921,co2,Carbon Dioxide,ppm,303.6591
+1922,co2,Carbon Dioxide,ppm,303.8949
+1923,co2,Carbon Dioxide,ppm,304.1296
+1924,co2,Carbon Dioxide,ppm,304.3854
+1925,co2,Carbon Dioxide,ppm,304.6646
+1926,co2,Carbon Dioxide,ppm,304.992
+1927,co2,Carbon Dioxide,ppm,305.3711
+1928,co2,Carbon Dioxide,ppm,305.7965
+1929,co2,Carbon Dioxide,ppm,306.2273
+1930,co2,Carbon Dioxide,ppm,306.6139
+1931,co2,Carbon Dioxide,ppm,306.9661
+1932,co2,Carbon Dioxide,ppm,307.3024
+1933,co2,Carbon Dioxide,ppm,307.6412
+1934,co2,Carbon Dioxide,ppm,307.9971
+1935,co2,Carbon Dioxide,ppm,308.3682
+1936,co2,Carbon Dioxide,ppm,308.7454
+1937,co2,Carbon Dioxide,ppm,309.1504
+1938,co2,Carbon Dioxide,ppm,309.6082
+1939,co2,Carbon Dioxide,ppm,310.0768
+1940,co2,Carbon Dioxide,ppm,310.4871
+1941,co2,Carbon Dioxide,ppm,310.7975
+1942,co2,Carbon Dioxide,ppm,310.9933
+1943,co2,Carbon Dioxide,ppm,311.0459
+1944,co2,Carbon Dioxide,ppm,310.989
+1945,co2,Carbon Dioxide,ppm,310.8733
+1946,co2,Carbon Dioxide,ppm,310.8083
+1947,co2,Carbon Dioxide,ppm,310.8038
+1948,co2,Carbon Dioxide,ppm,310.8721
+1949,co2,Carbon Dioxide,ppm,311.0242
+1950,co2,Carbon Dioxide,ppm,311.2407
+1951,co2,Carbon Dioxide,ppm,311.4847
+1952,co2,Carbon Dioxide,ppm,311.7859
+1953,co2,Carbon Dioxide,ppm,312.1931
+1954,co2,Carbon Dioxide,ppm,312.7537
+1955,co2,Carbon Dioxide,ppm,313.4586
+1956,co2,Carbon Dioxide,ppm,314.126
+1957,co2,Carbon Dioxide,ppm,314.6769
+1958,co2,Carbon Dioxide,ppm,315.1709
+1959,co2,Carbon Dioxide,ppm,315.6582
+1960,co2,Carbon Dioxide,ppm,316.1464
+1961,co2,Carbon Dioxide,ppm,316.667
+1962,co2,Carbon Dioxide,ppm,317.2378
+1963,co2,Carbon Dioxide,ppm,317.8368
+1964,co2,Carbon Dioxide,ppm,318.4488
+1965,co2,Carbon Dioxide,ppm,319.1043
+1966,co2,Carbon Dioxide,ppm,319.8608
+1967,co2,Carbon Dioxide,ppm,320.7604
+1968,co2,Carbon Dioxide,ppm,321.7668
+1969,co2,Carbon Dioxide,ppm,322.824
+1970,co2,Carbon Dioxide,ppm,323.8883
+1971,co2,Carbon Dioxide,ppm,324.9674
+1972,co2,Carbon Dioxide,ppm,326.0949
+1973,co2,Carbon Dioxide,ppm,327.2837
+1974,co2,Carbon Dioxide,ppm,328.4639
+1975,co2,Carbon Dioxide,ppm,329.6384
+1976,co2,Carbon Dioxide,ppm,330.8166
+1977,co2,Carbon Dioxide,ppm,332.0083
+1978,co2,Carbon Dioxide,ppm,333.24
+1979,co2,Carbon Dioxide,ppm,334.5301
+1980,co2,Carbon Dioxide,ppm,335.892
+1981,co2,Carbon Dioxide,ppm,337.2927
+1982,co2,Carbon Dioxide,ppm,338.7269
+1983,co2,Carbon Dioxide,ppm,340.2079
+1984,co2,Carbon Dioxide,ppm,341.7168
+1985,co2,Carbon Dioxide,ppm,343.2343
+1986,co2,Carbon Dioxide,ppm,344.762
+1987,co2,Carbon Dioxide,ppm,346.2982
+1988,co2,Carbon Dioxide,ppm,347.8237
+1989,co2,Carbon Dioxide,ppm,349.3112
+1990,co2,Carbon Dioxide,ppm,350.7596
+1991,co2,Carbon Dioxide,ppm,352.1791
+1992,co2,Carbon Dioxide,ppm,353.5753
+1993,co2,Carbon Dioxide,ppm,354.9812
+1994,co2,Carbon Dioxide,ppm,356.4394
+1995,co2,Carbon Dioxide,ppm,357.9745
+1996,co2,Carbon Dioxide,ppm,359.5948
+1997,co2,Carbon Dioxide,ppm,361.3141
+1998,co2,Carbon Dioxide,ppm,363.1208
+1999,co2,Carbon Dioxide,ppm,364.9643
+2000,co2,Carbon Dioxide,ppm,366.8228
+2001,co2,Carbon Dioxide,ppm,368.7103
+2002,co2,Carbon Dioxide,ppm,370.6415
+2003,co2,Carbon Dioxide,ppm,372.6061
+2004,co2,Carbon Dioxide,ppm,374.5831
+2005,co2,Carbon Dioxide,ppm,376.773
+2006,co2,Carbon Dioxide,ppm,378.699
+2007,co2,Carbon Dioxide,ppm,380.575
+2008,co2,Carbon Dioxide,ppm,382.692
+2009,co2,Carbon Dioxide,ppm,384.271
+2010,co2,Carbon Dioxide,ppm,386.126
+2011,co2,Carbon Dioxide,ppm,388.0
+2012,co2,Carbon Dioxide,ppm,390.0
+2013,co2,Carbon Dioxide,ppm,392.8
+1750,domesticated-land,Domesticated Land,% of total land area,0.08026126124020568
+1751,domesticated-land,Domesticated Land,% of total land area,0.08072167086942136
+1752,domesticated-land,Domesticated Land,% of total land area,0.08118334571203119
+1753,domesticated-land,Domesticated Land,% of total land area,0.0816452443099018
+1754,domesticated-land,Domesticated Land,% of total land area,0.08210795700910481
+1755,domesticated-land,Domesticated Land,% of total land area,0.08257132702770063
+1756,domesticated-land,Domesticated Land,% of total land area,0.08303298493540887
+1757,domesticated-land,Domesticated Land,% of total land area,0.08349675556787572
+1758,domesticated-land,Domesticated Land,% of total land area,0.0839585794529452
+1759,domesticated-land,Domesticated Land,% of total land area,0.08442074471804444
+1760,domesticated-land,Domesticated Land,% of total land area,0.08488383619199197
+1761,domesticated-land,Domesticated Land,% of total land area,0.0853622558208456
+1762,domesticated-land,Domesticated Land,% of total land area,0.08583621766252765
+1763,domesticated-land,Domesticated Land,% of total land area,0.08631441139052208
+1764,domesticated-land,Domesticated Land,% of total land area,0.08678993852285895
+1765,domesticated-land,Domesticated Land,% of total land area,0.08726578726506895
+1766,domesticated-land,Domesticated Land,% of total land area,0.08774227616188464
+1767,domesticated-land,Domesticated Land,% of total land area,0.0882201232991104
+1768,domesticated-land,Domesticated Land,% of total land area,0.08869465678950665
+1769,domesticated-land,Domesticated Land,% of total land area,0.08917234300685307
+1770,domesticated-land,Domesticated Land,% of total land area,0.08964881320631136
+1771,domesticated-land,Domesticated Land,% of total land area,0.09013643116872469
+1772,domesticated-land,Domesticated Land,% of total land area,0.09062774285539682
+1773,domesticated-land,Domesticated Land,% of total land area,0.09111748419393222
+1774,domesticated-land,Domesticated Land,% of total land area,0.09160581326895516
+1775,domesticated-land,Domesticated Land,% of total land area,0.09209464970136912
+1776,domesticated-land,Domesticated Land,% of total land area,0.09258501226726723
+1777,domesticated-land,Domesticated Land,% of total land area,0.09307420073107434
+1778,domesticated-land,Domesticated Land,% of total land area,0.09356332191504618
+1779,domesticated-land,Domesticated Land,% of total land area,0.09405197980302257
+1780,domesticated-land,Domesticated Land,% of total land area,0.09454398129957746
+1781,domesticated-land,Domesticated Land,% of total land area,0.09505003409011016
+1782,domesticated-land,Domesticated Land,% of total land area,0.09555727860729209
+1783,domesticated-land,Domesticated Land,% of total land area,0.09606458963802414
+1784,domesticated-land,Domesticated Land,% of total land area,0.09656926334519096
+1785,domesticated-land,Domesticated Land,% of total land area,0.09707486441063382
+1786,domesticated-land,Domesticated Land,% of total land area,0.09758243919671096
+1787,domesticated-land,Domesticated Land,% of total land area,0.09808902800369886
+1788,domesticated-land,Domesticated Land,% of total land area,0.09859519665654469
+1789,domesticated-land,Domesticated Land,% of total land area,0.09910117749290276
+1790,domesticated-land,Domesticated Land,% of total land area,0.09960604047249909
+1791,domesticated-land,Domesticated Land,% of total land area,0.10014522544013024
+1792,domesticated-land,Domesticated Land,% of total land area,0.1006853622871619
+1793,domesticated-land,Domesticated Land,% of total land area,0.10122172816839269
+1794,domesticated-land,Domesticated Land,% of total land area,0.1017609496111965
+1795,domesticated-land,Domesticated Land,% of total land area,0.10230230316577295
+1796,domesticated-land,Domesticated Land,% of total land area,0.10284343656662878
+1797,domesticated-land,Domesticated Land,% of total land area,0.10338518943239151
+1798,domesticated-land,Domesticated Land,% of total land area,0.10392737647531441
+1799,domesticated-land,Domesticated Land,% of total land area,0.10446960589380552
+1800,domesticated-land,Domesticated Land,% of total land area,0.10501225508329616
+1801,domesticated-land,Domesticated Land,% of total land area,0.10558593031517882
+1802,domesticated-land,Domesticated Land,% of total land area,0.10616075987899593
+1803,domesticated-land,Domesticated Land,% of total land area,0.10673234552793119
+1804,domesticated-land,Domesticated Land,% of total land area,0.10730592014657503
+1805,domesticated-land,Domesticated Land,% of total land area,0.10788449477575528
+1806,domesticated-land,Domesticated Land,% of total land area,0.10845668310795291
+1807,domesticated-land,Domesticated Land,% of total land area,0.10903075650159416
+1808,domesticated-land,Domesticated Land,% of total land area,0.10960315196066504
+1809,domesticated-land,Domesticated Land,% of total land area,0.11017749891810118
+1810,domesticated-land,Domesticated Land,% of total land area,0.11075189767641272
+1811,domesticated-land,Domesticated Land,% of total land area,0.11135635764749696
+1812,domesticated-land,Domesticated Land,% of total land area,0.11195513454147125
+1813,domesticated-land,Domesticated Land,% of total land area,0.1125589719058795
+1814,domesticated-land,Domesticated Land,% of total land area,0.11316062604729626
+1815,domesticated-land,Domesticated Land,% of total land area,0.11376268271829693
+1816,domesticated-land,Domesticated Land,% of total land area,0.11436809181015516
+1817,domesticated-land,Domesticated Land,% of total land area,0.11497146909696553
+1818,domesticated-land,Domesticated Land,% of total land area,0.11557215917504807
+1819,domesticated-land,Domesticated Land,% of total land area,0.11617592879984996
+1820,domesticated-land,Domesticated Land,% of total land area,0.1167805265490023
+1821,domesticated-land,Domesticated Land,% of total land area,0.11740842496028248
+1822,domesticated-land,Domesticated Land,% of total land area,0.11803679762543562
+1823,domesticated-land,Domesticated Land,% of total land area,0.11866549021463454
+1824,domesticated-land,Domesticated Land,% of total land area,0.11929416157773512
+1825,domesticated-land,Domesticated Land,% of total land area,0.11992323186887942
+1826,domesticated-land,Domesticated Land,% of total land area,0.12055003380275323
+1827,domesticated-land,Domesticated Land,% of total land area,0.12118046409676342
+1828,domesticated-land,Domesticated Land,% of total land area,0.12181005959974245
+1829,domesticated-land,Domesticated Land,% of total land area,0.12244099548868781
+1830,domesticated-land,Domesticated Land,% of total land area,0.1230722739070906
+1831,domesticated-land,Domesticated Land,% of total land area,0.12375116606567563
+1832,domesticated-land,Domesticated Land,% of total land area,0.12443124834171106
+1833,domesticated-land,Domesticated Land,% of total land area,0.12511061153577144
+1834,domesticated-land,Domesticated Land,% of total land area,0.12579058768131504
+1835,domesticated-land,Domesticated Land,% of total land area,0.12647007447716843
+1836,domesticated-land,Domesticated Land,% of total land area,0.12715102380483945
+1837,domesticated-land,Domesticated Land,% of total land area,0.12783397911374908
+1838,domesticated-land,Domesticated Land,% of total land area,0.12851594852019801
+1839,domesticated-land,Domesticated Land,% of total land area,0.12919726804022
+1840,domesticated-land,Domesticated Land,% of total land area,0.12987810510711803
+1841,domesticated-land,Domesticated Land,% of total land area,0.13059049235544365
+1842,domesticated-land,Domesticated Land,% of total land area,0.13130454941571715
+1843,domesticated-land,Domesticated Land,% of total land area,0.13201632654781456
+1844,domesticated-land,Domesticated Land,% of total land area,0.13273053341683286
+1845,domesticated-land,Domesticated Land,% of total land area,0.13344336135574233
+1846,domesticated-land,Domesticated Land,% of total land area,0.1341549617824865
+1847,domesticated-land,Domesticated Land,% of total land area,0.1348700709522568
+1848,domesticated-land,Domesticated Land,% of total land area,0.13558715276986213
+1849,domesticated-land,Domesticated Land,% of total land area,0.136301060940933
+1850,domesticated-land,Domesticated Land,% of total land area,0.13701421631348265
+1851,domesticated-land,Domesticated Land,% of total land area,0.1381924818615518
+1852,domesticated-land,Domesticated Land,% of total land area,0.13937251975052053
+1853,domesticated-land,Domesticated Land,% of total land area,0.14055583258891924
+1854,domesticated-land,Domesticated Land,% of total land area,0.14174189516491317
+1855,domesticated-land,Domesticated Land,% of total land area,0.14292911237935557
+1856,domesticated-land,Domesticated Land,% of total land area,0.14411581955440902
+1857,domesticated-land,Domesticated Land,% of total land area,0.14530688413328074
+1858,domesticated-land,Domesticated Land,% of total land area,0.14649879016986433
+1859,domesticated-land,Domesticated Land,% of total land area,0.1476900963584406
+1860,domesticated-land,Domesticated Land,% of total land area,0.14888498968101274
+1861,domesticated-land,Domesticated Land,% of total land area,0.1499088804976409
+1862,domesticated-land,Domesticated Land,% of total land area,0.1509139525772947
+1863,domesticated-land,Domesticated Land,% of total land area,0.15192235562182219
+1864,domesticated-land,Domesticated Land,% of total land area,0.15292907046355844
+1865,domesticated-land,Domesticated Land,% of total land area,0.15394123474206556
+1866,domesticated-land,Domesticated Land,% of total land area,0.154951313575565
+1867,domesticated-land,Domesticated Land,% of total land area,0.15596486437040386
+1868,domesticated-land,Domesticated Land,% of total land area,0.15698758905430643
+1869,domesticated-land,Domesticated Land,% of total land area,0.15800144023292004
+1870,domesticated-land,Domesticated Land,% of total land area,0.15902053448771636
+1871,domesticated-land,Domesticated Land,% of total land area,0.16063513972922164
+1872,domesticated-land,Domesticated Land,% of total land area,0.16225681939176498
+1873,domesticated-land,Domesticated Land,% of total land area,0.16387664265192897
+1874,domesticated-land,Domesticated Land,% of total land area,0.1654866189181625
+1875,domesticated-land,Domesticated Land,% of total land area,0.16709736300210595
+1876,domesticated-land,Domesticated Land,% of total land area,0.16870943613099568
+1877,domesticated-land,Domesticated Land,% of total land area,0.1703212205236448
+1878,domesticated-land,Domesticated Land,% of total land area,0.1719297692772916
+1879,domesticated-land,Domesticated Land,% of total land area,0.1735414182673565
+1880,domesticated-land,Domesticated Land,% of total land area,0.1751518848028224
+1881,domesticated-land,Domesticated Land,% of total land area,0.17658936369406142
+1882,domesticated-land,Domesticated Land,% of total land area,0.17804379564784525
+1883,domesticated-land,Domesticated Land,% of total land area,0.17954866027495459
+1884,domesticated-land,Domesticated Land,% of total land area,0.1810095091004981
+1885,domesticated-land,Domesticated Land,% of total land area,0.18246755761362715
+1886,domesticated-land,Domesticated Land,% of total land area,0.18392755218449694
+1887,domesticated-land,Domesticated Land,% of total land area,0.18539091151341505
+1888,domesticated-land,Domesticated Land,% of total land area,0.18685332348401498
+1889,domesticated-land,Domesticated Land,% of total land area,0.18831650733363617
+1890,domesticated-land,Domesticated Land,% of total land area,0.18978419487090872
+1891,domesticated-land,Domesticated Land,% of total land area,0.1912865651632599
+1892,domesticated-land,Domesticated Land,% of total land area,0.1927141108534903
+1893,domesticated-land,Domesticated Land,% of total land area,0.1941378734706146
+1894,domesticated-land,Domesticated Land,% of total land area,0.1955642321085351
+1895,domesticated-land,Domesticated Land,% of total land area,0.19698876683456612
+1896,domesticated-land,Domesticated Land,% of total land area,0.19841655022644683
+1897,domesticated-land,Domesticated Land,% of total land area,0.19984393246805693
+1898,domesticated-land,Domesticated Land,% of total land area,0.20127211455809582
+1899,domesticated-land,Domesticated Land,% of total land area,0.2027011776461598
+1900,domesticated-land,Domesticated Land,% of total land area,0.20414396850261562
+1901,domesticated-land,Domesticated Land,% of total land area,0.2061796440567212
+1902,domesticated-land,Domesticated Land,% of total land area,0.20820738020712304
+1903,domesticated-land,Domesticated Land,% of total land area,0.21024825370321662
+1904,domesticated-land,Domesticated Land,% of total land area,0.21234767038781116
+1905,domesticated-land,Domesticated Land,% of total land area,0.21439783424830972
+1906,domesticated-land,Domesticated Land,% of total land area,0.21642747523031178
+1907,domesticated-land,Domesticated Land,% of total land area,0.21845364540040219
+1908,domesticated-land,Domesticated Land,% of total land area,0.22055309679771357
+1909,domesticated-land,Domesticated Land,% of total land area,0.22259610286535086
+1910,domesticated-land,Domesticated Land,% of total land area,0.22463417528274485
+1911,domesticated-land,Domesticated Land,% of total land area,0.22691579173825846
+1912,domesticated-land,Domesticated Land,% of total land area,0.22921416378463633
+1913,domesticated-land,Domesticated Land,% of total land area,0.23152870168883496
+1914,domesticated-land,Domesticated Land,% of total land area,0.23400254782146093
+1915,domesticated-land,Domesticated Land,% of total land area,0.23644193970523691
+1916,domesticated-land,Domesticated Land,% of total land area,0.2386185072803793
+1917,domesticated-land,Domesticated Land,% of total land area,0.2407966756251785
+1918,domesticated-land,Domesticated Land,% of total land area,0.24291086544435248
+1919,domesticated-land,Domesticated Land,% of total land area,0.24510101703279452
+1920,domesticated-land,Domesticated Land,% of total land area,0.24731585457363991
+1921,domesticated-land,Domesticated Land,% of total land area,0.24942296690663524
+1922,domesticated-land,Domesticated Land,% of total land area,0.2514393964431726
+1923,domesticated-land,Domesticated Land,% of total land area,0.25353089916473004
+1924,domesticated-land,Domesticated Land,% of total land area,0.2555504257959164
+1925,domesticated-land,Domesticated Land,% of total land area,0.2576535818753641
+1926,domesticated-land,Domesticated Land,% of total land area,0.2597132940318457
+1927,domesticated-land,Domesticated Land,% of total land area,0.26185954575766346
+1928,domesticated-land,Domesticated Land,% of total land area,0.2639410650865356
+1929,domesticated-land,Domesticated Land,% of total land area,0.26616560241793613
+1930,domesticated-land,Domesticated Land,% of total land area,0.26809821606903766
+1931,domesticated-land,Domesticated Land,% of total land area,0.2702473964600309
+1932,domesticated-land,Domesticated Land,% of total land area,0.27235107024171895
+1933,domesticated-land,Domesticated Land,% of total land area,0.27445237888432333
+1934,domesticated-land,Domesticated Land,% of total land area,0.27659347343452256
+1935,domesticated-land,Domesticated Land,% of total land area,0.27873294323034015
+1936,domesticated-land,Domesticated Land,% of total land area,0.28124224483997956
+1937,domesticated-land,Domesticated Land,% of total land area,0.2834880642085644
+1938,domesticated-land,Domesticated Land,% of total land area,0.28546647251555507
+1939,domesticated-land,Domesticated Land,% of total land area,0.28784243254152453
+1940,domesticated-land,Domesticated Land,% of total land area,0.2899056392647571
+1941,domesticated-land,Domesticated Land,% of total land area,0.29195952658137786
+1942,domesticated-land,Domesticated Land,% of total land area,0.2941840000812262
+1943,domesticated-land,Domesticated Land,% of total land area,0.29667073934446986
+1944,domesticated-land,Domesticated Land,% of total land area,0.29869168107442373
+1945,domesticated-land,Domesticated Land,% of total land area,0.300968917750593
+1946,domesticated-land,Domesticated Land,% of total land area,0.3037773988412619
+1947,domesticated-land,Domesticated Land,% of total land area,0.3059369311314641
+1948,domesticated-land,Domesticated Land,% of total land area,0.3084085390218255
+1949,domesticated-land,Domesticated Land,% of total land area,0.310817069231372
+1950,domesticated-land,Domesticated Land,% of total land area,0.3133228522895355
+1951,domesticated-land,Domesticated Land,% of total land area,0.31631117452546353
+1952,domesticated-land,Domesticated Land,% of total land area,0.32018730016480873
+1953,domesticated-land,Domesticated Land,% of total land area,0.32343736341206847
+1954,domesticated-land,Domesticated Land,% of total land area,0.3264627134654881
+1955,domesticated-land,Domesticated Land,% of total land area,0.3299659883574467
+1956,domesticated-land,Domesticated Land,% of total land area,0.33374107163827355
+1957,domesticated-land,Domesticated Land,% of total land area,0.33703450164358584
+1958,domesticated-land,Domesticated Land,% of total land area,0.33935460768212344
+1959,domesticated-land,Domesticated Land,% of total land area,0.34141572114423996
+1960,domesticated-land,Domesticated Land,% of total land area,0.34361053657392765
+1961,domesticated-land,Domesticated Land,% of total land area,0.34486845133198557
+1962,domesticated-land,Domesticated Land,% of total land area,0.3458322994167229
+1963,domesticated-land,Domesticated Land,% of total land area,0.3468619015863827
+1964,domesticated-land,Domesticated Land,% of total land area,0.34782761105435284
+1965,domesticated-land,Domesticated Land,% of total land area,0.3489141975586538
+1966,domesticated-land,Domesticated Land,% of total land area,0.34997601182684485
+1967,domesticated-land,Domesticated Land,% of total land area,0.35119978589993195
+1968,domesticated-land,Domesticated Land,% of total land area,0.35252746908087357
+1969,domesticated-land,Domesticated Land,% of total land area,0.3538283216305628
+1970,domesticated-land,Domesticated Land,% of total land area,0.3543135249518725
+1971,domesticated-land,Domesticated Land,% of total land area,0.35473756990675653
+1972,domesticated-land,Domesticated Land,% of total land area,0.3559942401411191
+1973,domesticated-land,Domesticated Land,% of total land area,0.35683801119121134
+1974,domesticated-land,Domesticated Land,% of total land area,0.35779566125522483
+1975,domesticated-land,Domesticated Land,% of total land area,0.35861414420605103
+1976,domesticated-land,Domesticated Land,% of total land area,0.35964971351472197
+1977,domesticated-land,Domesticated Land,% of total land area,0.3607142781335363
+1978,domesticated-land,Domesticated Land,% of total land area,0.36185691854906205
+1979,domesticated-land,Domesticated Land,% of total land area,0.36290074741536815
+1980,domesticated-land,Domesticated Land,% of total land area,0.36353032759264436
+1981,domesticated-land,Domesticated Land,% of total land area,0.36436946415021176
+1982,domesticated-land,Domesticated Land,% of total land area,0.3649963965824449
+1983,domesticated-land,Domesticated Land,% of total land area,0.3655336975614316
+1984,domesticated-land,Domesticated Land,% of total land area,0.36622469449648265
+1985,domesticated-land,Domesticated Land,% of total land area,0.36696506287656927
+1986,domesticated-land,Domesticated Land,% of total land area,0.3676807048443972
+1987,domesticated-land,Domesticated Land,% of total land area,0.36850594574049866
+1988,domesticated-land,Domesticated Land,% of total land area,0.36923477287021106
+1989,domesticated-land,Domesticated Land,% of total land area,0.36974574689716777
+1990,domesticated-land,Domesticated Land,% of total land area,0.3702538554008447
+1991,domesticated-land,Domesticated Land,% of total land area,0.37014994951138785
+1992,domesticated-land,Domesticated Land,% of total land area,0.37078288256929276
+1993,domesticated-land,Domesticated Land,% of total land area,0.3713854657548129
+1994,domesticated-land,Domesticated Land,% of total land area,0.37198804894033305
+1995,domesticated-land,Domesticated Land,% of total land area,0.37259063212585314
+1996,domesticated-land,Domesticated Land,% of total land area,0.3731932153113732
+1997,domesticated-land,Domesticated Land,% of total land area,0.37379579842026484
+1998,domesticated-land,Domesticated Land,% of total land area,0.3743983816824135
+1999,domesticated-land,Domesticated Land,% of total land area,0.3750009647913051
+2000,domesticated-land,Domesticated Land,% of total land area,0.3756035479768252
+2001,domesticated-land,Domesticated Land,% of total land area,0.376061360435817
+2002,domesticated-land,Domesticated Land,% of total land area,0.3765191728948088
+2003,domesticated-land,Domesticated Land,% of total land area,0.3769769853538006
+2004,domesticated-land,Domesticated Land,% of total land area,0.3774347978127923
+2005,domesticated-land,Domesticated Land,% of total land area,0.3778926102717841
+2006,domesticated-land,Domesticated Land,% of total land area,0.3783504228074044
+2007,domesticated-land,Domesticated Land,% of total land area,0.3788082351131391
+2008,domesticated-land,Domesticated Land,% of total land area,0.37926604764875943
+2009,domesticated-land,Domesticated Land,% of total land area,0.37972385995449415
+2010,domesticated-land,Domesticated Land,% of total land area,0.3801816724901145
+2011,domesticated-land,Domesticated Land,% of total land area,0.3800627302471327
+1950,marine-fish,Marine Fish Capture,million tonnes,14.095579
+1951,marine-fish,Marine Fish Capture,million tonnes,15.988206
+1952,marine-fish,Marine Fish Capture,million tonnes,17.581786
+1953,marine-fish,Marine Fish Capture,million tonnes,17.647981
+1954,marine-fish,Marine Fish Capture,million tonnes,19.302084
+1955,marine-fish,Marine Fish Capture,million tonnes,20.343945
+1956,marine-fish,Marine Fish Capture,million tonnes,21.916744
+1957,marine-fish,Marine Fish Capture,million tonnes,22.053759
+1958,marine-fish,Marine Fish Capture,million tonnes,22.686969
+1959,marine-fish,Marine Fish Capture,million tonnes,24.886734
+1960,marine-fish,Marine Fish Capture,million tonnes,27.094256
+1961,marine-fish,Marine Fish Capture,million tonnes,30.359574
+1962,marine-fish,Marine Fish Capture,million tonnes,33.25974
+1963,marine-fish,Marine Fish Capture,million tonnes,34.194366
+1964,marine-fish,Marine Fish Capture,million tonnes,38.742001
+1965,marine-fish,Marine Fish Capture,million tonnes,39.189419
+1966,marine-fish,Marine Fish Capture,million tonnes,42.831013
+1967,marine-fish,Marine Fish Capture,million tonnes,45.848119
+1968,marine-fish,Marine Fish Capture,million tonnes,48.576804
+1969,marine-fish,Marine Fish Capture,million tonnes,47.403729
+1970,marine-fish,Marine Fish Capture,million tonnes,52.699884
+1971,marine-fish,Marine Fish Capture,million tonnes,52.5485
+1972,marine-fish,Marine Fish Capture,million tonnes,48.231187
+1973,marine-fish,Marine Fish Capture,million tonnes,48.458301
+1974,marine-fish,Marine Fish Capture,million tonnes,51.700646
+1975,marine-fish,Marine Fish Capture,million tonnes,50.918509
+1976,marine-fish,Marine Fish Capture,million tonnes,54.224025
+1977,marine-fish,Marine Fish Capture,million tonnes,52.317775
+1978,marine-fish,Marine Fish Capture,million tonnes,54.426241
+1979,marine-fish,Marine Fish Capture,million tonnes,54.475793
+1980,marine-fish,Marine Fish Capture,million tonnes,54.782867
+1981,marine-fish,Marine Fish Capture,million tonnes,56.601441
+1982,marine-fish,Marine Fish Capture,million tonnes,57.850428
+1983,marine-fish,Marine Fish Capture,million tonnes,57.249264
+1984,marine-fish,Marine Fish Capture,million tonnes,62.462075
+1985,marine-fish,Marine Fish Capture,million tonnes,63.535101
+1986,marine-fish,Marine Fish Capture,million tonnes,68.588121
+1987,marine-fish,Marine Fish Capture,million tonnes,68.100989
+1988,marine-fish,Marine Fish Capture,million tonnes,71.489458
+1989,marine-fish,Marine Fish Capture,million tonnes,71.549405
+1990,marine-fish,Marine Fish Capture,million tonnes,67.983144
+1991,marine-fish,Marine Fish Capture,million tonnes,66.64212
+1992,marine-fish,Marine Fish Capture,million tonnes,67.59045
+1993,marine-fish,Marine Fish Capture,million tonnes,68.40857
+1994,marine-fish,Marine Fish Capture,million tonnes,73.087107
+1995,marine-fish,Marine Fish Capture,million tonnes,71.928551
+1996,marine-fish,Marine Fish Capture,million tonnes,73.428161
+1997,marine-fish,Marine Fish Capture,million tonnes,71.87616
+1998,marine-fish,Marine Fish Capture,million tonnes,64.617906
+1999,marine-fish,Marine Fish Capture,million tonnes,69.136508
+2000,marine-fish,Marine Fish Capture,million tonnes,70.53217
+2001,marine-fish,Marine Fish Capture,million tonnes,68.330956
+2002,marine-fish,Marine Fish Capture,million tonnes,69.014738
+2003,marine-fish,Marine Fish Capture,million tonnes,66.084277
+2004,marine-fish,Marine Fish Capture,million tonnes,70.5753
+2005,marine-fish,Marine Fish Capture,million tonnes,69.589822
+2006,marine-fish,Marine Fish Capture,million tonnes,66.347809
+2007,marine-fish,Marine Fish Capture,million tonnes,66.308727
+2008,marine-fish,Marine Fish Capture,million tonnes,65.88928
+2009,marine-fish,Marine Fish Capture,million tonnes,66.025269
+2010,marine-fish,Marine Fish Capture,million tonnes,64.1455218
+1750,n2o,Nitrous Oxide,ppb,271.3958
+1751,n2o,Nitrous Oxide,ppb,271.6111
+1752,n2o,Nitrous Oxide,ppb,271.8357
+1753,n2o,Nitrous Oxide,ppb,272.0668
+1754,n2o,Nitrous Oxide,ppb,272.3014
+1755,n2o,Nitrous Oxide,ppb,272.5366
+1756,n2o,Nitrous Oxide,ppb,272.7693
+1757,n2o,Nitrous Oxide,ppb,272.9968
+1758,n2o,Nitrous Oxide,ppb,273.2159
+1759,n2o,Nitrous Oxide,ppb,273.4238
+1760,n2o,Nitrous Oxide,ppb,273.6175
+1761,n2o,Nitrous Oxide,ppb,273.794
+1762,n2o,Nitrous Oxide,ppb,273.9505
+1763,n2o,Nitrous Oxide,ppb,274.0839
+1764,n2o,Nitrous Oxide,ppb,274.1934
+1765,n2o,Nitrous Oxide,ppb,274.2812
+1766,n2o,Nitrous Oxide,ppb,274.3485
+1767,n2o,Nitrous Oxide,ppb,274.3963
+1768,n2o,Nitrous Oxide,ppb,274.4258
+1769,n2o,Nitrous Oxide,ppb,274.4382
+1770,n2o,Nitrous Oxide,ppb,274.4344
+1771,n2o,Nitrous Oxide,ppb,274.4156
+1772,n2o,Nitrous Oxide,ppb,274.3829
+1773,n2o,Nitrous Oxide,ppb,274.3375
+1774,n2o,Nitrous Oxide,ppb,274.2804
+1775,n2o,Nitrous Oxide,ppb,274.2127
+1776,n2o,Nitrous Oxide,ppb,274.1357
+1777,n2o,Nitrous Oxide,ppb,274.0502
+1778,n2o,Nitrous Oxide,ppb,273.9575
+1779,n2o,Nitrous Oxide,ppb,273.8587
+1780,n2o,Nitrous Oxide,ppb,273.7549
+1781,n2o,Nitrous Oxide,ppb,273.6472
+1782,n2o,Nitrous Oxide,ppb,273.5366
+1783,n2o,Nitrous Oxide,ppb,273.4244
+1784,n2o,Nitrous Oxide,ppb,273.3116
+1785,n2o,Nitrous Oxide,ppb,273.1993
+1786,n2o,Nitrous Oxide,ppb,273.0887
+1787,n2o,Nitrous Oxide,ppb,272.9808
+1788,n2o,Nitrous Oxide,ppb,272.8767
+1789,n2o,Nitrous Oxide,ppb,272.7776
+1790,n2o,Nitrous Oxide,ppb,272.6846
+1791,n2o,Nitrous Oxide,ppb,272.5988
+1792,n2o,Nitrous Oxide,ppb,272.5212
+1793,n2o,Nitrous Oxide,ppb,272.4531
+1794,n2o,Nitrous Oxide,ppb,272.3954
+1795,n2o,Nitrous Oxide,ppb,272.3492
+1796,n2o,Nitrous Oxide,ppb,272.3127
+1797,n2o,Nitrous Oxide,ppb,272.2823
+1798,n2o,Nitrous Oxide,ppb,272.2542
+1799,n2o,Nitrous Oxide,ppb,272.2246
+1800,n2o,Nitrous Oxide,ppb,272.1899
+1801,n2o,Nitrous Oxide,ppb,272.1495
+1802,n2o,Nitrous Oxide,ppb,272.1045
+1803,n2o,Nitrous Oxide,ppb,272.0559
+1804,n2o,Nitrous Oxide,ppb,272.005
+1805,n2o,Nitrous Oxide,ppb,271.9528
+1806,n2o,Nitrous Oxide,ppb,271.9004
+1807,n2o,Nitrous Oxide,ppb,271.849
+1808,n2o,Nitrous Oxide,ppb,271.7996
+1809,n2o,Nitrous Oxide,ppb,271.7534
+1810,n2o,Nitrous Oxide,ppb,271.7114
+1811,n2o,Nitrous Oxide,ppb,271.6748
+1812,n2o,Nitrous Oxide,ppb,271.6447
+1813,n2o,Nitrous Oxide,ppb,271.6222
+1814,n2o,Nitrous Oxide,ppb,271.6084
+1815,n2o,Nitrous Oxide,ppb,271.6041
+1816,n2o,Nitrous Oxide,ppb,271.6083
+1817,n2o,Nitrous Oxide,ppb,271.6189
+1818,n2o,Nitrous Oxide,ppb,271.6339
+1819,n2o,Nitrous Oxide,ppb,271.6514
+1820,n2o,Nitrous Oxide,ppb,271.6692
+1821,n2o,Nitrous Oxide,ppb,271.6855
+1822,n2o,Nitrous Oxide,ppb,271.6981
+1823,n2o,Nitrous Oxide,ppb,271.7051
+1824,n2o,Nitrous Oxide,ppb,271.7046
+1825,n2o,Nitrous Oxide,ppb,271.6943
+1826,n2o,Nitrous Oxide,ppb,271.6725
+1827,n2o,Nitrous Oxide,ppb,271.637
+1828,n2o,Nitrous Oxide,ppb,271.5858
+1829,n2o,Nitrous Oxide,ppb,271.517
+1830,n2o,Nitrous Oxide,ppb,271.4286
+1831,n2o,Nitrous Oxide,ppb,271.3184
+1832,n2o,Nitrous Oxide,ppb,271.1846
+1833,n2o,Nitrous Oxide,ppb,271.0251
+1834,n2o,Nitrous Oxide,ppb,270.8415
+1835,n2o,Nitrous Oxide,ppb,270.6492
+1836,n2o,Nitrous Oxide,ppb,270.4673
+1837,n2o,Nitrous Oxide,ppb,270.3137
+1838,n2o,Nitrous Oxide,ppb,270.1921
+1839,n2o,Nitrous Oxide,ppb,270.0982
+1840,n2o,Nitrous Oxide,ppb,270.0275
+1841,n2o,Nitrous Oxide,ppb,269.9754
+1842,n2o,Nitrous Oxide,ppb,269.9384
+1843,n2o,Nitrous Oxide,ppb,269.9154
+1844,n2o,Nitrous Oxide,ppb,269.9063
+1845,n2o,Nitrous Oxide,ppb,269.911
+1846,n2o,Nitrous Oxide,ppb,269.9293
+1847,n2o,Nitrous Oxide,ppb,269.961
+1848,n2o,Nitrous Oxide,ppb,270.006
+1849,n2o,Nitrous Oxide,ppb,270.0641
+1850,n2o,Nitrous Oxide,ppb,270.1352
+1851,n2o,Nitrous Oxide,ppb,270.2191
+1852,n2o,Nitrous Oxide,ppb,270.3156
+1853,n2o,Nitrous Oxide,ppb,270.4246
+1854,n2o,Nitrous Oxide,ppb,270.5459
+1855,n2o,Nitrous Oxide,ppb,270.6794
+1856,n2o,Nitrous Oxide,ppb,270.8246
+1857,n2o,Nitrous Oxide,ppb,270.9797
+1858,n2o,Nitrous Oxide,ppb,271.143
+1859,n2o,Nitrous Oxide,ppb,271.3122
+1860,n2o,Nitrous Oxide,ppb,271.4856
+1861,n2o,Nitrous Oxide,ppb,271.661
+1862,n2o,Nitrous Oxide,ppb,271.8365
+1863,n2o,Nitrous Oxide,ppb,272.011
+1864,n2o,Nitrous Oxide,ppb,272.1863
+1865,n2o,Nitrous Oxide,ppb,272.365
+1866,n2o,Nitrous Oxide,ppb,272.5491
+1867,n2o,Nitrous Oxide,ppb,272.7406
+1868,n2o,Nitrous Oxide,ppb,272.9411
+1869,n2o,Nitrous Oxide,ppb,273.1526
+1870,n2o,Nitrous Oxide,ppb,273.377
+1871,n2o,Nitrous Oxide,ppb,273.6152
+1872,n2o,Nitrous Oxide,ppb,273.8651
+1873,n2o,Nitrous Oxide,ppb,274.1236
+1874,n2o,Nitrous Oxide,ppb,274.3878
+1875,n2o,Nitrous Oxide,ppb,274.6548
+1876,n2o,Nitrous Oxide,ppb,274.9214
+1877,n2o,Nitrous Oxide,ppb,275.1847
+1878,n2o,Nitrous Oxide,ppb,275.4417
+1879,n2o,Nitrous Oxide,ppb,275.69
+1880,n2o,Nitrous Oxide,ppb,275.9297
+1881,n2o,Nitrous Oxide,ppb,276.1613
+1882,n2o,Nitrous Oxide,ppb,276.3856
+1883,n2o,Nitrous Oxide,ppb,276.6031
+1884,n2o,Nitrous Oxide,ppb,276.8133
+1885,n2o,Nitrous Oxide,ppb,277.011
+1886,n2o,Nitrous Oxide,ppb,277.1896
+1887,n2o,Nitrous Oxide,ppb,277.3426
+1888,n2o,Nitrous Oxide,ppb,277.4651
+1889,n2o,Nitrous Oxide,ppb,277.5587
+1890,n2o,Nitrous Oxide,ppb,277.6268
+1891,n2o,Nitrous Oxide,ppb,277.6724
+1892,n2o,Nitrous Oxide,ppb,277.6988
+1893,n2o,Nitrous Oxide,ppb,277.7093
+1894,n2o,Nitrous Oxide,ppb,277.7067
+1895,n2o,Nitrous Oxide,ppb,277.6944
+1896,n2o,Nitrous Oxide,ppb,277.6826
+1897,n2o,Nitrous Oxide,ppb,277.6837
+1898,n2o,Nitrous Oxide,ppb,277.7097
+1899,n2o,Nitrous Oxide,ppb,277.773
+1900,n2o,Nitrous Oxide,ppb,277.8839
+1901,n2o,Nitrous Oxide,ppb,278.0455
+1902,n2o,Nitrous Oxide,ppb,278.2562
+1903,n2o,Nitrous Oxide,ppb,278.508
+1904,n2o,Nitrous Oxide,ppb,278.7919
+1905,n2o,Nitrous Oxide,ppb,279.099
+1906,n2o,Nitrous Oxide,ppb,279.4222
+1907,n2o,Nitrous Oxide,ppb,279.7588
+1908,n2o,Nitrous Oxide,ppb,280.1065
+1909,n2o,Nitrous Oxide,ppb,280.4631
+1910,n2o,Nitrous Oxide,ppb,280.8266
+1911,n2o,Nitrous Oxide,ppb,281.1945
+1912,n2o,Nitrous Oxide,ppb,281.5648
+1913,n2o,Nitrous Oxide,ppb,281.9321
+1914,n2o,Nitrous Oxide,ppb,282.2893
+1915,n2o,Nitrous Oxide,ppb,282.6323
+1916,n2o,Nitrous Oxide,ppb,282.9578
+1917,n2o,Nitrous Oxide,ppb,283.2611
+1918,n2o,Nitrous Oxide,ppb,283.5324
+1919,n2o,Nitrous Oxide,ppb,283.761
+1920,n2o,Nitrous Oxide,ppb,283.9437
+1921,n2o,Nitrous Oxide,ppb,284.0873
+1922,n2o,Nitrous Oxide,ppb,284.1993
+1923,n2o,Nitrous Oxide,ppb,284.2873
+1924,n2o,Nitrous Oxide,ppb,284.359
+1925,n2o,Nitrous Oxide,ppb,284.4312
+1926,n2o,Nitrous Oxide,ppb,284.5288
+1927,n2o,Nitrous Oxide,ppb,284.6612
+1928,n2o,Nitrous Oxide,ppb,284.8325
+1929,n2o,Nitrous Oxide,ppb,285.0368
+1930,n2o,Nitrous Oxide,ppb,285.2642
+1931,n2o,Nitrous Oxide,ppb,285.508
+1932,n2o,Nitrous Oxide,ppb,285.7622
+1933,n2o,Nitrous Oxide,ppb,286.0209
+1934,n2o,Nitrous Oxide,ppb,286.2769
+1935,n2o,Nitrous Oxide,ppb,286.5182
+1936,n2o,Nitrous Oxide,ppb,286.7352
+1937,n2o,Nitrous Oxide,ppb,286.9332
+1938,n2o,Nitrous Oxide,ppb,287.1209
+1939,n2o,Nitrous Oxide,ppb,287.304
+1940,n2o,Nitrous Oxide,ppb,287.4728
+1941,n2o,Nitrous Oxide,ppb,287.6096
+1942,n2o,Nitrous Oxide,ppb,287.7021
+1943,n2o,Nitrous Oxide,ppb,287.7556
+1944,n2o,Nitrous Oxide,ppb,287.7855
+1945,n2o,Nitrous Oxide,ppb,287.8098
+1946,n2o,Nitrous Oxide,ppb,287.8445
+1947,n2o,Nitrous Oxide,ppb,287.8968
+1948,n2o,Nitrous Oxide,ppb,287.9725
+1949,n2o,Nitrous Oxide,ppb,288.077
+1950,n2o,Nitrous Oxide,ppb,288.2177
+1951,n2o,Nitrous Oxide,ppb,288.4069
+1952,n2o,Nitrous Oxide,ppb,288.6526
+1953,n2o,Nitrous Oxide,ppb,288.9611
+1954,n2o,Nitrous Oxide,ppb,289.3341
+1955,n2o,Nitrous Oxide,ppb,289.7536
+1956,n2o,Nitrous Oxide,ppb,290.1911
+1957,n2o,Nitrous Oxide,ppb,290.6199
+1958,n2o,Nitrous Oxide,ppb,291.017
+1959,n2o,Nitrous Oxide,ppb,291.3721
+1960,n2o,Nitrous Oxide,ppb,291.688
+1961,n2o,Nitrous Oxide,ppb,291.979
+1962,n2o,Nitrous Oxide,ppb,292.2592
+1963,n2o,Nitrous Oxide,ppb,292.538
+1964,n2o,Nitrous Oxide,ppb,292.8254
+1965,n2o,Nitrous Oxide,ppb,293.1364
+1966,n2o,Nitrous Oxide,ppb,293.4906
+1967,n2o,Nitrous Oxide,ppb,293.9052
+1968,n2o,Nitrous Oxide,ppb,294.3839
+1969,n2o,Nitrous Oxide,ppb,294.9272
+1970,n2o,Nitrous Oxide,ppb,295.5321
+1971,n2o,Nitrous Oxide,ppb,296.1815
+1972,n2o,Nitrous Oxide,ppb,296.8549
+1973,n2o,Nitrous Oxide,ppb,297.5385
+1974,n2o,Nitrous Oxide,ppb,298.23
+1975,n2o,Nitrous Oxide,ppb,298.9278
+1976,n2o,Nitrous Oxide,ppb,299.6226
+1977,n2o,Nitrous Oxide,ppb,300.3038
+1978,n2o,Nitrous Oxide,ppb,300.9634
+1979,n2o,Nitrous Oxide,ppb,301.5942
+1980,n2o,Nitrous Oxide,ppb,302.1915
+1981,n2o,Nitrous Oxide,ppb,302.7615
+1982,n2o,Nitrous Oxide,ppb,303.3134
+1983,n2o,Nitrous Oxide,ppb,303.856
+1984,n2o,Nitrous Oxide,ppb,304.3986
+1985,n2o,Nitrous Oxide,ppb,304.9477
+1986,n2o,Nitrous Oxide,ppb,305.5063
+1987,n2o,Nitrous Oxide,ppb,306.0771
+1988,n2o,Nitrous Oxide,ppb,306.6625
+1989,n2o,Nitrous Oxide,ppb,307.2652
+1990,n2o,Nitrous Oxide,ppb,307.8877
+1991,n2o,Nitrous Oxide,ppb,308.5318
+1992,n2o,Nitrous Oxide,ppb,309.1976
+1993,n2o,Nitrous Oxide,ppb,309.8852
+1994,n2o,Nitrous Oxide,ppb,310.5953
+1995,n2o,Nitrous Oxide,ppb,311.3296
+1996,n2o,Nitrous Oxide,ppb,312.0883
+1997,n2o,Nitrous Oxide,ppb,312.8695
+1998,n2o,Nitrous Oxide,ppb,313.668
+1999,n2o,Nitrous Oxide,ppb,314.4773
+2000,n2o,Nitrous Oxide,ppb,315.2918
+2001,n2o,Nitrous Oxide,ppb,316.1077
+2002,n2o,Nitrous Oxide,ppb,316.9239
+2003,n2o,Nitrous Oxide,ppb,317.7407
+2004,n2o,Nitrous Oxide,ppb,318.5585
+2005,n2o,Nitrous Oxide,ppb,319.002
+2006,n2o,Nitrous Oxide,ppb,319.828
+2007,n2o,Nitrous Oxide,ppb,320.502
+2008,n2o,Nitrous Oxide,ppb,321.797
+2009,n2o,Nitrous Oxide,ppb,322.464
+2010,n2o,Nitrous Oxide,ppb,323.518
+2011,n2o,Nitrous Oxide,ppb,324.24
+2012,n2o,Nitrous Oxide,ppb,325.31
+2013,n2o,Nitrous Oxide,ppb,326.139
+1700,nitrogen,Nitrogen to Coastal Zone,million tonnes/year,0.0
+1850,nitrogen,Nitrogen to Coastal Zone,million tonnes/year,9.1
+1950,nitrogen,Nitrogen to Coastal Zone,million tonnes/year,18.700000000000003
+2000,nitrogen,Nitrogen to Coastal Zone,million tonnes/year,79.7
+2035,nitrogen,Nitrogen to Coastal Zone,million tonnes/year,131.0
+1850,ocean-acidification,Ocean Acidification,nmol/kg (H+ concentration),6.5238
+1851,ocean-acidification,Ocean Acidification,nmol/kg (H+ concentration),6.5253
+1852,ocean-acidification,Ocean Acidification,nmol/kg (H+ concentration),6.5253
+1853,ocean-acidification,Ocean Acidification,nmol/kg (H+ concentration),6.5268
+1854,ocean-acidification,Ocean Acidification,nmol/kg (H+ concentration),6.5283
+1855,ocean-acidification,Ocean Acidification,nmol/kg (H+ concentration),6.5358
+1856,ocean-acidification,Ocean Acidification,nmol/kg (H+ concentration),6.5253
+1857,ocean-acidification,Ocean Acidification,nmol/kg (H+ concentration),6.5268
+1858,ocean-acidification,Ocean Acidification,nmol/kg (H+ concentration),6.5358
+1859,ocean-acidification,Ocean Acidification,nmol/kg (H+ concentration),6.5433
+1860,ocean-acidification,Ocean Acidification,nmol/kg (H+ concentration),6.5509
+1861,ocean-acidification,Ocean Acidification,nmol/kg (H+ concentration),6.5569
+1862,ocean-acidification,Ocean Acidification,nmol/kg (H+ concentration),6.5569
+1863,ocean-acidification,Ocean Acidification,nmol/kg (H+ concentration),6.5554
+1864,ocean-acidification,Ocean Acidification,nmol/kg (H+ concentration),6.5584
+1865,ocean-acidification,Ocean Acidification,nmol/kg (H+ concentration),6.5645
+1866,ocean-acidification,Ocean Acidification,nmol/kg (H+ concentration),6.563
+1867,ocean-acidification,Ocean Acidification,nmol/kg (H+ concentration),6.563
+1868,ocean-acidification,Ocean Acidification,nmol/kg (H+ concentration),6.563
+1869,ocean-acidification,Ocean Acidification,nmol/kg (H+ concentration),6.5705
+1870,ocean-acidification,Ocean Acidification,nmol/kg (H+ concentration),6.5766
+1871,ocean-acidification,Ocean Acidification,nmol/kg (H+ concentration),6.5811
+1872,ocean-acidification,Ocean Acidification,nmol/kg (H+ concentration),6.5796
+1873,ocean-acidification,Ocean Acidification,nmol/kg (H+ concentration),6.5857
+1874,ocean-acidification,Ocean Acidification,nmol/kg (H+ concentration),6.5872
+1875,ocean-acidification,Ocean Acidification,nmol/kg (H+ concentration),6.5933
+1876,ocean-acidification,Ocean Acidification,nmol/kg (H+ concentration),6.5948
+1877,ocean-acidification,Ocean Acidification,nmol/kg (H+ concentration),6.5963
+1878,ocean-acidification,Ocean Acidification,nmol/kg (H+ concentration),6.6009
+1879,ocean-acidification,Ocean Acidification,nmol/kg (H+ concentration),6.6069
+1880,ocean-acidification,Ocean Acidification,nmol/kg (H+ concentration),6.613
+1881,ocean-acidification,Ocean Acidification,nmol/kg (H+ concentration),6.6206
+1882,ocean-acidification,Ocean Acidification,nmol/kg (H+ concentration),6.6313
+1883,ocean-acidification,Ocean Acidification,nmol/kg (H+ concentration),6.6313
+1884,ocean-acidification,Ocean Acidification,nmol/kg (H+ concentration),6.6222
+1885,ocean-acidification,Ocean Acidification,nmol/kg (H+ concentration),6.6359
+1886,ocean-acidification,Ocean Acidification,nmol/kg (H+ concentration),6.6497
+1887,ocean-acidification,Ocean Acidification,nmol/kg (H+ concentration),6.6558
+1888,ocean-acidification,Ocean Acidification,nmol/kg (H+ concentration),6.6681
+1889,ocean-acidification,Ocean Acidification,nmol/kg (H+ concentration),6.6742
+1890,ocean-acidification,Ocean Acidification,nmol/kg (H+ concentration),6.6757
+1891,ocean-acidification,Ocean Acidification,nmol/kg (H+ concentration),6.6773
+1892,ocean-acidification,Ocean Acidification,nmol/kg (H+ concentration),6.6804
+1893,ocean-acidification,Ocean Acidification,nmol/kg (H+ concentration),6.6881
+1894,ocean-acidification,Ocean Acidification,nmol/kg (H+ concentration),6.6911
+1895,ocean-acidification,Ocean Acidification,nmol/kg (H+ concentration),6.6942
+1896,ocean-acidification,Ocean Acidification,nmol/kg (H+ concentration),6.6927
+1897,ocean-acidification,Ocean Acidification,nmol/kg (H+ concentration),6.6927
+1898,ocean-acidification,Ocean Acidification,nmol/kg (H+ concentration),6.6958
+1899,ocean-acidification,Ocean Acidification,nmol/kg (H+ concentration),6.7004
+1900,ocean-acidification,Ocean Acidification,nmol/kg (H+ concentration),6.7097
+1901,ocean-acidification,Ocean Acidification,nmol/kg (H+ concentration),6.7097
+1902,ocean-acidification,Ocean Acidification,nmol/kg (H+ concentration),6.7205
+1903,ocean-acidification,Ocean Acidification,nmol/kg (H+ concentration),6.7127
+1904,ocean-acidification,Ocean Acidification,nmol/kg (H+ concentration),6.7267
+1905,ocean-acidification,Ocean Acidification,nmol/kg (H+ concentration),6.7313
+1906,ocean-acidification,Ocean Acidification,nmol/kg (H+ concentration),6.7391
+1907,ocean-acidification,Ocean Acidification,nmol/kg (H+ concentration),6.7515
+1908,ocean-acidification,Ocean Acidification,nmol/kg (H+ concentration),6.7546
+1909,ocean-acidification,Ocean Acidification,nmol/kg (H+ concentration),6.7608
+1910,ocean-acidification,Ocean Acidification,nmol/kg (H+ concentration),6.7702
+1911,ocean-acidification,Ocean Acidification,nmol/kg (H+ concentration),6.7717
+1912,ocean-acidification,Ocean Acidification,nmol/kg (H+ concentration),6.778
+1913,ocean-acidification,Ocean Acidification,nmol/kg (H+ concentration),6.7827
+1914,ocean-acidification,Ocean Acidification,nmol/kg (H+ concentration),6.7842
+1915,ocean-acidification,Ocean Acidification,nmol/kg (H+ concentration),6.7889
+1916,ocean-acidification,Ocean Acidification,nmol/kg (H+ concentration),6.7967
+1917,ocean-acidification,Ocean Acidification,nmol/kg (H+ concentration),6.8093
+1918,ocean-acidification,Ocean Acidification,nmol/kg (H+ concentration),6.8187
+1919,ocean-acidification,Ocean Acidification,nmol/kg (H+ concentration),6.8234
+1920,ocean-acidification,Ocean Acidification,nmol/kg (H+ concentration),6.8234
+1921,ocean-acidification,Ocean Acidification,nmol/kg (H+ concentration),6.8281
+1922,ocean-acidification,Ocean Acidification,nmol/kg (H+ concentration),6.8328
+1923,ocean-acidification,Ocean Acidification,nmol/kg (H+ concentration),6.8407
+1924,ocean-acidification,Ocean Acidification,nmol/kg (H+ concentration),6.8486
+1925,ocean-acidification,Ocean Acidification,nmol/kg (H+ concentration),6.858
+1926,ocean-acidification,Ocean Acidification,nmol/kg (H+ concentration),6.8675
+1927,ocean-acidification,Ocean Acidification,nmol/kg (H+ concentration),6.8738
+1928,ocean-acidification,Ocean Acidification,nmol/kg (H+ concentration),6.8754
+1929,ocean-acidification,Ocean Acidification,nmol/kg (H+ concentration),6.8849
+1930,ocean-acidification,Ocean Acidification,nmol/kg (H+ concentration),6.8929
+1931,ocean-acidification,Ocean Acidification,nmol/kg (H+ concentration),6.8992
+1932,ocean-acidification,Ocean Acidification,nmol/kg (H+ concentration),6.904
+1933,ocean-acidification,Ocean Acidification,nmol/kg (H+ concentration),6.9056
+1934,ocean-acidification,Ocean Acidification,nmol/kg (H+ concentration),6.9167
+1935,ocean-acidification,Ocean Acidification,nmol/kg (H+ concentration),6.9295
+1936,ocean-acidification,Ocean Acidification,nmol/kg (H+ concentration),6.9375
+1937,ocean-acidification,Ocean Acidification,nmol/kg (H+ concentration),6.939
+1938,ocean-acidification,Ocean Acidification,nmol/kg (H+ concentration),6.9454
+1939,ocean-acidification,Ocean Acidification,nmol/kg (H+ concentration),6.9486
+1940,ocean-acidification,Ocean Acidification,nmol/kg (H+ concentration),6.9502
+1941,ocean-acidification,Ocean Acidification,nmol/kg (H+ concentration),6.9599
+1942,ocean-acidification,Ocean Acidification,nmol/kg (H+ concentration),6.955
+1943,ocean-acidification,Ocean Acidification,nmol/kg (H+ concentration),6.9534
+1944,ocean-acidification,Ocean Acidification,nmol/kg (H+ concentration),6.9582
+1945,ocean-acidification,Ocean Acidification,nmol/kg (H+ concentration),6.955
+1946,ocean-acidification,Ocean Acidification,nmol/kg (H+ concentration),6.9615
+1947,ocean-acidification,Ocean Acidification,nmol/kg (H+ concentration),6.9599
+1948,ocean-acidification,Ocean Acidification,nmol/kg (H+ concentration),6.9599
+1949,ocean-acidification,Ocean Acidification,nmol/kg (H+ concentration),6.9695
+1950,ocean-acidification,Ocean Acidification,nmol/kg (H+ concentration),6.9695
+1951,ocean-acidification,Ocean Acidification,nmol/kg (H+ concentration),6.9711
+1952,ocean-acidification,Ocean Acidification,nmol/kg (H+ concentration),6.9791
+1953,ocean-acidification,Ocean Acidification,nmol/kg (H+ concentration),6.9791
+1954,ocean-acidification,Ocean Acidification,nmol/kg (H+ concentration),6.9888
+1955,ocean-acidification,Ocean Acidification,nmol/kg (H+ concentration),7.0
+1956,ocean-acidification,Ocean Acidification,nmol/kg (H+ concentration),6.9952
+1957,ocean-acidification,Ocean Acidification,nmol/kg (H+ concentration),7.0065
+1958,ocean-acidification,Ocean Acidification,nmol/kg (H+ concentration),7.0194
+1959,ocean-acidification,Ocean Acidification,nmol/kg (H+ concentration),7.0275
+1960,ocean-acidification,Ocean Acidification,nmol/kg (H+ concentration),7.034
+1961,ocean-acidification,Ocean Acidification,nmol/kg (H+ concentration),7.0469
+1962,ocean-acidification,Ocean Acidification,nmol/kg (H+ concentration),7.0583
+1963,ocean-acidification,Ocean Acidification,nmol/kg (H+ concentration),7.0615
+1964,ocean-acidification,Ocean Acidification,nmol/kg (H+ concentration),7.0615
+1965,ocean-acidification,Ocean Acidification,nmol/kg (H+ concentration),7.0729
+1966,ocean-acidification,Ocean Acidification,nmol/kg (H+ concentration),7.0909
+1967,ocean-acidification,Ocean Acidification,nmol/kg (H+ concentration),7.1138
+1968,ocean-acidification,Ocean Acidification,nmol/kg (H+ concentration),7.1285
+1969,ocean-acidification,Ocean Acidification,nmol/kg (H+ concentration),7.1384
+1970,ocean-acidification,Ocean Acidification,nmol/kg (H+ concentration),7.1647
+1971,ocean-acidification,Ocean Acidification,nmol/kg (H+ concentration),7.1829
+1972,ocean-acidification,Ocean Acidification,nmol/kg (H+ concentration),7.2028
+1973,ocean-acidification,Ocean Acidification,nmol/kg (H+ concentration),7.221
+1974,ocean-acidification,Ocean Acidification,nmol/kg (H+ concentration),7.2394
+1975,ocean-acidification,Ocean Acidification,nmol/kg (H+ concentration),7.2527
+1976,ocean-acidification,Ocean Acidification,nmol/kg (H+ concentration),7.2694
+1977,ocean-acidification,Ocean Acidification,nmol/kg (H+ concentration),7.2979
+1978,ocean-acidification,Ocean Acidification,nmol/kg (H+ concentration),7.3215
+1979,ocean-acidification,Ocean Acidification,nmol/kg (H+ concentration),7.3418
+1980,ocean-acidification,Ocean Acidification,nmol/kg (H+ concentration),7.3706
+1981,ocean-acidification,Ocean Acidification,nmol/kg (H+ concentration),7.3943
+1982,ocean-acidification,Ocean Acidification,nmol/kg (H+ concentration),7.4114
+1983,ocean-acidification,Ocean Acidification,nmol/kg (H+ concentration),7.4251
+1984,ocean-acidification,Ocean Acidification,nmol/kg (H+ concentration),7.4559
+1985,ocean-acidification,Ocean Acidification,nmol/kg (H+ concentration),7.4834
+1986,ocean-acidification,Ocean Acidification,nmol/kg (H+ concentration),7.5093
+1987,ocean-acidification,Ocean Acidification,nmol/kg (H+ concentration),7.5388
+1988,ocean-acidification,Ocean Acidification,nmol/kg (H+ concentration),7.5718
+1989,ocean-acidification,Ocean Acidification,nmol/kg (H+ concentration),7.6068
+1990,ocean-acidification,Ocean Acidification,nmol/kg (H+ concentration),7.6313
+1991,ocean-acidification,Ocean Acidification,nmol/kg (H+ concentration),7.6436
+1992,ocean-acidification,Ocean Acidification,nmol/kg (H+ concentration),7.6436
+1993,ocean-acidification,Ocean Acidification,nmol/kg (H+ concentration),7.6754
+1994,ocean-acidification,Ocean Acidification,nmol/kg (H+ concentration),7.7019
+1995,ocean-acidification,Ocean Acidification,nmol/kg (H+ concentration),7.7268
+1996,ocean-acidification,Ocean Acidification,nmol/kg (H+ concentration),7.7589
+1997,ocean-acidification,Ocean Acidification,nmol/kg (H+ concentration),7.7911
+1998,ocean-acidification,Ocean Acidification,nmol/kg (H+ concentration),7.8217
+1999,ocean-acidification,Ocean Acidification,nmol/kg (H+ concentration),7.8542
+2000,ocean-acidification,Ocean Acidification,nmol/kg (H+ concentration),7.885
+2001,ocean-acidification,Ocean Acidification,nmol/kg (H+ concentration),7.9122
+2002,ocean-acidification,Ocean Acidification,nmol/kg (H+ concentration),7.9433
+2003,ocean-acidification,Ocean Acidification,nmol/kg (H+ concentration),7.9744
+2004,ocean-acidification,Ocean Acidification,nmol/kg (H+ concentration),8.0076
+2005,ocean-acidification,Ocean Acidification,nmol/kg (H+ concentration),8.039
+2006,ocean-acidification,Ocean Acidification,nmol/kg (H+ concentration),8.0742
+2007,ocean-acidification,Ocean Acidification,nmol/kg (H+ concentration),8.1096
+2008,ocean-acidification,Ocean Acidification,nmol/kg (H+ concentration),8.1433
+2009,ocean-acidification,Ocean Acidification,nmol/kg (H+ concentration),8.1771
+2010,ocean-acidification,Ocean Acidification,nmol/kg (H+ concentration),8.2111
+1956,ozone,Stratospheric Ozone,% loss,9.836065573770492
+1957,ozone,Stratospheric Ozone,% loss,4.590163934426229
+1958,ozone,Stratospheric Ozone,% loss,7.540983606557377
+1959,ozone,Stratospheric Ozone,% loss,15.081967213114755
+1960,ozone,Stratospheric Ozone,% loss,13.77049180327869
+1961,ozone,Stratospheric Ozone,% loss,6.885245901639345
+1962,ozone,Stratospheric Ozone,% loss,-0.32786885245901637
+1963,ozone,Stratospheric Ozone,% loss,7.540983606557377
+1964,ozone,Stratospheric Ozone,% loss,6.557377049180328
+1965,ozone,Stratospheric Ozone,% loss,15.081967213114755
+1966,ozone,Stratospheric Ozone,% loss,7.213114754098362
+1967,ozone,Stratospheric Ozone,% loss,14.098360655737704
+1968,ozone,Stratospheric Ozone,% loss,13.114754098360656
+1969,ozone,Stratospheric Ozone,% loss,22.295081967213115
+1970,ozone,Stratospheric Ozone,% loss,22.62295081967213
+1971,ozone,Stratospheric Ozone,% loss,12.131147540983607
+1972,ozone,Stratospheric Ozone,% loss,17.704918032786885
+1973,ozone,Stratospheric Ozone,% loss,24.91803278688525
+1974,ozone,Stratospheric Ozone,% loss,24.91803278688525
+1975,ozone,Stratospheric Ozone,% loss,19.01639344262295
+1976,ozone,Stratospheric Ozone,% loss,16.39344262295082
+1977,ozone,Stratospheric Ozone,% loss,25.901639344262296
+1978,ozone,Stratospheric Ozone,% loss,25.245901639344265
+1979,ozone,Stratospheric Ozone,% loss,23.278688524590162
+1980,ozone,Stratospheric Ozone,% loss,33.77049180327869
+1981,ozone,Stratospheric Ozone,% loss,30.81967213114754
+1982,ozone,Stratospheric Ozone,% loss,37.704918032786885
+1983,ozone,Stratospheric Ozone,% loss,45.57377049180328
+1984,ozone,Stratospheric Ozone,% loss,44.26229508196721
+1985,ozone,Stratospheric Ozone,% loss,52.459016393442624
+1986,ozone,Stratospheric Ozone,% loss,46.557377049180324
+1987,ozone,Stratospheric Ozone,% loss,59.34426229508196
+1988,ozone,Stratospheric Ozone,% loss,39.67213114754099
+1989,ozone,Stratospheric Ozone,% loss,57.049180327868854
+1990,ozone,Stratospheric Ozone,% loss,58.032786885245905
+1991,ozone,Stratospheric Ozone,% loss,61.967213114754095
+1992,ozone,Stratospheric Ozone,% loss,62.95081967213115
+1993,ozone,Stratospheric Ozone,% loss,66.22950819672131
+1994,ozone,Stratospheric Ozone,% loss,66.88524590163935
+1995,ozone,Stratospheric Ozone,% loss,65.24590163934427
+1996,ozone,Stratospheric Ozone,% loss,62.95081967213115
+1997,ozone,Stratospheric Ozone,% loss,63.60655737704918
+1998,ozone,Stratospheric Ozone,% loss,64.26229508196721
+1999,ozone,Stratospheric Ozone,% loss,62.62295081967213
+2000,ozone,Stratospheric Ozone,% loss,65.57377049180327
+2001,ozone,Stratospheric Ozone,% loss,61.967213114754095
+2002,ozone,Stratospheric Ozone,% loss,37.37704918032787
+2003,ozone,Stratospheric Ozone,% loss,65.57377049180327
+2004,ozone,Stratospheric Ozone,% loss,56.393442622950815
+2005,ozone,Stratospheric Ozone,% loss,60.983606557377044
+2006,ozone,Stratospheric Ozone,% loss,67.54098360655738
+2007,ozone,Stratospheric Ozone,% loss,61.31147540983607
+2008,ozone,Stratospheric Ozone,% loss,61.31147540983607
+2009,ozone,Stratospheric Ozone,% loss,64.91803278688525
+2010,ozone,Stratospheric Ozone,% loss,54.09836065573771
+2011,ozone,Stratospheric Ozone,% loss,66.55737704918033
+2012,ozone,Stratospheric Ozone,% loss,50.81967213114754
+1950,shrimp-aquaculture,Shrimp Aquaculture,million tonnes,0.001325
+1951,shrimp-aquaculture,Shrimp Aquaculture,million tonnes,0.001585
+1952,shrimp-aquaculture,Shrimp Aquaculture,million tonnes,0.002855
+1953,shrimp-aquaculture,Shrimp Aquaculture,million tonnes,0.001312
+1954,shrimp-aquaculture,Shrimp Aquaculture,million tonnes,0.001629
+1955,shrimp-aquaculture,Shrimp Aquaculture,million tonnes,0.002173
+1956,shrimp-aquaculture,Shrimp Aquaculture,million tonnes,0.001961
+1957,shrimp-aquaculture,Shrimp Aquaculture,million tonnes,0.002266
+1958,shrimp-aquaculture,Shrimp Aquaculture,million tonnes,0.002793
+1959,shrimp-aquaculture,Shrimp Aquaculture,million tonnes,0.002751
+1960,shrimp-aquaculture,Shrimp Aquaculture,million tonnes,0.002963
+1961,shrimp-aquaculture,Shrimp Aquaculture,million tonnes,0.00325
+1962,shrimp-aquaculture,Shrimp Aquaculture,million tonnes,0.003696
+1963,shrimp-aquaculture,Shrimp Aquaculture,million tonnes,0.00249
+1964,shrimp-aquaculture,Shrimp Aquaculture,million tonnes,0.002567
+1965,shrimp-aquaculture,Shrimp Aquaculture,million tonnes,0.003472
+1966,shrimp-aquaculture,Shrimp Aquaculture,million tonnes,0.003394
+1967,shrimp-aquaculture,Shrimp Aquaculture,million tonnes,0.004813
+1968,shrimp-aquaculture,Shrimp Aquaculture,million tonnes,0.005285
+1969,shrimp-aquaculture,Shrimp Aquaculture,million tonnes,0.008578
+1970,shrimp-aquaculture,Shrimp Aquaculture,million tonnes,0.009022
+1971,shrimp-aquaculture,Shrimp Aquaculture,million tonnes,0.011494
+1972,shrimp-aquaculture,Shrimp Aquaculture,million tonnes,0.01437
+1973,shrimp-aquaculture,Shrimp Aquaculture,million tonnes,0.01738
+1974,shrimp-aquaculture,Shrimp Aquaculture,million tonnes,0.020573
+1975,shrimp-aquaculture,Shrimp Aquaculture,million tonnes,0.022292
+1976,shrimp-aquaculture,Shrimp Aquaculture,million tonnes,0.03096
+1977,shrimp-aquaculture,Shrimp Aquaculture,million tonnes,0.043762
+1978,shrimp-aquaculture,Shrimp Aquaculture,million tonnes,0.053364
+1979,shrimp-aquaculture,Shrimp Aquaculture,million tonnes,0.063398
+1980,shrimp-aquaculture,Shrimp Aquaculture,million tonnes,0.071897
+1981,shrimp-aquaculture,Shrimp Aquaculture,million tonnes,0.088599
+1982,shrimp-aquaculture,Shrimp Aquaculture,million tonnes,0.112007
+1983,shrimp-aquaculture,Shrimp Aquaculture,million tonnes,0.142177
+1984,shrimp-aquaculture,Shrimp Aquaculture,million tonnes,0.172175
+1985,shrimp-aquaculture,Shrimp Aquaculture,million tonnes,0.213635
+1986,shrimp-aquaculture,Shrimp Aquaculture,million tonnes,0.319667
+1987,shrimp-aquaculture,Shrimp Aquaculture,million tonnes,0.49412
+1988,shrimp-aquaculture,Shrimp Aquaculture,million tonnes,0.576986
+1989,shrimp-aquaculture,Shrimp Aquaculture,million tonnes,0.621484
+1990,shrimp-aquaculture,Shrimp Aquaculture,million tonnes,0.680296
+1991,shrimp-aquaculture,Shrimp Aquaculture,million tonnes,0.837849
+1992,shrimp-aquaculture,Shrimp Aquaculture,million tonnes,0.897398
+1993,shrimp-aquaculture,Shrimp Aquaculture,million tonnes,0.834762
+1994,shrimp-aquaculture,Shrimp Aquaculture,million tonnes,0.882669
+1995,shrimp-aquaculture,Shrimp Aquaculture,million tonnes,0.928358
+1996,shrimp-aquaculture,Shrimp Aquaculture,million tonnes,0.917591
+1997,shrimp-aquaculture,Shrimp Aquaculture,million tonnes,0.926554
+1998,shrimp-aquaculture,Shrimp Aquaculture,million tonnes,0.986053
+1999,shrimp-aquaculture,Shrimp Aquaculture,million tonnes,1.050255
+2000,shrimp-aquaculture,Shrimp Aquaculture,million tonnes,1.137377
+2001,shrimp-aquaculture,Shrimp Aquaculture,million tonnes,1.311005
+2002,shrimp-aquaculture,Shrimp Aquaculture,million tonnes,1.4674350600000001
+2003,shrimp-aquaculture,Shrimp Aquaculture,million tonnes,2.0505101
+2004,shrimp-aquaculture,Shrimp Aquaculture,million tonnes,2.364511
+2005,shrimp-aquaculture,Shrimp Aquaculture,million tonnes,2.667911
+2006,shrimp-aquaculture,Shrimp Aquaculture,million tonnes,3.111705
+2007,shrimp-aquaculture,Shrimp Aquaculture,million tonnes,3.294941
+2008,shrimp-aquaculture,Shrimp Aquaculture,million tonnes,3.4000476
+2009,shrimp-aquaculture,Shrimp Aquaculture,million tonnes,3.5318313399999997
+2010,shrimp-aquaculture,Shrimp Aquaculture,million tonnes,3.7756595699999997
+2011,shrimp-aquaculture,Shrimp Aquaculture,million tonnes,3.93002982
+1850,temperature,Surface Temperature Anomaly,°C (relative to 1961-1990),-0.297
+1851,temperature,Surface Temperature Anomaly,°C (relative to 1961-1990),-0.294
+1852,temperature,Surface Temperature Anomaly,°C (relative to 1961-1990),-0.294
+1853,temperature,Surface Temperature Anomaly,°C (relative to 1961-1990),-0.299
+1854,temperature,Surface Temperature Anomaly,°C (relative to 1961-1990),-0.307
+1855,temperature,Surface Temperature Anomaly,°C (relative to 1961-1990),-0.319
+1856,temperature,Surface Temperature Anomaly,°C (relative to 1961-1990),-0.333
+1857,temperature,Surface Temperature Anomaly,°C (relative to 1961-1990),-0.345
+1858,temperature,Surface Temperature Anomaly,°C (relative to 1961-1990),-0.356
+1859,temperature,Surface Temperature Anomaly,°C (relative to 1961-1990),-0.363
+1860,temperature,Surface Temperature Anomaly,°C (relative to 1961-1990),-0.367
+1861,temperature,Surface Temperature Anomaly,°C (relative to 1961-1990),-0.365
+1862,temperature,Surface Temperature Anomaly,°C (relative to 1961-1990),-0.36
+1863,temperature,Surface Temperature Anomaly,°C (relative to 1961-1990),-0.351
+1864,temperature,Surface Temperature Anomaly,°C (relative to 1961-1990),-0.339
+1865,temperature,Surface Temperature Anomaly,°C (relative to 1961-1990),-0.325
+1866,temperature,Surface Temperature Anomaly,°C (relative to 1961-1990),-0.312
+1867,temperature,Surface Temperature Anomaly,°C (relative to 1961-1990),-0.301
+1868,temperature,Surface Temperature Anomaly,°C (relative to 1961-1990),-0.293
+1869,temperature,Surface Temperature Anomaly,°C (relative to 1961-1990),-0.289
+1870,temperature,Surface Temperature Anomaly,°C (relative to 1961-1990),-0.288
+1871,temperature,Surface Temperature Anomaly,°C (relative to 1961-1990),-0.288
+1872,temperature,Surface Temperature Anomaly,°C (relative to 1961-1990),-0.287
+1873,temperature,Surface Temperature Anomaly,°C (relative to 1961-1990),-0.284
+1874,temperature,Surface Temperature Anomaly,°C (relative to 1961-1990),-0.276
+1875,temperature,Surface Temperature Anomaly,°C (relative to 1961-1990),-0.265
+1876,temperature,Surface Temperature Anomaly,°C (relative to 1961-1990),-0.252
+1877,temperature,Surface Temperature Anomaly,°C (relative to 1961-1990),-0.239
+1878,temperature,Surface Temperature Anomaly,°C (relative to 1961-1990),-0.231
+1879,temperature,Surface Temperature Anomaly,°C (relative to 1961-1990),-0.229
+1880,temperature,Surface Temperature Anomaly,°C (relative to 1961-1990),-0.235
+1881,temperature,Surface Temperature Anomaly,°C (relative to 1961-1990),-0.248
+1882,temperature,Surface Temperature Anomaly,°C (relative to 1961-1990),-0.266
+1883,temperature,Surface Temperature Anomaly,°C (relative to 1961-1990),-0.286
+1884,temperature,Surface Temperature Anomaly,°C (relative to 1961-1990),-0.305
+1885,temperature,Surface Temperature Anomaly,°C (relative to 1961-1990),-0.321
+1886,temperature,Surface Temperature Anomaly,°C (relative to 1961-1990),-0.333
+1887,temperature,Surface Temperature Anomaly,°C (relative to 1961-1990),-0.342
+1888,temperature,Surface Temperature Anomaly,°C (relative to 1961-1990),-0.349
+1889,temperature,Surface Temperature Anomaly,°C (relative to 1961-1990),-0.355
+1890,temperature,Surface Temperature Anomaly,°C (relative to 1961-1990),-0.36
+1891,temperature,Surface Temperature Anomaly,°C (relative to 1961-1990),-0.363
+1892,temperature,Surface Temperature Anomaly,°C (relative to 1961-1990),-0.364
+1893,temperature,Surface Temperature Anomaly,°C (relative to 1961-1990),-0.36
+1894,temperature,Surface Temperature Anomaly,°C (relative to 1961-1990),-0.353
+1895,temperature,Surface Temperature Anomaly,°C (relative to 1961-1990),-0.344
+1896,temperature,Surface Temperature Anomaly,°C (relative to 1961-1990),-0.334
+1897,temperature,Surface Temperature Anomaly,°C (relative to 1961-1990),-0.326
+1898,temperature,Surface Temperature Anomaly,°C (relative to 1961-1990),-0.323
+1899,temperature,Surface Temperature Anomaly,°C (relative to 1961-1990),-0.327
+1900,temperature,Surface Temperature Anomaly,°C (relative to 1961-1990),-0.336
+1901,temperature,Surface Temperature Anomaly,°C (relative to 1961-1990),-0.351
+1902,temperature,Surface Temperature Anomaly,°C (relative to 1961-1990),-0.369
+1903,temperature,Surface Temperature Anomaly,°C (relative to 1961-1990),-0.387
+1904,temperature,Surface Temperature Anomaly,°C (relative to 1961-1990),-0.406
+1905,temperature,Surface Temperature Anomaly,°C (relative to 1961-1990),-0.423
+1906,temperature,Surface Temperature Anomaly,°C (relative to 1961-1990),-0.437
+1907,temperature,Surface Temperature Anomaly,°C (relative to 1961-1990),-0.448
+1908,temperature,Surface Temperature Anomaly,°C (relative to 1961-1990),-0.455
+1909,temperature,Surface Temperature Anomaly,°C (relative to 1961-1990),-0.456
+1910,temperature,Surface Temperature Anomaly,°C (relative to 1961-1990),-0.451
+1911,temperature,Surface Temperature Anomaly,°C (relative to 1961-1990),-0.439
+1912,temperature,Surface Temperature Anomaly,°C (relative to 1961-1990),-0.422
+1913,temperature,Surface Temperature Anomaly,°C (relative to 1961-1990),-0.403
+1914,temperature,Surface Temperature Anomaly,°C (relative to 1961-1990),-0.383
+1915,temperature,Surface Temperature Anomaly,°C (relative to 1961-1990),-0.364
+1916,temperature,Surface Temperature Anomaly,°C (relative to 1961-1990),-0.348
+1917,temperature,Surface Temperature Anomaly,°C (relative to 1961-1990),-0.333
+1918,temperature,Surface Temperature Anomaly,°C (relative to 1961-1990),-0.318
+1919,temperature,Surface Temperature Anomaly,°C (relative to 1961-1990),-0.304
+1920,temperature,Surface Temperature Anomaly,°C (relative to 1961-1990),-0.291
+1921,temperature,Surface Temperature Anomaly,°C (relative to 1961-1990),-0.278
+1922,temperature,Surface Temperature Anomaly,°C (relative to 1961-1990),-0.266
+1923,temperature,Surface Temperature Anomaly,°C (relative to 1961-1990),-0.254
+1924,temperature,Surface Temperature Anomaly,°C (relative to 1961-1990),-0.243
+1925,temperature,Surface Temperature Anomaly,°C (relative to 1961-1990),-0.233
+1926,temperature,Surface Temperature Anomaly,°C (relative to 1961-1990),-0.223
+1927,temperature,Surface Temperature Anomaly,°C (relative to 1961-1990),-0.214
+1928,temperature,Surface Temperature Anomaly,°C (relative to 1961-1990),-0.205
+1929,temperature,Surface Temperature Anomaly,°C (relative to 1961-1990),-0.196
+1930,temperature,Surface Temperature Anomaly,°C (relative to 1961-1990),-0.187
+1931,temperature,Surface Temperature Anomaly,°C (relative to 1961-1990),-0.177
+1932,temperature,Surface Temperature Anomaly,°C (relative to 1961-1990),-0.165
+1933,temperature,Surface Temperature Anomaly,°C (relative to 1961-1990),-0.152
+1934,temperature,Surface Temperature Anomaly,°C (relative to 1961-1990),-0.137
+1935,temperature,Surface Temperature Anomaly,°C (relative to 1961-1990),-0.119
+1936,temperature,Surface Temperature Anomaly,°C (relative to 1961-1990),-0.099
+1937,temperature,Surface Temperature Anomaly,°C (relative to 1961-1990),-0.078
+1938,temperature,Surface Temperature Anomaly,°C (relative to 1961-1990),-0.057
+1939,temperature,Surface Temperature Anomaly,°C (relative to 1961-1990),-0.038
+1940,temperature,Surface Temperature Anomaly,°C (relative to 1961-1990),-0.023
+1941,temperature,Surface Temperature Anomaly,°C (relative to 1961-1990),-0.011
+1942,temperature,Surface Temperature Anomaly,°C (relative to 1961-1990),-0.003
+1943,temperature,Surface Temperature Anomaly,°C (relative to 1961-1990),0.0
+1944,temperature,Surface Temperature Anomaly,°C (relative to 1961-1990),-0.002
+1945,temperature,Surface Temperature Anomaly,°C (relative to 1961-1990),-0.007
+1946,temperature,Surface Temperature Anomaly,°C (relative to 1961-1990),-0.016
+1947,temperature,Surface Temperature Anomaly,°C (relative to 1961-1990),-0.026
+1948,temperature,Surface Temperature Anomaly,°C (relative to 1961-1990),-0.036
+1949,temperature,Surface Temperature Anomaly,°C (relative to 1961-1990),-0.044
+1950,temperature,Surface Temperature Anomaly,°C (relative to 1961-1990),-0.05
+1951,temperature,Surface Temperature Anomaly,°C (relative to 1961-1990),-0.055
+1952,temperature,Surface Temperature Anomaly,°C (relative to 1961-1990),-0.059
+1953,temperature,Surface Temperature Anomaly,°C (relative to 1961-1990),-0.062
+1954,temperature,Surface Temperature Anomaly,°C (relative to 1961-1990),-0.064
+1955,temperature,Surface Temperature Anomaly,°C (relative to 1961-1990),-0.063
+1956,temperature,Surface Temperature Anomaly,°C (relative to 1961-1990),-0.059
+1957,temperature,Surface Temperature Anomaly,°C (relative to 1961-1990),-0.053
+1958,temperature,Surface Temperature Anomaly,°C (relative to 1961-1990),-0.045
+1959,temperature,Surface Temperature Anomaly,°C (relative to 1961-1990),-0.039
+1960,temperature,Surface Temperature Anomaly,°C (relative to 1961-1990),-0.035
+1961,temperature,Surface Temperature Anomaly,°C (relative to 1961-1990),-0.036
+1962,temperature,Surface Temperature Anomaly,°C (relative to 1961-1990),-0.042
+1963,temperature,Surface Temperature Anomaly,°C (relative to 1961-1990),-0.05
+1964,temperature,Surface Temperature Anomaly,°C (relative to 1961-1990),-0.058
+1965,temperature,Surface Temperature Anomaly,°C (relative to 1961-1990),-0.066
+1966,temperature,Surface Temperature Anomaly,°C (relative to 1961-1990),-0.071
+1967,temperature,Surface Temperature Anomaly,°C (relative to 1961-1990),-0.074
+1968,temperature,Surface Temperature Anomaly,°C (relative to 1961-1990),-0.076
+1969,temperature,Surface Temperature Anomaly,°C (relative to 1961-1990),-0.077
+1970,temperature,Surface Temperature Anomaly,°C (relative to 1961-1990),-0.078
+1971,temperature,Surface Temperature Anomaly,°C (relative to 1961-1990),-0.08
+1972,temperature,Surface Temperature Anomaly,°C (relative to 1961-1990),-0.082
+1973,temperature,Surface Temperature Anomaly,°C (relative to 1961-1990),-0.082
+1974,temperature,Surface Temperature Anomaly,°C (relative to 1961-1990),-0.078
+1975,temperature,Surface Temperature Anomaly,°C (relative to 1961-1990),-0.07
+1976,temperature,Surface Temperature Anomaly,°C (relative to 1961-1990),-0.057
+1977,temperature,Surface Temperature Anomaly,°C (relative to 1961-1990),-0.038
+1978,temperature,Surface Temperature Anomaly,°C (relative to 1961-1990),-0.016
+1979,temperature,Surface Temperature Anomaly,°C (relative to 1961-1990),0.006
+1980,temperature,Surface Temperature Anomaly,°C (relative to 1961-1990),0.027
+1981,temperature,Surface Temperature Anomaly,°C (relative to 1961-1990),0.044
+1982,temperature,Surface Temperature Anomaly,°C (relative to 1961-1990),0.059
+1983,temperature,Surface Temperature Anomaly,°C (relative to 1961-1990),0.07
+1984,temperature,Surface Temperature Anomaly,°C (relative to 1961-1990),0.082
+1985,temperature,Surface Temperature Anomaly,°C (relative to 1961-1990),0.095
+1986,temperature,Surface Temperature Anomaly,°C (relative to 1961-1990),0.11
+1987,temperature,Surface Temperature Anomaly,°C (relative to 1961-1990),0.126
+1988,temperature,Surface Temperature Anomaly,°C (relative to 1961-1990),0.144
+1989,temperature,Surface Temperature Anomaly,°C (relative to 1961-1990),0.161
+1990,temperature,Surface Temperature Anomaly,°C (relative to 1961-1990),0.178
+1991,temperature,Surface Temperature Anomaly,°C (relative to 1961-1990),0.193
+1992,temperature,Surface Temperature Anomaly,°C (relative to 1961-1990),0.209
+1993,temperature,Surface Temperature Anomaly,°C (relative to 1961-1990),0.227
+1994,temperature,Surface Temperature Anomaly,°C (relative to 1961-1990),0.248
+1995,temperature,Surface Temperature Anomaly,°C (relative to 1961-1990),0.271
+1996,temperature,Surface Temperature Anomaly,°C (relative to 1961-1990),0.297
+1997,temperature,Surface Temperature Anomaly,°C (relative to 1961-1990),0.323
+1998,temperature,Surface Temperature Anomaly,°C (relative to 1961-1990),0.349
+1999,temperature,Surface Temperature Anomaly,°C (relative to 1961-1990),0.373
+2000,temperature,Surface Temperature Anomaly,°C (relative to 1961-1990),0.395
+2001,temperature,Surface Temperature Anomaly,°C (relative to 1961-1990),0.416
+2002,temperature,Surface Temperature Anomaly,°C (relative to 1961-1990),0.434
+2003,temperature,Surface Temperature Anomaly,°C (relative to 1961-1990),0.449
+2004,temperature,Surface Temperature Anomaly,°C (relative to 1961-1990),0.46
+2005,temperature,Surface Temperature Anomaly,°C (relative to 1961-1990),0.467
+2006,temperature,Surface Temperature Anomaly,°C (relative to 1961-1990),0.472
+2007,temperature,Surface Temperature Anomaly,°C (relative to 1961-1990),0.473
+2008,temperature,Surface Temperature Anomaly,°C (relative to 1961-1990),0.473
+2009,temperature,Surface Temperature Anomaly,°C (relative to 1961-1990),0.472
+2010,temperature,Surface Temperature Anomaly,°C (relative to 1961-1990),0.471
+2011,temperature,Surface Temperature Anomaly,°C (relative to 1961-1990),0.471
+2012,temperature,Surface Temperature Anomaly,°C (relative to 1961-1990),0.471
+2013,temperature,Surface Temperature Anomaly,°C (relative to 1961-1990),0.471
+1700,terrestrial-biosphere,Terrestrial Biosphere Degradation,% decrease in mean species abundance,2.791215549760153
+1750,terrestrial-biosphere,Terrestrial Biosphere Degradation,% decrease in mean species abundance,3.535661551699519
+1800,terrestrial-biosphere,Terrestrial Biosphere Degradation,% decrease in mean species abundance,4.560471445461815
+1850,terrestrial-biosphere,Terrestrial Biosphere Degradation,% decrease in mean species abundance,6.13123368735188
+1900,terrestrial-biosphere,Terrestrial Biosphere Degradation,% decrease in mean species abundance,9.197370055512721
+1950,terrestrial-biosphere,Terrestrial Biosphere Degradation,% decrease in mean species abundance,13.985401781320007
+2000,terrestrial-biosphere,Terrestrial Biosphere Degradation,% decrease in mean species abundance,28.57658752713668
+2050,terrestrial-biosphere,Terrestrial Biosphere Degradation,% decrease in mean species abundance,37.50123728166904
+1750,tropical-forest,Tropical Forest Loss,%,0.9665414060336552
+1751,tropical-forest,Tropical Forest Loss,%,0.986556164138796
+1752,tropical-forest,Tropical Forest Loss,%,1.0073655024331734
+1753,tropical-forest,Tropical Forest Loss,%,1.0280687490254294
+1754,tropical-forest,Tropical Forest Loss,%,1.0482691558265418
+1755,tropical-forest,Tropical Forest Loss,%,1.069168137131748
+1756,tropical-forest,Tropical Forest Loss,%,1.0896285652214341
+1757,tropical-forest,Tropical Forest Loss,%,1.1102706358788397
+1758,tropical-forest,Tropical Forest Loss,%,1.1304210839041828
+1759,tropical-forest,Tropical Forest Loss,%,1.1513410384690392
+1760,tropical-forest,Tropical Forest Loss,%,1.1717580118499846
+1761,tropical-forest,Tropical Forest Loss,%,1.1933079182986492
+1762,tropical-forest,Tropical Forest Loss,%,1.2139858555865755
+1763,tropical-forest,Tropical Forest Loss,%,1.2352276200768004
+1764,tropical-forest,Tropical Forest Loss,%,1.2561506381514842
+1765,tropical-forest,Tropical Forest Loss,%,1.277050137896831
+1766,tropical-forest,Tropical Forest Loss,%,1.2980774566986435
+1767,tropical-forest,Tropical Forest Loss,%,1.3191822116028857
+1768,tropical-forest,Tropical Forest Loss,%,1.3396456560714884
+1769,tropical-forest,Tropical Forest Loss,%,1.3604462280146326
+1770,tropical-forest,Tropical Forest Loss,%,1.3816383636455511
+1771,tropical-forest,Tropical Forest Loss,%,1.4023687576480228
+1772,tropical-forest,Tropical Forest Loss,%,1.4242389187016873
+1773,tropical-forest,Tropical Forest Loss,%,1.4456606290464953
+1774,tropical-forest,Tropical Forest Loss,%,1.4668923075197415
+1775,tropical-forest,Tropical Forest Loss,%,1.4882083032098017
+1776,tropical-forest,Tropical Forest Loss,%,1.509968036516665
+1777,tropical-forest,Tropical Forest Loss,%,1.5312705998943672
+1778,tropical-forest,Tropical Forest Loss,%,1.5528370492961456
+1779,tropical-forest,Tropical Forest Loss,%,1.5740716970173627
+1780,tropical-forest,Tropical Forest Loss,%,1.5957486212968532
+1781,tropical-forest,Tropical Forest Loss,%,1.6179831986280586
+1782,tropical-forest,Tropical Forest Loss,%,1.6401937863207154
+1783,tropical-forest,Tropical Forest Loss,%,1.66233989891407
+1784,tropical-forest,Tropical Forest Loss,%,1.6840999621373784
+1785,tropical-forest,Tropical Forest Loss,%,1.7063231809167356
+1786,tropical-forest,Tropical Forest Loss,%,1.7285040289985263
+1787,tropical-forest,Tropical Forest Loss,%,1.750386349829679
+1788,tropical-forest,Tropical Forest Loss,%,1.7726279496680362
+1789,tropical-forest,Tropical Forest Loss,%,1.7948705863866568
+1790,tropical-forest,Tropical Forest Loss,%,1.8165815863216745
+1791,tropical-forest,Tropical Forest Loss,%,1.839762175489776
+1792,tropical-forest,Tropical Forest Loss,%,1.8624233347826913
+1793,tropical-forest,Tropical Forest Loss,%,1.8849126547393489
+1794,tropical-forest,Tropical Forest Loss,%,1.9079456769952585
+1795,tropical-forest,Tropical Forest Loss,%,1.9310385555202383
+1796,tropical-forest,Tropical Forest Loss,%,1.9542129705377387
+1797,tropical-forest,Tropical Forest Loss,%,1.9770648215351239
+1798,tropical-forest,Tropical Forest Loss,%,2.000109720782987
+1799,tropical-forest,Tropical Forest Loss,%,2.023114888664863
+1800,tropical-forest,Tropical Forest Loss,%,2.0463403936002176
+1801,tropical-forest,Tropical Forest Loss,%,2.075606103048882
+1802,tropical-forest,Tropical Forest Loss,%,2.1049259187943172
+1803,tropical-forest,Tropical Forest Loss,%,2.1343061563798735
+1804,tropical-forest,Tropical Forest Loss,%,2.1639099359215037
+1805,tropical-forest,Tropical Forest Loss,%,2.193921680711255
+1806,tropical-forest,Tropical Forest Loss,%,2.2227715069171508
+1807,tropical-forest,Tropical Forest Loss,%,2.252304731470753
+1808,tropical-forest,Tropical Forest Loss,%,2.2814524722253418
+1809,tropical-forest,Tropical Forest Loss,%,2.3109047258574567
+1810,tropical-forest,Tropical Forest Loss,%,2.339934120870597
+1811,tropical-forest,Tropical Forest Loss,%,2.371635886208714
+1812,tropical-forest,Tropical Forest Loss,%,2.4021193643820347
+1813,tropical-forest,Tropical Forest Loss,%,2.433293357672052
+1814,tropical-forest,Tropical Forest Loss,%,2.464643149295651
+1815,tropical-forest,Tropical Forest Loss,%,2.495705630827693
+1816,tropical-forest,Tropical Forest Loss,%,2.52724634981035
+1817,tropical-forest,Tropical Forest Loss,%,2.5584945743002194
+1818,tropical-forest,Tropical Forest Loss,%,2.589599143744294
+1819,tropical-forest,Tropical Forest Loss,%,2.62079500578144
+1820,tropical-forest,Tropical Forest Loss,%,2.6527571223245587
+1821,tropical-forest,Tropical Forest Loss,%,2.6847548698436094
+1822,tropical-forest,Tropical Forest Loss,%,2.7170917243358725
+1823,tropical-forest,Tropical Forest Loss,%,2.7486845701166294
+1824,tropical-forest,Tropical Forest Loss,%,2.7810730329668694
+1825,tropical-forest,Tropical Forest Loss,%,2.813328398097539
+1826,tropical-forest,Tropical Forest Loss,%,2.8453657355898287
+1827,tropical-forest,Tropical Forest Loss,%,2.877933107414406
+1828,tropical-forest,Tropical Forest Loss,%,2.9105809317203293
+1829,tropical-forest,Tropical Forest Loss,%,2.943125539310281
+1830,tropical-forest,Tropical Forest Loss,%,2.9759314407236586
+1831,tropical-forest,Tropical Forest Loss,%,3.0130192805290683
+1832,tropical-forest,Tropical Forest Loss,%,3.049268614127305
+1833,tropical-forest,Tropical Forest Loss,%,3.0857489834979797
+1834,tropical-forest,Tropical Forest Loss,%,3.122306977494779
+1835,tropical-forest,Tropical Forest Loss,%,3.158618995217325
+1836,tropical-forest,Tropical Forest Loss,%,3.195016555560626
+1837,tropical-forest,Tropical Forest Loss,%,3.2324542010582054
+1838,tropical-forest,Tropical Forest Loss,%,3.269230976788097
+1839,tropical-forest,Tropical Forest Loss,%,3.3059189578637107
+1840,tropical-forest,Tropical Forest Loss,%,3.3425913386046355
+1841,tropical-forest,Tropical Forest Loss,%,3.3798199584696382
+1842,tropical-forest,Tropical Forest Loss,%,3.4171184734898143
+1843,tropical-forest,Tropical Forest Loss,%,3.4545207707969783
+1844,tropical-forest,Tropical Forest Loss,%,3.4919436171855085
+1845,tropical-forest,Tropical Forest Loss,%,3.5292977466918964
+1846,tropical-forest,Tropical Forest Loss,%,3.5669218892420154
+1847,tropical-forest,Tropical Forest Loss,%,3.604311649724318
+1848,tropical-forest,Tropical Forest Loss,%,3.6416958958889274
+1849,tropical-forest,Tropical Forest Loss,%,3.679400962229587
+1850,tropical-forest,Tropical Forest Loss,%,3.716859156808515
+1851,tropical-forest,Tropical Forest Loss,%,3.7849254908455623
+1852,tropical-forest,Tropical Forest Loss,%,3.852701498412154
+1853,tropical-forest,Tropical Forest Loss,%,3.921460845504674
+1854,tropical-forest,Tropical Forest Loss,%,3.990503779346033
+1855,tropical-forest,Tropical Forest Loss,%,4.0591348832038046
+1856,tropical-forest,Tropical Forest Loss,%,4.12702947216645
+1857,tropical-forest,Tropical Forest Loss,%,4.196322765457671
+1858,tropical-forest,Tropical Forest Loss,%,4.265475655736619
+1859,tropical-forest,Tropical Forest Loss,%,4.334311354920413
+1860,tropical-forest,Tropical Forest Loss,%,4.402998167526252
+1861,tropical-forest,Tropical Forest Loss,%,4.474918632589661
+1862,tropical-forest,Tropical Forest Loss,%,4.5467926265654315
+1863,tropical-forest,Tropical Forest Loss,%,4.619609097559057
+1864,tropical-forest,Tropical Forest Loss,%,4.691490538220263
+1865,tropical-forest,Tropical Forest Loss,%,4.764772144268591
+1866,tropical-forest,Tropical Forest Loss,%,4.8364649669858535
+1867,tropical-forest,Tropical Forest Loss,%,4.909167805330066
+1868,tropical-forest,Tropical Forest Loss,%,4.982811329717159
+1869,tropical-forest,Tropical Forest Loss,%,5.0556294974239036
+1870,tropical-forest,Tropical Forest Loss,%,5.128808310934561
+1871,tropical-forest,Tropical Forest Loss,%,5.214557695045371
+1872,tropical-forest,Tropical Forest Loss,%,5.301607138468069
+1873,tropical-forest,Tropical Forest Loss,%,5.3882577600412525
+1874,tropical-forest,Tropical Forest Loss,%,5.475581835337897
+1875,tropical-forest,Tropical Forest Loss,%,5.563032928465366
+1876,tropical-forest,Tropical Forest Loss,%,5.64971022613957
+1877,tropical-forest,Tropical Forest Loss,%,5.737264818768527
+1878,tropical-forest,Tropical Forest Loss,%,5.824364268097923
+1879,tropical-forest,Tropical Forest Loss,%,5.9120761837396065
+1880,tropical-forest,Tropical Forest Loss,%,5.999864357210705
+1881,tropical-forest,Tropical Forest Loss,%,6.085299142426975
+1882,tropical-forest,Tropical Forest Loss,%,6.170282224900884
+1883,tropical-forest,Tropical Forest Loss,%,6.2611870247538866
+1884,tropical-forest,Tropical Forest Loss,%,6.347401543919416
+1885,tropical-forest,Tropical Forest Loss,%,6.433070616941629
+1886,tropical-forest,Tropical Forest Loss,%,6.51921806880724
+1887,tropical-forest,Tropical Forest Loss,%,6.606317093958334
+1888,tropical-forest,Tropical Forest Loss,%,6.693752869536632
+1889,tropical-forest,Tropical Forest Loss,%,6.781008275082061
+1890,tropical-forest,Tropical Forest Loss,%,6.8691565287860215
+1891,tropical-forest,Tropical Forest Loss,%,6.965203170676128
+1892,tropical-forest,Tropical Forest Loss,%,7.060985408102051
+1893,tropical-forest,Tropical Forest Loss,%,7.1564191123706555
+1894,tropical-forest,Tropical Forest Loss,%,7.25221544194181
+1895,tropical-forest,Tropical Forest Loss,%,7.348028125942401
+1896,tropical-forest,Tropical Forest Loss,%,7.445015689529957
+1897,tropical-forest,Tropical Forest Loss,%,7.541855497681661
+1898,tropical-forest,Tropical Forest Loss,%,7.639353347745816
+1899,tropical-forest,Tropical Forest Loss,%,7.737795842850138
+1900,tropical-forest,Tropical Forest Loss,%,7.8396640017823
+1901,tropical-forest,Tropical Forest Loss,%,7.97146811898399
+1902,tropical-forest,Tropical Forest Loss,%,8.09479672987763
+1903,tropical-forest,Tropical Forest Loss,%,8.219178386928693
+1904,tropical-forest,Tropical Forest Loss,%,8.348660929246897
+1905,tropical-forest,Tropical Forest Loss,%,8.474765032919647
+1906,tropical-forest,Tropical Forest Loss,%,8.597486079116749
+1907,tropical-forest,Tropical Forest Loss,%,8.719947905250915
+1908,tropical-forest,Tropical Forest Loss,%,8.848650713619875
+1909,tropical-forest,Tropical Forest Loss,%,8.974994572285368
+1910,tropical-forest,Tropical Forest Loss,%,9.099133033786488
+1911,tropical-forest,Tropical Forest Loss,%,9.228912218118515
+1912,tropical-forest,Tropical Forest Loss,%,9.360169192463752
+1913,tropical-forest,Tropical Forest Loss,%,9.487235332486371
+1914,tropical-forest,Tropical Forest Loss,%,9.627948277679458
+1915,tropical-forest,Tropical Forest Loss,%,9.765941061794129
+1916,tropical-forest,Tropical Forest Loss,%,9.874784502702932
+1917,tropical-forest,Tropical Forest Loss,%,9.984683629100683
+1918,tropical-forest,Tropical Forest Loss,%,10.093378701871636
+1919,tropical-forest,Tropical Forest Loss,%,10.20665697387866
+1920,tropical-forest,Tropical Forest Loss,%,10.325729002815526
+1921,tropical-forest,Tropical Forest Loss,%,10.497952314678459
+1922,tropical-forest,Tropical Forest Loss,%,10.66762923716696
+1923,tropical-forest,Tropical Forest Loss,%,10.842024530371608
+1924,tropical-forest,Tropical Forest Loss,%,11.012636483192512
+1925,tropical-forest,Tropical Forest Loss,%,11.191958748567549
+1926,tropical-forest,Tropical Forest Loss,%,11.364637109468188
+1927,tropical-forest,Tropical Forest Loss,%,11.546344576469412
+1928,tropical-forest,Tropical Forest Loss,%,11.722054586702251
+1929,tropical-forest,Tropical Forest Loss,%,11.913684102224414
+1930,tropical-forest,Tropical Forest Loss,%,12.093092428660349
+1931,tropical-forest,Tropical Forest Loss,%,12.272657041228744
+1932,tropical-forest,Tropical Forest Loss,%,12.45607088320777
+1933,tropical-forest,Tropical Forest Loss,%,12.6392763122562
+1934,tropical-forest,Tropical Forest Loss,%,12.82711848126642
+1935,tropical-forest,Tropical Forest Loss,%,13.01489391289315
+1936,tropical-forest,Tropical Forest Loss,%,13.2537241498389
+1937,tropical-forest,Tropical Forest Loss,%,13.4581257206465
+1938,tropical-forest,Tropical Forest Loss,%,13.629395526856175
+1939,tropical-forest,Tropical Forest Loss,%,13.855047110065092
+1940,tropical-forest,Tropical Forest Loss,%,14.031841461386572
+1941,tropical-forest,Tropical Forest Loss,%,14.199418465710858
+1942,tropical-forest,Tropical Forest Loss,%,14.393798730278856
+1943,tropical-forest,Tropical Forest Loss,%,14.63460248025997
+1944,tropical-forest,Tropical Forest Loss,%,14.808732426382033
+1945,tropical-forest,Tropical Forest Loss,%,15.009534844443328
+1946,tropical-forest,Tropical Forest Loss,%,15.268990184915104
+1947,tropical-forest,Tropical Forest Loss,%,15.434873681002898
+1948,tropical-forest,Tropical Forest Loss,%,15.652237197574728
+1949,tropical-forest,Tropical Forest Loss,%,15.857318820434656
+1950,tropical-forest,Tropical Forest Loss,%,16.166654463685823
+1951,tropical-forest,Tropical Forest Loss,%,16.438343011628586
+1952,tropical-forest,Tropical Forest Loss,%,16.834870009504183
+1953,tropical-forest,Tropical Forest Loss,%,17.12435052707805
+1954,tropical-forest,Tropical Forest Loss,%,17.342402155089623
+1955,tropical-forest,Tropical Forest Loss,%,17.60479497731436
+1956,tropical-forest,Tropical Forest Loss,%,17.904195516779584
+1957,tropical-forest,Tropical Forest Loss,%,18.224632518445212
+1958,tropical-forest,Tropical Forest Loss,%,18.49846099870374
+1959,tropical-forest,Tropical Forest Loss,%,18.758948930513398
+1960,tropical-forest,Tropical Forest Loss,%,19.03693167150021
+1961,tropical-forest,Tropical Forest Loss,%,19.21071124635905
+1962,tropical-forest,Tropical Forest Loss,%,19.33104341471814
+1963,tropical-forest,Tropical Forest Loss,%,19.46435279925972
+1964,tropical-forest,Tropical Forest Loss,%,19.60170809054331
+1965,tropical-forest,Tropical Forest Loss,%,19.681768395498743
+1966,tropical-forest,Tropical Forest Loss,%,19.79971484379152
+1967,tropical-forest,Tropical Forest Loss,%,19.917687025566895
+1968,tropical-forest,Tropical Forest Loss,%,20.063625423050098
+1969,tropical-forest,Tropical Forest Loss,%,20.12629738757785
+1970,tropical-forest,Tropical Forest Loss,%,20.172687032990012
+1971,tropical-forest,Tropical Forest Loss,%,20.199196290551473
+1972,tropical-forest,Tropical Forest Loss,%,20.419207292322255
+1973,tropical-forest,Tropical Forest Loss,%,20.570326886161176
+1974,tropical-forest,Tropical Forest Loss,%,20.742687113348236
+1975,tropical-forest,Tropical Forest Loss,%,20.880419263472387
+1976,tropical-forest,Tropical Forest Loss,%,21.051671301325015
+1977,tropical-forest,Tropical Forest Loss,%,21.204690978225113
+1978,tropical-forest,Tropical Forest Loss,%,21.373209469817915
+1979,tropical-forest,Tropical Forest Loss,%,21.524943697991468
+1980,tropical-forest,Tropical Forest Loss,%,21.65192297572755
+1981,tropical-forest,Tropical Forest Loss,%,21.778731403876712
+1982,tropical-forest,Tropical Forest Loss,%,21.89632521862208
+1983,tropical-forest,Tropical Forest Loss,%,22.01694384871616
+1984,tropical-forest,Tropical Forest Loss,%,22.12622461743655
+1985,tropical-forest,Tropical Forest Loss,%,22.315413552500914
+1986,tropical-forest,Tropical Forest Loss,%,22.489637807594942
+1987,tropical-forest,Tropical Forest Loss,%,22.674667721708037
+1988,tropical-forest,Tropical Forest Loss,%,22.829658649359313
+1989,tropical-forest,Tropical Forest Loss,%,22.894947181202152
+1990,tropical-forest,Tropical Forest Loss,%,23.00040379416164
+1991,tropical-forest,Tropical Forest Loss,%,22.95204765822127
+1992,tropical-forest,Tropical Forest Loss,%,23.18874720051169
+1993,tropical-forest,Tropical Forest Loss,%,23.461923907270197
+1994,tropical-forest,Tropical Forest Loss,%,23.73510056689778
+1995,tropical-forest,Tropical Forest Loss,%,24.00827722652537
+1996,tropical-forest,Tropical Forest Loss,%,24.281453886152953
+1997,tropical-forest,Tropical Forest Loss,%,24.554630498649622
+1998,tropical-forest,Tropical Forest Loss,%,24.827807205408124
+1999,tropical-forest,Tropical Forest Loss,%,25.100983865035705
+2000,tropical-forest,Tropical Forest Loss,%,25.374160524663292
+2001,tropical-forest,Tropical Forest Loss,%,25.596802233025308
+2002,tropical-forest,Tropical Forest Loss,%,25.819443894256406
+2003,tropical-forest,Tropical Forest Loss,%,26.042085649749346
+2004,tropical-forest,Tropical Forest Loss,%,26.264727310980447
+2005,tropical-forest,Tropical Forest Loss,%,26.48736901934246
+2006,tropical-forest,Tropical Forest Loss,%,26.71001072770447
+2007,tropical-forest,Tropical Forest Loss,%,26.93265234180465
+2008,tropical-forest,Tropical Forest Loss,%,27.15529409729759
+2009,tropical-forest,Tropical Forest Loss,%,27.37793571139777
+2010,tropical-forest,Tropical Forest Loss,%,27.60057746689071
+2011,tropical-forest,Tropical Forest Loss,%,27.66315762038527
