@@ -1,0 +1,160 @@
+{
+  "name": "project-drawdown",
+  "title": "Project Drawdown Climate Solutions",
+  "description": "Ranked table of ~150 climate solutions analysed by Project Drawdown, a leading research organisation that identifies and models the most effective ways to reduce greenhouse gas emissions. Each solution includes its sector, implementation mode, estimated GHG impact (Gt CO₂-eq per year over a 100-year horizon), cost, and co-benefits. Solutions are classified as Highly Recommended, Worthwhile, Keep Watching, or Not Recommended.",
+  "homepage": "https://drawdown.org/solutions",
+  "version": "2024",
+  "licenses": [
+    {
+      "name": "CC-BY-4.0",
+      "path": "https://creativecommons.org/licenses/by/4.0/",
+      "title": "Creative Commons Attribution 4.0 International"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Project Drawdown",
+      "path": "https://drawdown.org/solutions",
+      "title": "Project Drawdown Solutions"
+    }
+  ],
+  "resources": [
+    {
+      "name": "solutions",
+      "path": "data/solutions.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "action",
+            "type": "string",
+            "description": "Verb describing the solution type (e.g. Deploy, Improve, Protect)"
+          },
+          {
+            "name": "solution",
+            "type": "string",
+            "description": "Name of the climate solution"
+          },
+          {
+            "name": "solution_classification",
+            "type": "string",
+            "description": "Project Drawdown ranking: Highly Recommended, Worthwhile, Keep Watching, or Not Recommended"
+          },
+          {
+            "name": "mode",
+            "type": "string",
+            "description": "Implementation approach: Cut Emissions, Remove Carbon, or both"
+          },
+          {
+            "name": "sector",
+            "type": "string",
+            "description": "Industry or domain (Electricity, Transportation, Buildings & Industry, FALO & Nature-Based Carbon Removal, etc.)"
+          },
+          {
+            "name": "cluster",
+            "type": "string",
+            "description": "Strategic grouping of related solutions"
+          },
+          {
+            "name": "adoption_unit",
+            "type": "string",
+            "description": "Unit of measurement for deployment of this solution"
+          },
+          {
+            "name": "effectiveness_tco2eq_per_unit",
+            "type": "string",
+            "description": "CO₂-equivalent reduction per unit of adoption over 100 years (t CO₂-eq)"
+          },
+          {
+            "name": "adoption_current",
+            "type": "string",
+            "description": "Current global deployment level"
+          },
+          {
+            "name": "adoption_achievable_range",
+            "type": "string",
+            "description": "Range of achievable future deployment by 2050"
+          },
+          {
+            "name": "ghg_impact_gt_co2eq_yr",
+            "type": "string",
+            "description": "Estimated total GHG impact in gigatons of CO₂-equivalent per year over 100 years (range)"
+          },
+          {
+            "name": "cost_usd_per_t_co2eq",
+            "type": "string",
+            "description": "Net cost in USD per tonne of CO₂-equivalent reduced. Negative values indicate net savings."
+          },
+          {
+            "name": "climate_pollutants_mitigated",
+            "type": "string",
+            "description": "Greenhouse gases targeted (CO₂, CH₄, N₂O, F-gases, BC)"
+          },
+          {
+            "name": "speed_of_action",
+            "type": "string",
+            "description": "Implementation timeline: Emergency Brake (immediate), Gradual, or Delayed"
+          },
+          {
+            "name": "climate_adaptation_benefits",
+            "type": "string",
+            "description": "Climate resilience co-benefits"
+          },
+          {
+            "name": "environment_benefits",
+            "type": "string",
+            "description": "Ecological co-benefits"
+          },
+          {
+            "name": "human_wellbeing_benefits",
+            "type": "string",
+            "description": "Social and health co-benefits"
+          }
+        ]
+      }
+    }
+  ],
+  "views": [
+    {
+      "name": "ghg-impact-by-sector",
+      "title": "Solutions by Sector",
+      "resources": ["solutions"],
+      "specType": "vega-lite",
+      "spec": {
+        "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+        "mark": "bar",
+        "transform": [
+          {
+            "filter": "datum.ghg_impact_gt_co2eq_yr !== ''"
+          }
+        ],
+        "encoding": {
+          "x": {
+            "field": "solution",
+            "type": "nominal",
+            "title": "Solution",
+            "sort": "-y",
+            "axis": { "labelAngle": -45 }
+          },
+          "y": {
+            "field": "ghg_impact_gt_co2eq_yr",
+            "type": "quantitative",
+            "title": "GHG Impact (Gt CO₂-eq/yr)"
+          },
+          "color": {
+            "field": "sector",
+            "type": "nominal",
+            "title": "Sector"
+          },
+          "tooltip": [
+            { "field": "solution", "type": "nominal", "title": "Solution" },
+            { "field": "sector", "type": "nominal", "title": "Sector" },
+            { "field": "ghg_impact_gt_co2eq_yr", "type": "quantitative", "title": "GHG Impact (Gt CO₂-eq/yr)" },
+            { "field": "solution_classification", "type": "nominal", "title": "Classification" }
+          ]
+        }
+      }
+    }
+  ]
+}

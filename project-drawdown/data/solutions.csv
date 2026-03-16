@@ -1,0 +1,185 @@
+action,solution,solution_classification,mode,sector,cluster,adoption_unit,effectiveness_tco2eq_per_unit,adoption_current,adoption_achievable_range,ghg_impact_gt_co2eq_yr,cost_usd_per_t_co2eq,climate_pollutants_mitigated,speed_of_action,climate_adaptation_benefits,environment_benefits,human_wellbeing_benefits
+Deploy,Alternative Insulation Materials,Highly Recommended,Cut Emissions,Buildings & Industry,Improve Materials,insulation units of 100 m² and 1 m²·K/W,1.59,1.4×10⁷/yr,2.9×10⁷ to 7.3×10⁷/yr,0.05 to 0.12,-121.00,"CO₂,
+ F-gas",Emergency Brake,,Water resources,"Income & work, Health"
+Deploy,Alternative Refrigerants,Highly Recommended,Cut Emissions,Buildings & Industry,Improve Materials,kt high-GWP refrigerant phased out,"460,000/yr",440,"5,500 to 5,900",2.50 to 2.70,50.00,F-gases,Emergency Brake,,"Land resources, Air quality",Income & work
+Improve,Annual Cropping,Highly Recommended,"Cut Emissions, Remove Carbon",FALO & Nature-Based Carbon Removal,Shift Agriculture Practices,ha cropland,1.8/yr,2.674×10⁸,3.317×10⁸ to 7.0×10⁸,0.43 to 1.09,47.80,"CO₂, N₂O",Delayed,"Extreme weather events, Droughts","Nature protection, Land resources, Water quality","Income & work, Food security"
+Increase,Carpooling,Highly Recommended,Cut Emissions,Transportation,Shift to Alternatives,million pkm avoided,54.71,0/yr,4.638×10⁶ to 1.752×10⁷/yr,0.25 to 0.96,-3119.00,"CO₂
+, CH₄, N₂O, BC",Gradual,,Air quality,"Income & work, Health, Equality"
+Improve,Cement Production: Clinker substitution,Highly Recommended,Cut Emissions,"Industry, Materials & Waste",Improve Materials,Mt clinker avoided,"690,000",980/yr,"1,000 to 2,000/yr",0.70 to 1.00,-30.00,CO₂,Gradual,,Air quality,Health
+Improve,Cement Production: Alternative fuels,Highly Recommended,Cut Emissions,"Industry, Materials & Waste",Improve Materials,Mt cement produced using alternative fuels,"96,000",300/yr,"610 to 2,000/yr",0.06 to 0.20,-50.00,CO₂,Gradual,,Air quality,Health
+Improve,Cement Production: Efficiency upgrades,Highly Recommended,Cut Emissions,"Industry, Materials & Waste",Improve Materials,GJ thermal energy input reduced from current levels/yr,0.085,0/yr,8.86×10⁸ to 1.18×10⁹/yr,0.08 to 0.10,-60.00,CO₂,Gradual,,Air quality,Health
+Increase,Centralized Composting,Highly Recommended,Cut Emissions,"Industry, Materials & Waste",Use Waste as a Resource,t organic waste,3.9,7.8×10⁷/yr,2.009×10⁸ to 3.01×10⁸/yr,0.78 to 1.20,10.00,"CO₂,
+ CH₄",Emergency Brake,,"Land resources, Water resources, Air quality","Income & work, Health, Equality"
+Deploy,Clean Cooking,Highly Recommended,Cut Emissions,Buildings,Shift Energy Sources,household switching to cleaner cooking,2.3/yr,,4.2×10⁸ to 4.2×10⁸,0.98 to 0.98,27.00,"CO₂, CH₄,
+ BC",Emergency Brake,,"Nature protection, Air quality","Income & work, Health, Equality"
+Manage,Coal Mine Methane,Highly Recommended,Cut Emissions,Other Energy,Cut Fugitive Emissions,Mt methane abated,2.79×10⁷,0.59/yr,2.83 to 4.4/yr,0.08 to 0.12,-3.17,"CH₄
+, N₂O, BC",Emergency Brake,,Air quality,Health
+Protect,Coastal Wetlands: Mangrove ecosystems,Highly Recommended,Cut Emissions,FALO & Nature-Based Carbon Removal,Protect & Manage Ecosystems,ha protected,7.88/yr,2.94×10⁶,7.85×10⁶ to 1.1×10⁷,0.06 to 0.09,1.00,CO₂,Emergency Brake,Extreme weather events,"Nature protection, Land resources, Water quality","Income & work, Food security, Equality"
+Protect,Coastal Wetlands: Salt marsh ecosystems,Highly Recommended,Cut Emissions,FALO & Nature-Based Carbon Removal,Protect & Manage Ecosystems,ha protected,4.78/yr,1.24×10⁶,3.75×10⁶ to 5.25×10⁶,0.02 to 0.03,2.00,CO₂,Emergency Brake,Extreme weather events,"Nature protection, Land resources, Water quality","Income & work, Food security, Equality"
+Protect,Coastal Wetlands: Seagrass ecosystems,Highly Recommended,Cut Emissions,FALO & Nature-Based Carbon Removal,Protect & Manage Ecosystems,ha protected,3.56/yr,3.86×10⁶,1.57×10⁷ to 2.2×10⁷,0.06 to 0.08,-6.00,CO₂,Emergency Brake,Extreme weather events,"Nature protection, Land resources, Water quality","Income & work, Food security, Equality"
+Improve,Diets,Highly Recommended,Cut Emissions,"Food, Agriculture, Land & Ocean (FALO)",Curb Growing Demands,kg avoided ruminant meat,0.065,0/yr,2.14×10¹⁰ to 4.29×10¹⁰/yr,1.40 to 2.80,-8.54,"CO₂,
+ CH₄
+, N₂O",Emergency Brake,,"Nature protection, Land resources, Water resources, Water quality, Air quality","Food security, Health, Equality"
+Mobilize,Electric Bicycles: Private electric bicycles,Highly Recommended,Cut Emissions,Transportation,Electrify Vehicles,"1,000 electric bicycles",110.5/yr,"277,600","421,300 to 1.01×10⁶",0.05 to 0.11,-1748.00,"CO₂, CH₄, N₂O, BC",Gradual,,Air quality,"Income & work, Health"
+Mobilize,Electric Bicycles: Shared electric bicycles,Highly Recommended,Cut Emissions,Transportation,Electrify Vehicles,"1,000 electric bicycles",14.44/yr,"2,000","22,010 to 69,260",0.00 to 0.00,22860.00,"CO₂, CH₄, N₂O, BC",Gradual,,Air quality,"Income & work, Health"
+Mobilize,Electric Cars,Highly Recommended,Cut Emissions,Transportation,Electrify Vehicles,million passenger kilometers (million pkm),48.52,"818,900/yr",2.602×10⁷ to 4.731×10⁷/yr,1.26 to 2.30,-1019.00,"CO₂, CH₄, N₂O, BC",Gradual,,"Water quality, Air quality","Income & work, Health"
+Reduce,Food Loss & Waste,Highly Recommended,Cut Emissions,"Food, Agriculture, Land & Ocean (FALO)",Curb Growing Demands,t reduced FLW,2.82,,4.375×10⁸ to 8.75×10⁸/yr,1.23 to 2.47,-193.99,"CO₂
+, CH₄
+, N₂O",Emergency Brake,Extreme weather events,"Land resources, Water resources","Income & work, Food security, Health"
+Restore,Forests: Boreal,Highly Recommended,Remove Carbon,Nature-Based Carbon Removal,Restore & Manage Ecosystems,ha under restoration,10.21/yr,,9.7×10⁶ to 1.46×10⁷,0.10 to 0.15,53.00,CO₂,Delayed,"Heat stress, Wildfires, Floods, Droughts","Nature protection, Water quality","Income & work, Food security, Health, Equality"
+Protect,Forests: Boreal,Highly Recommended,"Cut Emissions, Remove Carbon",FALO & Nature-Based Carbon Removal,Protect & Manage Ecosystems,ha protected,0.299/yr,4.67×10⁸,8.47×10⁸ to 8.61×10⁸,0.25 to 0.26,2.00,CO₂,Emergency Brake,"Heat stress, Extreme weather events","Nature protection, Water quality","Income & work, Food security, Health, Equality"
+Protect,Forests: Temperate,Highly Recommended,"Cut Emissions, Remove Carbon",FALO & Nature-Based Carbon Removal,Protect & Manage Ecosystems,ha protected,1.403/yr,1.59×10⁸,2.04×10⁸ to 3.78×10⁸,0.29 to 0.53,2.00,CO₂,Emergency Brake,"Heat stress, Extreme weather events","Nature protection, Water quality","Income & work, Food security, Health, Equality"
+Restore,Forests: Temperate,Highly Recommended,Remove Carbon,Nature-Based Carbon Removal,Restore & Manage Ecosystems,ha under restoration,12.11/yr,,9.5×10⁶ to 1.43×10⁷,0.12 to 0.17,53.00,CO₂,Delayed,"Heat stress, Wildfires, Floods, Droughts","Nature protection, Water quality","Income & work, Food security, Health, Equality"
+Protect,Forests: Subtropical,Highly Recommended,"Cut Emissions, Remove Carbon",FALO & Nature-Based Carbon Removal,Protect & Manage Ecosystems,ha protected,2.204/yr,1.12×10⁸,1.26×10⁸ to 2.19×10⁸,0.28 to 0.48,2.00,CO₂,Emergency Brake,"Heat stress, Extreme weather events","Nature protection, Water quality","Income & work, Food security, Health, Equality"
+Restore,Forests: Subtropical,Highly Recommended,Remove Carbon,Nature-Based Carbon Removal,Restore & Manage Ecosystems,ha under restoration,11.78/yr,,1.7×10⁶ to 2.6×10⁶,0.02 to 0.03,53.00,CO₂,Delayed,"Heat stress, Wildfires, Floods, Droughts","Nature protection, Water quality","Income & work, Food security, Health, Equality"
+Protect,Forests: Tropical,Highly Recommended,"Cut Emissions, Remove Carbon",FALO & Nature-Based Carbon Removal,Protect & Manage Ecosystems,ha protected,1.489/yr,9.36×10⁸,1.12×10⁹ to 1.577×10⁹,1.67 to 2.35,2.00,CO₂,Emergency Brake,"Heat stress, Extreme weather events","Nature protection, Water quality","Income & work, Food security, Health, Equality"
+Restore,Forests: Tropical,Highly Recommended,Remove Carbon,Nature-Based Carbon Removal,Restore & Manage Ecosystems,ha under restoration,17.63/yr,,2.74×10⁷ to 4.11×10⁷,0.48 to 0.73,53.00,CO₂,Delayed,"Heat stress, Wildfires, Floods, Droughts","Nature protection, Water quality","Income & work, Food security, Health, Equality"
+Protect,Grasslands & Savannas: Boreal,Highly Recommended,Cut Emissions and Remove Carbon,FALO & Nature-Based Carbon Removal,Protect & Manage Ecosystems,ha of grassland or savanna protected,0.9/yr,3.386×10⁸,3.386×10⁸ to 3.731×10⁸,0.31 to 0.34,-1.58,"CO₂,
+ N₂O",Emergency Brake,"Floods, Droughts","Nature protection, Land resources, Water resources","Income & work, Food security, Equality"
+Protect,Grasslands & Savannas: Temperate,Highly Recommended,Cut Emissions and Remove Carbon,FALO & Nature-Based Carbon Removal,Protect & Manage Ecosystems,ha of grassland or savanna protected,0.54/yr,1.722×10⁸,3.617×10⁸ to 5.064×10⁸,0.20 to 0.27,-1.58,"CO₂,
+ N₂O",Emergency Brake,"Floods, Droughts","Nature protection, Land resources, Water resources","Income & work, Food security, Equality"
+Protect,Grasslands & Savannas: Subtropical,Highly Recommended,Cut Emissions and Remove Carbon,FALO & Nature-Based Carbon Removal,Protect & Manage Ecosystems,ha of grassland or savanna protected,0.13/yr,2.93×10⁸,3.132×10⁸ to 4.385×10⁸,0.04 to 0.06,-1.58,"CO₂,
+ N₂O",Emergency Brake,"Floods, Droughts","Nature protection, Land resources, Water resources","Income & work, Food security, Equality"
+Protect,Grasslands & Savannas: Tropical,Highly Recommended,Cut Emissions and Remove Carbon,FALO & Nature-Based Carbon Removal,Protect & Manage Ecosystems,ha of grassland or savanna protected,0.06/yr,5.826×10⁸,5.826×10⁸ to 7.059×10⁸,0.03 to 0.04,-1.58,"CO₂,
+ N₂O",Emergency Brake,"Floods, Droughts","Nature protection, Land resources, Water resources","Income & work, Food security, Equality"
+Use,Heat Pumps,Highly Recommended,Cut Emissions,Buildings & Electricity,"Enhance Efficiency, Shift Energy Sources",heat pump systems,0.95/yr,1.3×10⁸,6.0×10⁸ to 9.6×10⁸,0.57 to 0.91,-200.00,"CO₂
+, CH₄, N₂O, BC",Gradual,Heat stress,,"Income & work, Health"
+Mobilize,Hybrid Cars,Highly Recommended,Cut Emissions,Transportation,Enhance Efficiency,million passenger kilometers (million pkm),27.11,1.318×10⁶/yr,1.183×10⁷ to 2.957×10⁷/yr,0.32 to 0.80,264.00,"CO₂
+, N₂O, BC",Gradual,,Air quality,"Income & work, Health"
+Improve,Landfill Management: Methane capture,Highly Recommended,Cut Emissions,"Industry, Materials & Waste",Cut Fugitive Emissions,Mt methane abated,2.79×10⁷,1.59/yr,4.5 to 34.78/yr,0.13 to 0.97,-6.42,"CH₄, N₂O, BC",Emergency Brake,,Air quality,"Income & work, Health, Equality"
+Improve,Landfill Management: Biocovers,Highly Recommended,Cut Emissions,"Industry, Materials & Waste",Cut Fugitive Emissions,Mt methane abated,2.79×10⁷,0/yr,35.13 to 57.04/yr,0.98 to 1.59,0.47,"CH₄, N₂O, BC",Emergency Brake,,Air quality,"Income & work, Health, Equality"
+Deploy,LED Lighting,Highly Recommended,Cut Emissions,Electricity,Enhance Efficiency,% lamps LED,7.09×10⁶/yr,50.5,87 to 92,0.62 to 0.65,-175.00,"CO₂, CH₄, N₂O, BC",Gradual,,"Water quality, Air quality","Income & work, Health"
+Improve,Nonmotorized Transportation,Highly Recommended,Cut Emissions,Transportation,Shift to Alternatives,million passenger kilometers (million pkm),115.6,5.556×10⁶/yr,1.236×10⁷ to 1.634×10⁷/yr,1.43 to 1.89,-1771.00,"CO₂, CH₄, N₂O, BC",Gradual,,"Nature protection, Air quality","Income & work, Health"
+Improve,Nutrient Management,Highly Recommended,Cut Emissions,"Food, Agriculture, Land & Ocean (FALO)",Shift Agriculture Practices,t avoided excess nitrogen application,6,1.045×10⁷/yr,6.985×10⁷ to 9.106×10⁷/yr,0.42 to 0.54,-85.21,N₂O,Gradual,Droughts,Nature protection,"Income & work, Food security, Health"
+Deploy,Offshore Wind Turbines,Highly Recommended,Cut Emissions,Electricity,Shift Production,MW installed capacity,"1,900/yr","73,000",1.0×10⁶ to 1.6×10⁶,1.90 to 3.04,,"CO₂
+, CH₄, N₂O, BC",Gradual,,"Nature protection, Air quality","Income & work, Health"
+Manage,Oil & Gas Methane,Highly Recommended,Cut Emissions,Other Energy,Cut Fugitive Emissions,Mt methane abated,2.79×10⁷,,3.26 to 8.84/yr,0.09 to 0.25,-6.20,"CH₄, N₂O, BC",Emergency Brake,,Air quality,Health
+Deploy,Onshore Wind Turbines,Highly Recommended,Cut Emissions,Electricity,Shift Production,MW installed capacity,"1,700/yr","940,000",3.2×10⁶ to 4.4×10⁶,5.40 to 7.50,,"CO₂
+, CH₄, N₂O, BC",Gradual,,"Nature protection, Water resources, Air quality","Income & work, Health"
+Protect,Peatlands: Boreal,Highly Recommended,Cut Emissions and Remove Carbon,FALO & Nature-Based Carbon Removal,Protect & Manage Ecosystems,ha protected,0.92/yr,5.4×10⁷,1.99×10⁸ to 2.55×10⁸,0.18 to 0.24,0.25,"CO₂
+, CH₄, N₂O",Emergency Brake,Extreme weather events,"Nature protection, Water resources, Water quality","Income & work, Health"
+Protect,Peatlands: Temperate,Highly Recommended,Cut Emissions and Remove Carbon,FALO & Nature-Based Carbon Removal,Protect & Manage Ecosystems,ha protected,4.42/yr,1.3×10⁷,1.8×10⁷ to 2.4×10⁷,0.08 to 0.11,0.25,"CO₂
+, CH₄, N₂O",Emergency Brake,Extreme weather events,"Nature protection, Water resources, Water quality","Income & work, Health"
+Protect,Peatlands: Subtropical,Highly Recommended,Cut Emissions and Remove Carbon,FALO & Nature-Based Carbon Removal,Protect & Manage Ecosystems,ha protected,13.47/yr,3.0×10⁶,9.0×10⁶ to 1.1×10⁷,0.12 to 0.15,0.25,"CO₂
+, CH₄, N₂O",Emergency Brake,Extreme weather events,"Nature protection, Water resources, Water quality","Income & work, Health"
+Protect,Peatlands: Tropical,Highly Recommended,Cut Emissions and Remove Carbon,FALO & Nature-Based Carbon Removal,Protect & Manage Ecosystems,ha protected,13.23/yr,3.5×10⁷,7.2×10⁷ to 9.2×10⁷,0.95 to 1.22,0.25,"CO₂
+, CH₄, N₂O",Emergency Brake,Extreme weather events,"Nature protection, Water resources, Water quality","Income & work, Health"
+Enhance,Public Transit,Highly Recommended,Cut Emissions,Transportation,Shift to Alternatives,million passenger kilometers (million pkm),58.27,6.784×10⁶/yr,1.203×10⁷ to 1.767×10⁷/yr,0.70 to 1.03,-3300.00,"CO₂, CH₄, N₂O, BC",Gradual,,"Nature protection, Air quality","Income & work, Health, Equality"
+Increase,Recycling: Metals,Highly Recommended,Cut Emissions,"Industry, Materials & Waste",Use Waste as a Resource,Mt recycled,1.48×10⁶,740/yr,"1,300 to 1,400/yr",1.90 to 2.10,-100.00,"CO₂
+, CH₄",Gradual,,"Land resources, Water resources, Air quality","Income & work, Health, Equality"
+Increase,Recycling: Paper and Cardboard,Highly Recommended,Cut Emissions,"Industry, Materials & Waste",Use Waste as a Resource,Mt recycled,1.0×10⁶,160/yr,220 to 260/yr,0.22 to 0.26,-400.00,"CO₂
+, CH₄",Gradual,,"Land resources, Water resources, Air quality","Income & work, Health, Equality"
+Increase,Recycling: Plastics,Highly Recommended,Cut Emissions,"Industry, Materials & Waste",Use Waste as a Resource,Mt recycled,2.0×10⁶,35.9/yr,45 to 54/yr,0.09 to 0.10,-4.00,"CO₂
+, CH₄",Gradual,,"Land resources, Water resources, Air quality","Income & work, Health, Equality"
+Increase,Recycling: Glass,Highly Recommended,Cut Emissions,"Industry, Materials & Waste",Use Waste as a Resource,Mt recycled,"79,000",27/yr,36 to 48/yr,0.00 to 0.00,9000.00,"CO₂
+, CH₄",Gradual,,"Land resources, Water resources, Air quality","Income & work, Health, Equality"
+Improve,Rice Production,Highly Recommended,Cut Emissions,"Food, Agriculture, Land & Ocean (FALO)",Shift Agriculture Practices,ha rice paddies,2.03/yr,4.865×10⁷,4.956×10⁷ to 7.753×10⁷,0.10 to 0.16,-175.00,"CH₄
+, N₂O",Emergency Brake,,"Land resources, Water resources, Water quality",Health
+Deploy,Silvopasture,Highly Recommended,Remove Carbon,Nature-Based Carbon Removal,Shift Agriculture Practices,ha converted from grazing land to silvopasture,9.81/yr,1.414×10⁸,1.47×10⁸ to 2.063×10⁸,0.40 to 0.98,43.25,CO₂,Delayed,,"Nature protection, Animal well-being, Water quality","Income & work, Food security"
+Improve,Windows & Glass,Highly Recommended,Cut Emissions,Buildings & Electricity,Enhance Efficiency,m2 windows minimum double-glazed,0.065/yr,1.99×10¹⁰,3.29×10¹⁰ to 4.0×10¹⁰,2.10 to 2.60,-123.00,"CO₂
+, CH₄, N₂O, BC",Gradual,,Air quality,"Income & work, Health"
+Boost,Appliance & Equipment Efficiency,Worthwhile,Cut Emissions,Buildings & Electricity,Enhance Efficiency,—,,,,,,,,,,
+Improve,Aquaculture,Worthwhile,Cut Emissions,"Food, Agriculture, Land & Ocean (FALO)",Shift Agriculture Practices,—,,,,,,,,,,
+Deploy,Electric Irrigation Pumps,Worthwhile,Cut Emissions,"Food, Agriculture, Land & Ocean (FALO)",Fuel Switching,—,,,,,,,,,,
+Improve,Fishing Vessel Efficiency,Worthwhile,Cut Emissions,Transportation,Enhance Efficiency,—,,,,,,,,,,
+Use,Low-Flow Fixtures,Worthwhile,Cut Emissions,Buildings & Electricity,Enhance Efficiency,—,,,,,,,,,,
+Improve,Manure Management,Worthwhile,Cut Emissions,"Food, Agriculture, Land & Ocean (FALO)",Shift Agriculture Practices,—,,,,,,,,,,
+Reduce,Overfishing,Worthwhile,Cut Emissions,"Food, Agriculture, Land & Ocean (FALO)",Restore & Manage Ecosystems,—,,,,,,,,,,
+Deploy,Advanced Geothermal Energy,Keep Watching,Cut Emissions,Electricity,Shift Production,—,,,,,,,,,,
+Reduce,Airplane Contrails,Keep Watching,Other,Transportation,Solar Radiation Management,—,,,,,,,,,,
+Advance,Cultivated Meat,Keep Watching,Cut Emissions,"Food, Agriculture, Land & Ocean (FALO)",Curb Growing Demands,—,,,,,,,,,,
+Deploy,District Cooling,Keep Watching,Cut Emissions,Electricity,Enhance Efficiency,—,,,,,,,,,,
+Improve,District Heating: Industry,Keep Watching,Cut Emissions,"Industry, Materials & Waste",Shift Energy Sources,—,,,,,,,,,,
+Deploy,Enhanced Rock Weathering,Keep Watching,Remove Carbon,Nature-Based Carbon Removal,Manipulate Biogeochemical Cycles,—,,,,,,,,,,
+Use,Feed Additives,Keep Watching,Cut Emissions,"Food, Agriculture, Land & Ocean (FALO)",Shift Agriculture Practices,—,,,,,,,,,,
+Mobilize,Green Hydrogen for Aviation and Trucking,Keep Watching,Cut Emissions,Transportation,Fuel Switching,—,,,,,,,,,,
+Improve,Irrigation Water Use Efficiency,Keep Watching,Cut Emissions,"Food, Agriculture, Land & Ocean (FALO)",Shift Agriculture Practices,—,,,,,,,,,,
+Deploy,Methane Digesters,Keep Watching,Cut Emissions,"Industry, Materials & Waste",Use Waste as a Resource,—,,,,,,,,,,
+Deploy,Micro Wind Turbines,Keep Watching,Cut Emissions,Electricity,Shift Production,—,,,,,,,,,,
+Deploy,Nuclear Fusion,Keep Watching,Cut Emissions,Electricity,Shift Production,—,,,,,,,,,,
+Deploy,Ocean Alkalinity Enhancement,Keep Watching,Remove Carbon,Nature-Based Carbon Removal,Manipulate Biogeochemical Cycles,—,,,,,,,,,,
+Deploy,Ocean Electrochemistry,Keep Watching,Remove Carbon,Nature-Based Carbon Removal,Manipulate Biogeochemical Cycles,—,,,,,,,,,,
+Deploy,Plastic Alternatives / Bioplastics,Keep Watching,Cut Emissions,"Industry, Materials & Waste",Improve Materials,—,,,,,,,,,,
+Improve,Ruminant Breeding,Keep Watching,Cut Emissions,"Food, Agriculture, Land & Ocean (FALO)",Shift Agriculture Practices,—,,,,,,,,,,
+Protect,Seafloors,Keep Watching,Cut Emissions and Remove Carbon,"Food, Agriculture, Land & Ocean (FALO)",Protect & Manage Ecosystems,—,,,,,,,,,,
+Restore,Seaweed Ecosystems,Keep Watching,Remove Carbon,Nature-Based Carbon Removal,Restore & Manage Ecosystems,—,,,,,,,,,,
+Deploy,Seaweed Farming for Food,Keep Watching,Cut Emissions,"Food, Agriculture, Land & Ocean (FALO)",Curb Growing Demands,—,,,,,,,,,,
+Deploy,Small Modular Nuclear Reactors,Keep Watching,Cut Emissions,Electricity,Shift Production,—,,,,,,,,,,
+Improve,Steel Production,Keep Watching,Cut Emissions,"Industry, Materials & Waste","Improve Materials, Shift Energy Sources",—,,,,,,,,,,
+Deploy,Artificial Upwelling,Not Recommended,Remove Carbon,Nature-Based Carbon Removal,Manipulate Biogeochemical Cycles,—,,,,,,,,,,
+Produce,Blue Hydrogen,Not Recommended,Cut Emissions,"Industry, Materials & Waste",Improve Processes,—,,,,,,,,,,
+Use,Carbon Capture & Storage on Fossil Fuel Power Plants,Not Recommended,Cut Emissions,Electricity,Shift Production,—,,,,,,,,,,
+Use,Corn Ethanol,Not Recommended,Cut Emissions,Transportation,Fuel Switching,—,,,,,,,,,,
+Deploy,Direct Air Capture,Not Recommended,Remove Carbon,Industrial Carbon Removal,Carbon Removal & Storage,—,,,,,,,,,,
+Deploy,Insect Farming for Food and Feed,Not Recommended,Cut Emissions,"Food, Agriculture, Land & Ocean (FALO)",Curb Growing Demands,—,,,,,,,,,,
+Deploy,Ocean Biomass Sinking,Not Recommended,"Cut Emissions and Remove Carbon, Remove Carbon",Nature-Based Carbon Removal,Biomass Carbon Removal & Storage,—,,,,,,,,,,
+Deploy,Ocean Fertilization,Not Recommended,Remove Carbon,Nature-Based Carbon Removal,Manipulate Biogeochemical Cycles,—,,,,,,,,,,
+Deploy,Stratospheric Aerosol Injection,Not Recommended,Other,Geoengineering,Solar Radiation Management,—,,,,,,,,,,
+Deploy,Vertical Farms,Not Recommended,Cut Emissions,"Food, Agriculture, Land & Ocean (FALO)",Shift Agriculture Practices,—,,,,,,,,,,
+Deploy,Waste to Energy,Not Recommended,Cut Emissions,Electricity & Industry,"Shift Production, Use Waste as a Resource",—,,,,,,,,,,
+Increase,Urban Vegetation,Highly Recommended,,Buildings & Electricity,Enhance Efficiency,Coming Soon,,,,,,,,,,
+Restore,Abandoned Farmland,Highly Recommended,Remove Carbon,Nature-Based Carbon Removal,Use Degraded Land,Coming Soon,,,,,,,,,,
+Deploy,Agrivoltaics,Highly Recommended,Cut Emissions,Electricity,Shift Production,Coming Soon,,,,,,,,,,
+Deploy,Agroforestry: Trees on Cropland,Highly Recommended,Remove Carbon,Nature-Based Carbon Removal,Shift Agriculture Practices,Coming Soon,,,,,,,,,,
+Deploy,Agroforestry: Multi-strata,Highly Recommended,Remove Carbon,Nature-Based Carbon Removal,Shift Agriculture Practices,Coming Soon,,,,,,,,,,
+Improve,Aviation Efficiency,Highly Recommended,Cut Emissions,Transportation,Enhance Efficiency,Coming Soon,,,,,,,,,,
+Produce,Biochar,Highly Recommended,Remove Carbon,Industrial Carbon Removal,Biomass Carbon Removal & Storage,Coming Soon,,,,,,,,,,
+Deploy,Bioelectricity with Carbon Capture & Storage,Highly Recommended,Cut Emissions,Electricity & Industry,Shift Production,Coming Soon,,,,,,,,,,
+Deploy,Biomass Crops on Degraded Land,Highly Recommended,Remove Carbon,Nature-Based Carbon Removal,Use Degraded Land,Coming Soon,,,,,,,,,,
+Improve,Building Envelopes,Highly Recommended,Cut Emissions,Buildings & Electricity,Enhance Efficiency,Coming Soon,,,,,,,,,,
+Automate,Building Systems,Highly Recommended,Cut Emissions,Buildings & Electricity,Enhance Efficiency,Coming Soon,,,,,,,,,,
+Deploy,Concentrated Solar,Highly Recommended,Cut Emissions,Electricity,Shift Production,Coming Soon,,,,,,,,,,
+Reduce,Crop Residue Burning,Highly Recommended,Cut Emissions,"Food, Agriculture, Land & Ocean (FALO)",Shift Agriculture Practices,Coming Soon,,,,,,,,,,
+Deploy,Distributed Solar PV,Highly Recommended,Cut Emissions,Electricity,Shift Production,Coming Soon,,,,,,,,,,
+Improve,District Heating: Buildings,Highly Recommended,Cut Emissions,Buildings & Electricity,Enhance Efficiency,Coming Soon,,,,,,,,,,
+Mobilize,Electric Scooters & Motorcycles,Highly Recommended,Cut Emissions,Transportation,"Electrify Vehicles, Fuel Switching",Coming Soon,,,,,,,,,,
+Mobilize,Electric Trains,Highly Recommended,Cut Emissions,Transportation,"Electrify Vehicles, Fuel Switching",Coming Soon,,,,,,,,,,
+Mobilize,Electric Trucks & Buses,Highly Recommended,Cut Emissions,Transportation,"Electrify Vehicles, Fuel Switching",Coming Soon,,,,,,,,,,
+Support,Family Planning & Education,Highly Recommended,Society,Health & Education,,Coming Soon,,,,,,,,,,
+Improve,Forest Management: Sustainable Forest Management,Highly Recommended,Cut Emissions,"Food, Agriculture, Land & Ocean (FALO)",Protect & Manage Ecosystems,Coming Soon,,,,,,,,,,
+Improve,Forest Management: Integrated Fire Management,Highly Recommended,Cut Emissions,"Food, Agriculture, Land & Ocean (FALO)",Protect & Manage Ecosystems,Coming Soon,,,,,,,,,,
+Deploy,Geothermal Power,Highly Recommended,Cut Emissions,Electricity,Shift Production,Coming Soon,,,,,,,,,,
+Restore,Grasslands & Savannas: Boreal,Highly Recommended,Remove Carbon,Nature-Based Carbon Removal,Restore & Manage Ecosystems,Coming Soon,,,,,,,,,,
+Restore,Grasslands & Savannas: Temperate,Highly Recommended,Remove Carbon,Nature-Based Carbon Removal,Restore & Manage Ecosystems,Coming Soon,,,,,,,,,,
+Restore,Grasslands & Savannas: Subtropical,Highly Recommended,Remove Carbon,Nature-Based Carbon Removal,Restore & Manage Ecosystems,Coming Soon,,,,,,,,,,
+Restore,Grasslands & Savannas: Tropical,Highly Recommended,Remove Carbon,Nature-Based Carbon Removal,Restore & Manage Ecosystems,Coming Soon,,,,,,,,,,
+Improve,Grid Efficiency,Highly Recommended,Cut Emissions,Electricity,Improve Electrical System,Coming Soon,,,,,,,,,,
+Enhance,High-Speed Rail,Highly Recommended,Cut Emissions,Transportation,Shift to Alternatives,Coming Soon,,,,,,,,,,
+Boost,Industrial Efficiency,Highly Recommended,Cut Emissions,Electricity & Industry,Enhance Efficiency,Coming Soon,,,,,,,,,,
+Increase,Industrial Electrification,Highly Recommended,Cut Emissions,"Industry, Materials & Waste",Improve Processes,Coming Soon,,,,,,,,,,
+Deploy,Industrial Green Hydrogen,Highly Recommended,Cut Emissions,"Industry, Materials & Waste",Improve Processes,kg of hydrogen produced,0.012/yr,1.3×10⁸/yr,2.6×10¹⁰ to 5.0×10¹⁰/yr,0.31 to 0.60,,"CO₂
+,CH₄, N₂O, BC",Gradual,,"Water resources, Air quality","Income & work, Health"
+Improve,Livestock Grazing,Highly Recommended,Remove Carbon,Nature-Based Carbon Removal,Shift Agriculture Practices,Coming Soon,,,,,,,,,,
+Deploy,Low-Emission Industrial Feedstocks,Highly Recommended,Cut Emissions,"Industry, Materials & Waste",Improve Materials,Coming Soon,,,,,,,,,,
+Deploy,Nuclear Power,Highly Recommended,Cut Emissions,Electricity,Shift Production,Coming Soon,,,,,,,,,,
+Improve,Ocean Shipping Efficiency,Highly Recommended,Cut Emissions,Transportation,Enhance Efficiency,Coming Soon,,,,,,,,,,
+Improve,Other Building Materials,Highly Recommended,Cut Emissions,"Industry, Materials & Waste",Improve Materials,Coming Soon,,,,,,,,,,
+Restore,Peatlands: Boreal,Highly Recommended,Remove Carbon,Nature-Based Carbon Removal,Restore & Manage Ecosystems,Coming Soon,,,,,,,,,,
+Restore,Peatlands: Temperate,Highly Recommended,Remove Carbon,Nature-Based Carbon Removal,Restore & Manage Ecosystems,Coming Soon,,,,,,,,,,
+Restore,Peatlands: Subtropical,Highly Recommended,Remove Carbon,Nature-Based Carbon Removal,Restore & Manage Ecosystems,Coming Soon,,,,,,,,,,
+Restore,Peatlands: Tropical,Highly Recommended,Remove Carbon,Nature-Based Carbon Removal,Restore & Manage Ecosystems,Coming Soon,,,,,,,,,,
+Deploy,Perennial Crops,Highly Recommended,Remove Carbon,Nature-Based Carbon Removal,Shift Agriculture Practices,Coming Soon,,,,,,,,,,
+Improve,Refrigerant Management,Highly Recommended,Cut Emissions,Buildings & Industry,Cut Fugitive Emissions,Coming Soon,,,,,,,,,,
+Protect,Seaweed Ecosystems,Highly Recommended,Remove Carbon,Nature-Based Carbon Removal,Restore & Manage Ecosystems,ha of seaweed ecosystem protected,0.32/yr,7.88×10⁷,2.163×10⁸ to 3.029×10⁸,0.07 to 0.10,-72.00,CO₂,Emergency Brake,Extreme weather events,"Nature protection, Water quality","Income & work, Food security, Equality"
+Deploy,Small Hydropower,Highly Recommended,Cut Emissions,Electricity,Shift Production,Coming Soon,,,,,,,,,,
+Deploy,Solar Hot Water,Highly Recommended,Cut Emissions,Buildings,Shift Energy Sources,Coming Soon,,,,,,,,,,
+Improve,Supply Chain Efficiency,Highly Recommended,Cut Emissions,Transportation,Enhance Efficiency,Coming Soon,,,,,,,,,,
+Improve,Truck Efficiency,Highly Recommended,Cut Emissions,Transportation,Enhance Efficiency,Coming Soon,,,,,,,,,,
+Deploy,Utility-Scale Solar PV,Highly Recommended,Cut Emissions,Electricity,Shift Production,Coming Soon,,,,,,,,,,
+Hold,Virtual Meetings,Highly Recommended,Cut Emissions,Transportation,Shift to Alternatives,Coming Soon,,,,,,,,,,
+Increase,Building Deconstruction & Recycling,Worthwhile,Cut Emissions,Buildings & Industry,Use Waste as a Resource,Coming Soon,,,,,,,,,,
+Restore,Coastal Wetlands,Worthwhile,Remove Carbon,Nature-Based Carbon Removal,Restore & Manage Ecosystems,Coming Soon,,,,,,,,,,
+Use,Cool Roofs,Worthwhile,Cut Emissions,Electricity,Enhance Efficiency,Coming Soon,,,,,,,,,,
+Increase,Decentralized Composting,Worthwhile,Cut Emissions,"Industry, Materials & Waste",Use Waste as a Resource,Coming Soon,,,,,,,,,,
+Increase,Green Roofs,Worthwhile,Cut Emissions,Buildings & Electricity,Enhance Efficiency,Coming Soon,,,,,,,,,,
+Boost,Large Herbivore Restoration,Worthwhile,Remove Carbon,Nature-Based Carbon Removal,Restore & Manage Ecosystems,Coming Soon,,,,,,,,,,
+Deploy,Ocean Power,Worthwhile,Cut Emissions,Electricity,Shift Production,Coming Soon,,,,,,,,,,
+Boost,Whale Restoration,Worthwhile,Remove Carbon,Nature-Based Carbon Removal,Restore & Manage Ecosystems,Coming Soon,,,,,,,,,,
+Deploy,Advanced Biofuels,Keep Watching,Cut Emissions,Transportation,"Electrify Vehicles, Fuel Switching",Coming Soon,,,,,,,,,,
+Produce,Bio Bricks,Keep Watching,Remove Carbon,Industrial Carbon Removal,Biomass Carbon Removal & Storage,Coming Soon,,,,,,,,,,
+Produce,Bio Oils,Keep Watching,Remove Carbon,Industrial Carbon Removal,Biomass Carbon Removal & Storage,Coming Soon,,,,,,,,,,
+Use,Methane Removal,Keep Watching,Remove Carbon,Industrial Carbon Removal,Methane Removal,Coming Soon,,,,,,,,,,
+Use,Nitrous Oxide Removal,Keep Watching,Remove Carbon,Industrial Carbon Removal,,Coming Soon,,,,,,,,,,
+Improve,Routing & Logistics,Keep Watching,,Transportation,Enhance Efficiency,Coming Soon,,,,,,,,,,
+Deploy,Sustainable Aviation Fuel,Keep Watching,Cut Emissions,Transportation,Fuel Switching,Coming Soon,,,,,,,,,,
+Increase,Livestock Grazing,Not Recommended,Remove Carbon,Nature-Based Carbon Removal,Shift Agriculture Practices,Coming Soon,,,,,,,,,,
