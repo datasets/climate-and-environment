@@ -1,0 +1,217 @@
+{
+  "name": "carbon-pricing",
+  "title": "Carbon Pricing & Emissions Trading Schemes",
+  "description": "Global carbon pricing initiatives — carbon taxes and emissions trading schemes (ETS) — drawn from the World Bank Carbon Pricing Dashboard. Covers 128 compliance instruments across 70+ jurisdictions with annual price data (USD/tCO₂e) from 1990 to 2024. Includes a supplementary time series of New Zealand ETS monthly NZU spot prices from 2010 to present.",
+  "homepage": "https://carbonpricingdashboard.worldbank.org/",
+  "version": "2024",
+  "status": "active",
+  "licenses": [
+    {
+      "name": "CC-BY-4.0",
+      "path": "https://creativecommons.org/licenses/by/4.0/",
+      "title": "Creative Commons Attribution 4.0 International"
+    }
+  ],
+  "sources": [
+    {
+      "name": "World Bank Carbon Pricing Dashboard",
+      "path": "https://carbonpricingdashboard.worldbank.org/",
+      "title": "World Bank Carbon Pricing Dashboard — State and Trends of Carbon Pricing (April 2024)"
+    },
+    {
+      "name": "theecanmole/nzu",
+      "path": "https://github.com/theecanmole/nzu",
+      "title": "New Zealand Emission Unit (NZU) Prices — theecanmole on GitHub (ODC PDDL)"
+    }
+  ],
+  "resources": [
+    {
+      "name": "carbon-pricing-initiatives",
+      "path": "data/carbon-pricing-initiatives.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "description": "Overview of all compliance carbon pricing initiatives (CPIs) — carbon taxes and ETS — tracked by the World Bank. One row per instrument.",
+      "schema": {
+        "fields": [
+          {
+            "name": "id",
+            "type": "string",
+            "description": "World Bank unique identifier for the instrument (e.g. Tax_FI, ETS_EU)"
+          },
+          {
+            "name": "name",
+            "type": "string",
+            "description": "Full name of the carbon pricing instrument"
+          },
+          {
+            "name": "type",
+            "type": "string",
+            "description": "Instrument type: Carbon tax or ETS (Emissions Trading Scheme)"
+          },
+          {
+            "name": "status",
+            "type": "string",
+            "description": "Implementation status and start year (e.g. Implemented in 1990, Under consideration)"
+          },
+          {
+            "name": "jurisdiction",
+            "type": "string",
+            "description": "Country, region, or subnational jurisdiction covered by the instrument"
+          },
+          {
+            "name": "share_jurisdiction_pct",
+            "type": "number",
+            "description": "Share of the jurisdiction's total GHG emissions covered by this instrument (%)"
+          },
+          {
+            "name": "share_global_pct",
+            "type": "number",
+            "description": "Share of global GHG emissions covered by this instrument (%)"
+          },
+          {
+            "name": "current_price_label",
+            "type": "string",
+            "description": "Current carbon price as of April 2024 (local currency and USD equivalent)"
+          }
+        ]
+      }
+    },
+    {
+      "name": "carbon-prices",
+      "path": "data/carbon-prices.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "description": "Annual carbon prices in USD per tonne of CO₂-equivalent for each initiative, 1990–2024. Long format: one row per initiative per year. Only years with a reported price are included.",
+      "schema": {
+        "fields": [
+          {
+            "name": "initiative",
+            "type": "string",
+            "description": "Name of the carbon pricing instrument"
+          },
+          {
+            "name": "type",
+            "type": "string",
+            "description": "Instrument type: Carbon tax or ETS"
+          },
+          {
+            "name": "jurisdiction",
+            "type": "string",
+            "description": "Country, region, or subnational jurisdiction"
+          },
+          {
+            "name": "region",
+            "type": "string",
+            "description": "World Bank regional grouping"
+          },
+          {
+            "name": "income_group",
+            "type": "string",
+            "description": "World Bank income classification of the jurisdiction"
+          },
+          {
+            "name": "start_year",
+            "type": "integer",
+            "description": "Year the instrument was implemented"
+          },
+          {
+            "name": "year",
+            "type": "integer",
+            "description": "Year of the price observation"
+          },
+          {
+            "name": "price_usd_per_tco2e",
+            "type": "number",
+            "description": "Carbon price in USD per tonne of CO₂-equivalent"
+          }
+        ]
+      }
+    },
+    {
+      "name": "nz-ets-monthly-prices",
+      "path": "data/nz-ets-monthly-prices.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "description": "Monthly mean spot price of New Zealand Emission Units (NZUs) in the NZ Emissions Trading Scheme, from May 2010 to present. Prices are in New Zealand dollars (NZD) per NZU (1 NZU = 1 tonne CO₂-equivalent).",
+      "schema": {
+        "fields": [
+          {
+            "name": "date",
+            "type": "date",
+            "format": "%Y-%m-%d",
+            "description": "Date of the monthly price observation (mid-month)"
+          },
+          {
+            "name": "price_nzd",
+            "type": "number",
+            "description": "Monthly mean NZU spot price in New Zealand dollars (NZD) per tonne CO₂-equivalent"
+          }
+        ]
+      }
+    }
+  ],
+  "views": [
+    {
+      "name": "carbon-prices-over-time",
+      "title": "Carbon Prices by Jurisdiction (1990–2024)",
+      "resources": ["carbon-prices"],
+      "specType": "vega-lite",
+      "spec": {
+        "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+        "mark": {"type": "line", "point": false},
+        "encoding": {
+          "x": {
+            "field": "year",
+            "type": "quantitative",
+            "title": "Year",
+            "axis": {"format": "d"}
+          },
+          "y": {
+            "field": "price_usd_per_tco2e",
+            "type": "quantitative",
+            "title": "Price (USD/tCO₂e)"
+          },
+          "color": {
+            "field": "initiative",
+            "type": "nominal",
+            "title": "Initiative",
+            "legend": {"labelLimit": 200}
+          },
+          "tooltip": [
+            {"field": "initiative", "type": "nominal", "title": "Initiative"},
+            {"field": "jurisdiction", "type": "nominal", "title": "Jurisdiction"},
+            {"field": "type", "type": "nominal", "title": "Type"},
+            {"field": "year", "type": "quantitative", "title": "Year"},
+            {"field": "price_usd_per_tco2e", "type": "quantitative", "title": "Price (USD/tCO₂e)", "format": ".2f"}
+          ]
+        }
+      }
+    },
+    {
+      "name": "nz-ets-prices",
+      "title": "New Zealand ETS Monthly NZU Prices (2010–present)",
+      "resources": ["nz-ets-monthly-prices"],
+      "specType": "vega-lite",
+      "spec": {
+        "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+        "mark": "line",
+        "encoding": {
+          "x": {
+            "field": "date",
+            "type": "temporal",
+            "title": "Date"
+          },
+          "y": {
+            "field": "price_nzd",
+            "type": "quantitative",
+            "title": "NZU Price (NZD/tCO₂e)"
+          },
+          "tooltip": [
+            {"field": "date", "type": "temporal", "title": "Date"},
+            {"field": "price_nzd", "type": "quantitative", "title": "NZU Price (NZD)", "format": ".2f"}
+          ]
+        }
+      }
+    }
+  ]
+}
