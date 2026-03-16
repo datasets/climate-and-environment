@@ -117,41 +117,38 @@
   ],
   "views": [
     {
-      "name": "ghg-impact-by-sector",
-      "title": "Solutions by Sector",
+      "name": "solutions-by-sector",
+      "title": "Climate Solutions by Sector and Classification",
       "resources": ["solutions"],
       "specType": "vega-lite",
       "spec": {
         "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
         "mark": "bar",
-        "transform": [
-          {
-            "filter": "datum.ghg_impact_gt_co2eq_yr !== ''"
-          }
-        ],
         "encoding": {
           "x": {
-            "field": "solution",
-            "type": "nominal",
-            "title": "Solution",
-            "sort": "-y",
-            "axis": { "labelAngle": -45 }
-          },
-          "y": {
-            "field": "ghg_impact_gt_co2eq_yr",
-            "type": "quantitative",
-            "title": "GHG Impact (Gt CO₂-eq/yr)"
-          },
-          "color": {
             "field": "sector",
             "type": "nominal",
-            "title": "Sector"
+            "title": "Sector",
+            "axis": {"labelAngle": -30}
+          },
+          "y": {
+            "aggregate": "count",
+            "title": "Number of Solutions",
+            "axis": {"grid": false}
+          },
+          "color": {
+            "field": "solution_classification",
+            "type": "nominal",
+            "title": "Classification",
+            "scale": {
+              "domain": ["Highly Recommended", "Worthwhile", "Keep Watching", "Not Recommended"],
+              "range": ["#27ae60", "#2980b9", "#f39c12", "#e74c3c"]
+            }
           },
           "tooltip": [
-            { "field": "solution", "type": "nominal", "title": "Solution" },
-            { "field": "sector", "type": "nominal", "title": "Sector" },
-            { "field": "ghg_impact_gt_co2eq_yr", "type": "quantitative", "title": "GHG Impact (Gt CO₂-eq/yr)" },
-            { "field": "solution_classification", "type": "nominal", "title": "Classification" }
+            {"field": "sector", "type": "nominal", "title": "Sector"},
+            {"field": "solution_classification", "type": "nominal", "title": "Classification"},
+            {"aggregate": "count", "title": "Number of Solutions"}
           ]
         }
       }
