@@ -1,0 +1,156 @@
+{
+  "name": "hyde",
+  "title": "HYDE: History Database of the Global Environment",
+  "description": "12,000 years of global population and land use history. HYDE 3.3 provides annual to millennial estimates of world population and agricultural land use (cropland, pasture) from 10,000 BCE to 2023 CE, based on archaeological, historical, and census sources. Developed by the Netherlands Environmental Assessment Agency (PBL) and Utrecht University.",
+  "homepage": "https://www.pbl.nl/en/hyde-history-database-of-the-global-environment",
+  "version": "3.3.0",
+  "licenses": [
+    {
+      "name": "CC-BY-4.0",
+      "path": "https://creativecommons.org/licenses/by/4.0/",
+      "title": "Creative Commons Attribution 4.0 International"
+    }
+  ],
+  "sources": [
+    {
+      "name": "HYDE 3.3",
+      "path": "https://doi.org/10.24416/UU01-94FNH0",
+      "title": "Klein Goldewijk, K., Beusen, A., Doelman, J. & Stehfest, E. (2017, updated 2024). Anthropogenic land use estimates for the Holocene — HYDE 3.3. Netherlands Environmental Assessment Agency (PBL) / Utrecht University."
+    }
+  ],
+  "contributors": [
+    {
+      "title": "Kees Klein Goldewijk",
+      "role": "author"
+    },
+    {
+      "title": "Arthur Beusen",
+      "role": "author"
+    },
+    {
+      "title": "Jonathan Doelman",
+      "role": "author"
+    },
+    {
+      "title": "Elke Stehfest",
+      "role": "author"
+    }
+  ],
+  "resources": [
+    {
+      "name": "population",
+      "path": "data/population.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "description": "Global human population from 10,000 BCE to 2023 CE. Values are total world population in persons, derived by summing HYDE 3.3 regional baseline estimates. Negative years denote BCE.",
+      "schema": {
+        "fields": [
+          {
+            "name": "year",
+            "type": "integer",
+            "description": "Year of observation. Negative values are BCE (e.g. -10000 = 10,000 BCE). Spacing is millennial before 1 CE, then decadal to 1700, then annual to 2023."
+          },
+          {
+            "name": "population",
+            "type": "integer",
+            "description": "Total world population (persons)"
+          }
+        ]
+      }
+    },
+    {
+      "name": "land-use",
+      "path": "data/land-use.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "description": "Global agricultural land use from 10,000 BCE to 2023 CE. Covers cropland (all cultivated area) and pasture (managed grazing land). Areas in km².",
+      "schema": {
+        "fields": [
+          {
+            "name": "year",
+            "type": "integer",
+            "description": "Year of observation. Negative values are BCE."
+          },
+          {
+            "name": "indicator",
+            "type": "string",
+            "description": "Land use type: 'cropland' (all cultivated area) or 'pasture' (managed grazing land)"
+          },
+          {
+            "name": "area_km2",
+            "type": "number",
+            "description": "Total global area in km²"
+          }
+        ]
+      }
+    }
+  ],
+  "views": [
+    {
+      "name": "world-population-history",
+      "title": "World Population: 10,000 BCE to 2023",
+      "resources": ["population"],
+      "specType": "vega-lite",
+      "spec": {
+        "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+        "mark": {"type": "line", "color": "#2980b9"},
+        "encoding": {
+          "x": {
+            "field": "year",
+            "type": "quantitative",
+            "title": "Year",
+            "axis": {"format": "d"}
+          },
+          "y": {
+            "field": "population",
+            "type": "quantitative",
+            "title": "Population",
+            "axis": {"format": "~s"}
+          },
+          "tooltip": [
+            {"field": "year", "type": "quantitative", "title": "Year"},
+            {"field": "population", "type": "quantitative", "title": "Population", "format": ","}
+          ]
+        }
+      }
+    },
+    {
+      "name": "agricultural-land-use",
+      "title": "Global Agricultural Land Use: 10,000 BCE to 2023",
+      "resources": ["land-use"],
+      "specType": "vega-lite",
+      "spec": {
+        "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+        "mark": {"type": "line"},
+        "encoding": {
+          "x": {
+            "field": "year",
+            "type": "quantitative",
+            "title": "Year",
+            "axis": {"format": "d"}
+          },
+          "y": {
+            "field": "area_km2",
+            "type": "quantitative",
+            "title": "Area (km²)",
+            "axis": {"format": "~s"}
+          },
+          "color": {
+            "field": "indicator",
+            "type": "nominal",
+            "title": "Land Use",
+            "scale": {
+              "domain": ["cropland", "pasture"],
+              "range": ["#e67e22", "#27ae60"]
+            }
+          },
+          "tooltip": [
+            {"field": "year", "type": "quantitative", "title": "Year"},
+            {"field": "indicator", "type": "nominal", "title": "Type"},
+            {"field": "area_km2", "type": "quantitative", "title": "Area (km²)", "format": ",.0f"}
+          ]
+        }
+      }
+    }
+  ]
+}
