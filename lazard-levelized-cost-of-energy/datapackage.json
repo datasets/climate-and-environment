@@ -118,41 +118,6 @@
       }
     },
     {
-      "name": "lcoe-by-technology-2023",
-      "title": "Levelized Cost of Energy by Technology (2023)",
-      "resources": ["lcoe"],
-      "specType": "vega-lite",
-      "spec": {
-        "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-        "transform": [
-          {"filter": "datum.year === 2023"}
-        ],
-        "layer": [
-          {
-            "mark": {"type": "bar", "color": "#bdc3c7"},
-            "encoding": {
-              "x": {"field": "lcoe_low", "type": "quantitative"},
-              "x2": {"field": "lcoe_high"},
-              "y": {
-                "field": "technology",
-                "type": "nominal",
-                "sort": {"field": "lcoe_low", "order": "ascending"},
-                "title": null
-              }
-            }
-          }
-        ],
-        "encoding": {
-          "tooltip": [
-            {"field": "technology", "type": "nominal", "title": "Technology"},
-            {"field": "lcoe_low", "type": "quantitative", "title": "Low ($/MWh)"},
-            {"field": "lcoe_high", "type": "quantitative", "title": "High ($/MWh)"}
-          ]
-        },
-        "title": "Unsubsidized LCOE Ranges, 2023 ($/MWh)"
-      }
-    },
-    {
       "name": "lcoe-all-technologies",
       "title": "LCOE Midpoint by Technology Over Time",
       "resources": ["lcoe"],
