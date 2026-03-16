@@ -1,6 +1,6 @@
 # Lazard Levelized Cost of Energy (LCOE)
 
-Annual benchmark of the unsubsidized levelized cost of energy ($/MWh) for utility-scale generation technologies. Published by Lazard since 2008.
+Annual benchmark of the unsubsidized levelized cost of energy (\$/MWh) for utility-scale generation technologies. Published by Lazard since 2008.
 
 ## Data
 
@@ -18,13 +18,13 @@ Annual benchmark of the unsubsidized levelized cost of energy ($/MWh) for utilit
 | `coal` | Coal | 2008 |
 | `nuclear` | Nuclear | 2008 |
 
-**Units:** Nominal USD per MWh (unsubsidized)
+**Units:** Nominal USD per MWh (unsubsidized, i.e. pre-subsidy)
 
 ## Key Finding
 
-Solar PV costs fell ~93% from 2008 to 2023 (midpoint: ~$398/MWh → ~$60/MWh). Onshore wind fell ~60% over the same period. By 2020, both were cheaper than new-build coal or nuclear across nearly all scenarios.
+Solar PV costs fell ~93% from 2008 to 2023 (midpoint: ~\$398/MWh → ~\$60/MWh). Onshore wind fell ~60% over the same period. By 2020, both were cheaper than new-build coal or nuclear across nearly all scenarios.
 
-Notable exception: the 2022 report (v16.0) showed solar costs widening to $24–$96/MWh due to supply chain inflation after a decade of steady decline.
+Notable exception: the 2022 report (v16.0) showed solar costs widening to \$24–\$96/MWh due to supply chain inflation after a decade of steady decline.
 
 ## Source
 
