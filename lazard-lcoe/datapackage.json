@@ -1,0 +1,196 @@
+{
+  "name": "lazard-lcoe",
+  "title": "Lazard Levelized Cost of Energy (LCOE) Analysis",
+  "description": "Annual benchmark of the unsubsidized levelized cost of energy ($/MWh) for utility-scale renewable and conventional generation technologies, from Lazard's LCOE Analysis series (v1.0–v17.0, 2008–2023). Covers utility-scale solar PV, onshore wind, offshore wind, gas combined cycle, gas peaker, coal, and nuclear. Ranges reflect low and high estimates across plant configurations, financing structures, and geographies.",
+  "homepage": "https://www.lazard.com/research-insights/lazards-levelized-cost-of-energyplus/",
+  "version": "1.0.0",
+  "status": "published",
+  "licenses": [
+    {
+      "name": "ODC-PDDL",
+      "path": "https://opendatacommons.org/licenses/pddl/1-0/",
+      "title": "Open Data Commons Public Domain Dedication and License"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Lazard LCOE Analysis",
+      "path": "https://www.lazard.com/research-insights/lazards-levelized-cost-of-energyplus/",
+      "title": "Lazard's Levelized Cost of Energy Analysis, Versions 1.0–17.0 (2008–2023)"
+    }
+  ],
+  "contributors": [
+    {
+      "title": "Lazard",
+      "role": "author"
+    }
+  ],
+  "resources": [
+    {
+      "name": "lcoe",
+      "path": "data/lcoe.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "description": "Unsubsidized levelized cost of energy ($/MWh, nominal) for seven generation technologies, reported annually from Lazard LCOE v1.0 (2008) through v17.0 (2023). Each row gives the low and high range published in that year's report.",
+      "schema": {
+        "fields": [
+          {
+            "name": "year",
+            "type": "integer",
+            "description": "Year the Lazard report was published (and for which costs are estimated)"
+          },
+          {
+            "name": "version",
+            "type": "number",
+            "description": "Lazard LCOE report version number (e.g., 1.0, 10.0, 16.0)"
+          },
+          {
+            "name": "technology_id",
+            "type": "string",
+            "description": "Machine-readable technology identifier (e.g., 'solar-pv-utility', 'wind-onshore')"
+          },
+          {
+            "name": "technology",
+            "type": "string",
+            "description": "Human-readable technology name"
+          },
+          {
+            "name": "lcoe_low",
+            "type": "number",
+            "description": "Low end of unsubsidized LCOE range, in nominal USD per MWh"
+          },
+          {
+            "name": "lcoe_high",
+            "type": "number",
+            "description": "High end of unsubsidized LCOE range, in nominal USD per MWh"
+          }
+        ]
+      }
+    }
+  ],
+  "views": [
+    {
+      "name": "solar-wind-cost-decline",
+      "title": "Solar PV and Wind Cost Decline (2008–2023)",
+      "resources": ["lcoe"],
+      "specType": "vega-lite",
+      "spec": {
+        "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+        "transform": [
+          {
+            "filter": "datum.technology_id === 'solar-pv-utility' || datum.technology_id === 'wind-onshore'"
+          },
+          {
+            "calculate": "(datum.lcoe_low + datum.lcoe_high) / 2",
+            "as": "lcoe_mid"
+          }
+        ],
+        "mark": {"type": "line", "point": true},
+        "encoding": {
+          "x": {
+            "field": "year",
+            "type": "quantitative",
+            "title": "Year",
+            "axis": {"format": "d"}
+          },
+          "y": {
+            "field": "lcoe_mid",
+            "type": "quantitative",
+            "title": "LCOE Midpoint ($/MWh)"
+          },
+          "color": {
+            "field": "technology",
+            "type": "nominal",
+            "title": "Technology",
+            "scale": {
+              "domain": ["Utility-Scale Solar PV", "Onshore Wind"],
+              "range": ["#f39c12", "#27ae60"]
+            }
+          },
+          "tooltip": [
+            {"field": "year", "type": "quantitative", "title": "Year"},
+            {"field": "technology", "type": "nominal", "title": "Technology"},
+            {"field": "lcoe_low", "type": "quantitative", "title": "Low ($/MWh)"},
+            {"field": "lcoe_high", "type": "quantitative", "title": "High ($/MWh)"},
+            {"field": "lcoe_mid", "type": "quantitative", "title": "Midpoint ($/MWh)", "format": ".0f"}
+          ]
+        }
+      }
+    },
+    {
+      "name": "lcoe-by-technology-2023",
+      "title": "Levelized Cost of Energy by Technology (2023)",
+      "resources": ["lcoe"],
+      "specType": "vega-lite",
+      "spec": {
+        "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+        "transform": [
+          {"filter": "datum.year === 2023"}
+        ],
+        "layer": [
+          {
+            "mark": {"type": "bar", "color": "#bdc3c7"},
+            "encoding": {
+              "x": {"field": "lcoe_low", "type": "quantitative"},
+              "x2": {"field": "lcoe_high"},
+              "y": {
+                "field": "technology",
+                "type": "nominal",
+                "sort": {"field": "lcoe_low", "order": "ascending"},
+                "title": null
+              }
+            }
+          }
+        ],
+        "encoding": {
+          "tooltip": [
+            {"field": "technology", "type": "nominal", "title": "Technology"},
+            {"field": "lcoe_low", "type": "quantitative", "title": "Low ($/MWh)"},
+            {"field": "lcoe_high", "type": "quantitative", "title": "High ($/MWh)"}
+          ]
+        },
+        "title": "Unsubsidized LCOE Ranges, 2023 ($/MWh)"
+      }
+    },
+    {
+      "name": "lcoe-all-technologies",
+      "title": "LCOE Midpoint by Technology Over Time",
+      "resources": ["lcoe"],
+      "specType": "vega-lite",
+      "spec": {
+        "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+        "transform": [
+          {
+            "calculate": "(datum.lcoe_low + datum.lcoe_high) / 2",
+            "as": "lcoe_mid"
+          }
+        ],
+        "mark": {"type": "line", "point": true},
+        "encoding": {
+          "x": {
+            "field": "year",
+            "type": "quantitative",
+            "title": "Year",
+            "axis": {"format": "d"}
+          },
+          "y": {
+            "field": "lcoe_mid",
+            "type": "quantitative",
+            "title": "LCOE Midpoint ($/MWh)"
+          },
+          "color": {
+            "field": "technology",
+            "type": "nominal",
+            "title": "Technology"
+          },
+          "tooltip": [
+            {"field": "year", "type": "quantitative", "title": "Year"},
+            {"field": "technology", "type": "nominal", "title": "Technology"},
+            {"field": "lcoe_low", "type": "quantitative", "title": "Low ($/MWh)"},
+            {"field": "lcoe_high", "type": "quantitative", "title": "High ($/MWh)"}
+          ]
+        }
+      }
+    }
+  ]
+}
