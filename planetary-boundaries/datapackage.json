@@ -138,11 +138,15 @@
   "views": [
     {
       "name": "boundary-status",
-      "title": "Planetary Boundary Status",
+      "title": "Planetary Boundary Status (ratio to safe limit)",
       "resources": ["boundaries"],
       "specType": "vega-lite",
       "spec": {
         "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+        "transform": [
+          {"calculate": "datum.current_value / datum.boundary_value", "as": "ratio"},
+          {"calculate": "datum.boundary_exceeded === 'true' ? 'Exceeded' : 'Within safe zone'", "as": "status"}
+        ],
         "mark": {"type": "bar", "cornerRadiusTopLeft": 3, "cornerRadiusTopRight": 3},
         "encoding": {
           "x": {
@@ -153,18 +157,20 @@
             "axis": {"labelAngle": -45}
           },
           "y": {
-            "field": "current_value",
+            "field": "ratio",
             "type": "quantitative",
-            "title": "Current Value"
+            "title": "Current value as ratio of safe limit (1.0 = boundary)",
+            "axis": {"grid": false}
           },
           "color": {
-            "field": "boundary_exceeded",
+            "field": "status",
             "type": "nominal",
-            "scale": {"domain": [true, false], "range": ["#e74c3c", "#2ecc71"]},
-            "title": "Boundary Exceeded"
+            "scale": {"domain": ["Exceeded", "Within safe zone"], "range": ["#e74c3c", "#2ecc71"]},
+            "title": "Status"
           },
           "tooltip": [
             {"field": "name", "type": "nominal", "title": "Boundary"},
+            {"field": "ratio", "type": "quantitative", "format": ".2f", "title": "Ratio to safe limit"},
             {"field": "current_value", "type": "quantitative", "title": "Current Value"},
             {"field": "boundary_value", "type": "quantitative", "title": "Safe Limit"},
             {"field": "unit", "type": "nominal", "title": "Unit"},
