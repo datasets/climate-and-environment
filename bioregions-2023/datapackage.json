@@ -1,0 +1,113 @@
+{
+  "name": "bioregions-2023",
+  "title": "Bioregions 2023",
+  "description": "One Earth's Bioregions 2023 framework — 185 discrete bioregions organized within 52 subrealms, 14 realms, and 8 major biogeographical realms. A novel biogeographical classification of Earth's terrestrial surface, building on RESOLVE Ecoregions 2017 (844 ecoregions) and offering a nature-based alternative to political geography for conservation planning.",
+  "homepage": "https://www.oneearth.org/bioregions-2023/",
+  "version": "1.0.0",
+  "status": "structured",
+  "licenses": [
+    {
+      "name": "CC-BY-NC-4.0",
+      "path": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "title": "Creative Commons Attribution-NonCommercial 4.0 International"
+    }
+  ],
+  "sources": [
+    {
+      "name": "One Earth Bioregions 2023",
+      "path": "https://www.oneearth.org/bioregions-2023/",
+      "title": "Bioregions 2023 — One Earth"
+    },
+    {
+      "name": "Dinerstein et al. 2017",
+      "path": "https://doi.org/10.1093/biosci/bix014",
+      "title": "An Ecoregion-Based Approach to Protecting Half the Terrestrial Realm, BioScience 2017 (RESOLVE Ecoregions 2017 — underlying framework)"
+    }
+  ],
+  "contributors": [
+    {
+      "title": "One Earth",
+      "role": "author",
+      "path": "https://www.oneearth.org"
+    }
+  ],
+  "resources": [
+    {
+      "name": "bioregions",
+      "path": "data/bioregions.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "description": "All 185 One Earth bioregions with their classification within the biogeographical hierarchy: biogeographic realm (8), One Earth realm (14), and subrealm (52). Each bioregion is identified by a two-letter realm code plus a number (e.g. NA1, AT12, PA53).",
+      "schema": {
+        "fields": [
+          {
+            "name": "code",
+            "type": "string",
+            "description": "Bioregion identifier: two-letter biogeographic realm prefix (NA, NT, PA, AT, IM, AU, OC, AN) followed by a number (e.g. NA1, AT12, PA53)"
+          },
+          {
+            "name": "name",
+            "type": "string",
+            "description": "Full name of the bioregion (e.g. 'Greater Eurasian Tundra', 'Amazon River Estuary')"
+          },
+          {
+            "name": "biogeographic_realm",
+            "type": "string",
+            "description": "One of the eight traditional biogeographic realms: Nearctic, Neotropical, Palearctic, Afrotropical, Indomalayan, Australasian, Oceanian, Antarctic"
+          },
+          {
+            "name": "realm",
+            "type": "string",
+            "description": "One Earth realm — 14 intermediate geographic divisions. The Nearctic splits into Subarctic America and Northern America; Neotropical into Central America and Southern America; Palearctic into Subarctic Eurasia, Western Eurasia, Central Eurasia, Eastern Eurasia, and Southern Eurasia. The remaining five biogeographic realms each map to a single One Earth realm."
+          },
+          {
+            "name": "subrealm",
+            "type": "string",
+            "description": "One Earth subrealm — 52 named groupings of ecologically related bioregions within each realm (e.g. 'Canadian Boreal Forests', 'Mediterranean', 'Amazonia')"
+          }
+        ]
+      }
+    }
+  ],
+  "views": [
+    {
+      "name": "bioregions-by-realm",
+      "title": "Bioregions by Biogeographic Realm",
+      "resources": ["bioregions"],
+      "specType": "vega-lite",
+      "spec": {
+        "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+        "mark": "bar",
+        "transform": [
+          {
+            "aggregate": [{"op": "count", "as": "count"}],
+            "groupby": ["biogeographic_realm"]
+          },
+          {"sort": [{"field": "count", "order": "descending"}]}
+        ],
+        "encoding": {
+          "x": {
+            "field": "biogeographic_realm",
+            "type": "nominal",
+            "title": "Biogeographic Realm",
+            "sort": "-y"
+          },
+          "y": {
+            "field": "count",
+            "type": "quantitative",
+            "title": "Number of Bioregions"
+          },
+          "color": {
+            "field": "biogeographic_realm",
+            "type": "nominal",
+            "legend": null
+          },
+          "tooltip": [
+            {"field": "biogeographic_realm", "type": "nominal", "title": "Realm"},
+            {"field": "count", "type": "quantitative", "title": "Bioregions"}
+          ]
+        }
+      }
+    }
+  ]
+}
