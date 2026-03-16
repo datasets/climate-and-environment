@@ -1,5 +1,5 @@
 {
-  "name": "lazard-lcoe",
+  "name": "lazard-levelized-cost-of-energy",
   "title": "Lazard Levelized Cost of Energy (LCOE) Analysis",
   "description": "Annual benchmark of the unsubsidized levelized cost of energy ($/MWh) for utility-scale renewable and conventional generation technologies, from Lazard's LCOE Analysis series (v1.0–v17.0, 2008–2023). Covers utility-scale solar PV, onshore wind, offshore wind, gas combined cycle, gas peaker, coal, and nuclear. Ranges reflect low and high estimates across plant configurations, financing structures, and geographies.",
   "homepage": "https://www.lazard.com/research-insights/lazards-levelized-cost-of-energyplus/",
